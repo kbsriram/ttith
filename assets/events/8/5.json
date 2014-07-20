@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "NASA launched Voyager 1 after a brief delay. Although it was launched 16 days after Voyager 2, it's faster flight path would take it past Jupiter first.",
+      "links" : [
+         "http://pds.jpl.nasa.gov/planets/welcome/voyager.htm"
+      ],
+      "year" : "1977"
+   },
+   {
+      "text" : "The last IBM 7030, AKA STRETCH, mainframe computer was decommissioned at Brigham Young University.",
+      "links" : [
+         "http://www.computerhistory.org/tdih/September/5/"
+      ],
+      "year" : "1980"
+   },
+   {
+      "text" : "Apple introduced the iPod Touch, bringing the multitouch first introduced on the iPhone, to its popular iPod line.",
+      "links" : [
+         "http://www.apple.com/pr/library/2007/09/05Apple-Unveils-iPod-touch.html"
+      ],
+      "year" : "2007"
+   }
+]

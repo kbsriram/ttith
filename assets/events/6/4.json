@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Bell Labs held a press conference announcing the invention of the junction transistor. Dr. William Shockley was featured at the conference.",
+      "links" : [
+         "http://www.computerhistory.org/semiconductor/timeline/1951-First.html"
+      ],
+      "year" : "1951"
+   },
+   {
+      "text" : "The five-year-old MIT computer Whirlwind added the ability to input data directly with a keyboard. Programmers began to enjoy independence from punch cards.",
+      "links" : [
+         "http://www.computerhistory.org/tdih/July/4/"
+      ],
+      "year" : "1956"
+   },
+   {
+      "text" : "Sabeer Bhatia and Jack Smith launched a free web email service called HoTMaiL, a play on HTML. Microsoft bought it a year later, and called it Hotmail for years, but it's now Outlook.com.",
+      "links" : [
+         "http://windowsteamblog.com/windows_live/b/windowslive/archive/2010/01/06/a-short-history-of-hotmail.aspx"
+      ],
+      "year" : "1996"
+   }
+]

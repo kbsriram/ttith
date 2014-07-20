@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "Rene Descartes published \"Discourse on the Method for Guiding One's Reason and Searching for Truth in the Sciences\", which formed the basis of the modern scientific method. It's also the source of the quote \"I think, therefore I am.\"",
+      "links" : [
+         "http://books.google.com/books?id=UPGVFEDVc0wC&pg=PA226&lpg=PA226&dq=descartes+1637+june+8&source=bl&ots=IRzDxujrmz&sig=8Zo5pCV6q5e18OY_U4o26FCcwB4&hl=en&sa=X&ei=x3iqUaOyCumdiAK4zIH4DA&ved=0CCwQ6AEwADgK#v=onepage&q=descartes%201637%20june%208&f=false"
+      ],
+      "year" : "1637"
+   },
+   {
+      "text" : "George Orwell's book Nineteen Eighty-Four was published. The book still affects notions of privacy and inspired the iconic Apple commercial that introduced the Macintosh computer.",
+      "links" : [
+         "http://www.guardian.co.uk/books/2009/may/10/1984-george-orwell"
+      ],
+      "year" : "1949"
+   },
+   {
+      "text" : "Tim Berners-Lee was born in London. He grew up to develop the World Wide Web.",
+      "links" : [
+         "http://www.w3.org/People/Berners-Lee/Longer.html"
+      ],
+      "year" : "1955"
+   },
+   {
+      "text" : "Apple announced Mac OS X 10.6 Snow Leopard.",
+      "links" : [
+         "http://www.macobserver.com/tmo/article/Apple_Announces_Mac_OS_X_Snow_Leopard/"
+      ],
+      "year" : "2008"
+   }
+]

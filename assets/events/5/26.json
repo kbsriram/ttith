@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "At 5:30 PM the world's first nuclear power station was connected to the power grid in Obninsk, U.S.S.R., a small town 60 miles south of Moscow.",
+      "links" : [
+         "http://www.iaea.org/newscenter/news/2004/obninsk.html"
+      ],
+      "year" : "1954"
+   },
+   {
+      "text" : "At 8:01 AM, a supermarket cashier scanned a 10-pack of Wrigley's chewing gum across a bar-code scanner at Marsh Supermarket in Troy, Ohio. It was the first product ever checked out by Universal Product Code.",
+      "links" : [
+         "http://www.nytimes.com/2009/06/26/technology/26barcode.html"
+      ],
+      "year" : "1974"
+   },
+   {
+      "text" : "The US Supreme Court struck down a portion of the Communications Decency Act as violating the first amendment protecting free speech.",
+      "links" : [
+         "http://articles.cnn.com/1997-06-26/us/9706_26_cda.overturned.hfr_1_indecent-material-federal-appeals-panels-sexually-explicit-material?_s=PM:US"
+      ],
+      "year" : "1997"
+   },
+   {
+      "text" : "Google's Advanced Technology and Projects lab stole the show at the Google I/O developer conference, with a demonstration of Project Tango's 3D-mapping capability and Project Ara's modular phone.",
+      "links" : [
+         "http://mashable.com/2014/06/26/google-project-tango-ara/"
+      ],
+      "year" : "2014"
+   }
+]

@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "Alan Turing submitted his paper \"On Computable Numbers, with an Application to the Entscheidungsproblem\" for publication in which he postulated hypothetical Turing Machines would be capable of performing any conceivable mathematical computation if it were representable as an algorithm.",
+      "links" : [
+         "http://www.cs.ox.ac.uk/activities/ieg/e-library/sources/tp2-ie.pdf"
+      ],
+      "year" : "1936"
+   },
+   {
+      "text" : "A committee of government, military and business computer experts met at the Pentagon and laid the foundations for the COBOL computer language.",
+      "links" : [
+         "http://www.cnn.com/TECH/computing/9906/09/1959.idg/"
+      ],
+      "year" : "1959"
+   },
+   {
+      "text" : "The U.S.S.R. launched Mars 3. It would arrive at Mars in December and its lander would become the first spacecraft to land successfully on Mars.",
+      "links" : [
+         "http://spider.seds.org/mars/mars-l.html"
+      ],
+      "year" : "1971"
+   },
+   {
+      "text" : "Apple announced it would acquire Beats Electronics and Beats Music for $3 billion. Dr. Dre and Jimmy Iovine would join the company with the titles of 'Jimmy' and 'Dre.'",
+      "links" : [
+         "http://recode.net/2014/05/28/apple-buys-beats-for-3-billion/"
+      ],
+      "year" : "2014"
+   }
+]

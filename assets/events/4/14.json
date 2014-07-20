@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "The United States launched Skylab, the country's first space station as part of the Apollo space program.",
+      "links" : [
+         "http://www.geog.ucsb.edu/~jeff/115a/history/skylab.html"
+      ],
+      "year" : "1973"
+   },
+   {
+      "text" : "According to his Facebook profile Mark Zuckerberg was born in Dobbs Ferry, New York. He would grow up to found Facebook.",
+      "links" : [
+         "https://www.facebook.com/zuck/info"
+      ],
+      "year" : "1984"
+   },
+   {
+      "text" : "Texas Instruments decided to take on the dominance of Intel, announcing its own 486 microprocessor chip. Cyrix corp. designed the chip for TI, but it proved unsuccessful in weakening Intel's dominance.",
+      "links" : [
+         "http://www.thefreelibrary.com/CUSTOMERS+SAMPLE+NEW+MICROPROCESSOR+FROM+TI%3B+VOLUME+PRODUCTION...-a012136206"
+      ],
+      "year" : "1992"
+   }
+]

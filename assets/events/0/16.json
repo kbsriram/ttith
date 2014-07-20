@@ -1,0 +1,24 @@
+[
+   {
+      "text" : "The Soyuz 4 and Soyuz 5 spacecraft successfully docked in orbit. Yevgeny Khrunov moved from Soyuz-5 to Soyuz-4 and Alexei Yeliseyev went from 4 to 5, marking the first time spacefarers went up in one craft and returned to Earth in another.",
+      "links" : [
+         "http://www.britannica.com/EBchecked/media/129953/Soyuz-4-commander-Vladimir-Shatalov-using-models-to-demonstrate-how",
+         "http://www.svengrahn.pp.se/trackind/soyuz45/soyuz45.html"
+      ],
+      "year" : "1969"
+   },
+   {
+      "text" : "The Internet Engineering Task Force (IETF) met for the first time in San Diego to supervise the design and deployment of Internet protocol.",
+      "links" : [
+         "http://www.ietf.org/25years"
+      ],
+      "year" : "1986"
+   },
+   {
+      "text" : "Blizzard released the first expansion to it's wildly successful World of Warcraft game. The Burning Crusade raised the level cap and allowed players flying mounts, at least when they were in Outland.",
+      "links" : [
+         "http://eu.blizzard.com/en-gb/company/press/pressreleases.html?id=10006144"
+      ],
+      "year" : "2007"
+   }
+]

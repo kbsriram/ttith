@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Tappan introduced the first microwave oven for home use. It sold for $1,295. Raytheon developed the Radarrange after engineer Percy LeBaron Spencer was working on an active radar set and accidentally melted a candy bar in his pocket.",
+      "links" : [
+         "http://www.wired.com/thisdayintech/2010/10/1025home-microwave-ovens/"
+      ],
+      "year" : "1955"
+   },
+   {
+      "text" : "VAX/VMS was born. At a shareholder meeting, DEC the Digital Equipment Corporation released VMS v1.0 the first version of what we later be called OpenVMS, along with the VAX 11/780 architecture which increased the PDP-11 address space.",
+      "links" : [
+         "http://h71000.www7.hp.com/openvms/30th/t_past_text.html"
+      ],
+      "year" : "1977"
+   },
+   {
+      "text" : "Microsoft Windows XP hit retail shelves for the first time.",
+      "links" : [
+         "http://windows.microsoft.com/en-US/windows/history"
+      ],
+      "year" : "2001"
+   }
+]

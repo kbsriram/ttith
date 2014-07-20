@@ -1,0 +1,24 @@
+[
+   {
+      "text" : "Chinese astronomers observed a new broom-shaped \"star\" in the sky. It was the first confirmed sighting of Halley's Comet.",
+      "links" : [
+         "http://books.google.com/books?id=t4YZUcjx6poC&pg=PT715&lpg=PT715&dq=march+30,+240+bc&source=bl&ots=XreRSAzoKf&sig=BECHjmucFVttbRVLwZ20XQFJ5Vw&hl=en&sa=X&ei=0SQjU4fdB8yGoQTAkYCYBA&ved=0CGIQ6AEwBzgK#v=onepage&q=march%2030%2C%20240%20bc&f=false"
+      ],
+      "year" : "240 BC"
+   },
+   {
+      "text" : "Bell Telephone Laboratories announced the invention of a new kind of electric eye called the phototransistor. Dr. John Northrup Shive invented the transistor, which operated by light rather than electricity.",
+      "links" : [
+         "http://news.google.com/newspapers?nid=1338&dat=19500330&id=peNXAAAAIBAJ&sjid=q_UDAAAAIBAJ&pg=6844,5863885"
+      ],
+      "year" : "1950"
+   },
+   {
+      "text" : "The Census UNIVAC System was accepted and subsequently devoted almost exclusively to tabulating results of the 1950 Census of Population and Housing. It was the first UNIVAC and was capable of completing 1,905 operations per second, which it stored on magnetic tape.",
+      "links" : [
+         "http://dl.acm.org/citation.cfm?id=1434773",
+         "http://www.computerhistory.org/tdih/March/30/"
+      ],
+      "year" : "1951"
+   }
+]

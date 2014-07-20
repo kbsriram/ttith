@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Jay Forrester filed a patent application for matrix core memory. Professor Forrester led a team at MIT that developed a three-dimensional magnetic structure code-named Project Whirlwind. It was the first random access memory that was practical, reliable and relatively high-speed.",
+      "links" : [
+         "http://www.maths.tcd.ie/~onash/magnetic_core_memory_reborn_files/2736880_FORRESTER.pdf"
+      ],
+      "year" : "1951"
+   },
+   {
+      "text" : "Daniel Bricklin and Robert Frankston gave the first demonstration of VisiCalc, the program that made the Apple II popular with businesses.",
+      "links" : [
+         "http://www.computerhistory.org/tdih/May/11/"
+      ],
+      "year" : "1979"
+   },
+   {
+      "text" : "Deep Blue won its final match against Chess master Garry Kasparov, becoming the first computer to defeat a chess champion in match play.",
+      "links" : [
+         "https://www.research.ibm.com/deepblue/watch/html/c.html"
+      ],
+      "year" : "1997"
+   }
+]

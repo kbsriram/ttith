@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Robert Goddard conducted his first successful launch of a liquid-fueled rocket in Auburn, Massachusetts.",
+      "links" : [
+         "http://www.nasa.gov/centers/goddard/about/dr_goddard.html"
+      ],
+      "year" : "1926"
+   },
+   {
+      "text" : "Sony released Everquest the Massively multiplayer 3D world where you could play as a wizard, rogue or knight. It followed two years after Ultima Online and would be followed several years later by World of Warcraft.",
+      "links" : [
+         "http://pc.gamespy.com/pc/everquest/"
+      ],
+      "year" : "1999"
+   },
+   {
+      "text" : "Mac OS X Server 1.0, the highly-anticipated precursor of OS X desktop version (code name Hera) was released.",
+      "links" : [
+         "http://osxbook.com/book/bonus/ancient/whatismacosx/history.html"
+      ],
+      "year" : "1999"
+   }
+]

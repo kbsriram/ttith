@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "The US launched its second V-2 rocket at White Sands Proving Ground, which became the first successful launch of a large rocket on US soil. The rocket climbed straight up then pitched to the north reaching an altitude of 71 miles and impacted about 35 miles uprange.",
+      "links" : [
+         "http://www.nasa.gov/pdf/449089main_White_Sands_Missile_Range_Fact_Sheet.pdf"
+      ],
+      "year" : "1946"
+   },
+   {
+      "text" : "The nuclear-powered USS Triton submarine, arrived in Groton, Connecticut, after completing the first completely submerged circumnavigation of Earth.",
+      "links" : [
+         "http://www.navalhistory.org/2011/05/10/uss-triton-circumnavigates-the-globe"
+      ],
+      "year" : "1960"
+   },
+   {
+      "text" : "Google announced its Open Hardware Platform and the Google Music service which would eventually become Google Play Music.",
+      "links" : [
+         "http://arstechnica.com/open-source/news/2011/05/google-releases-movie-rental-service-announces-music-service-in-closed-beta.ars"
+      ],
+      "year" : "2011"
+   }
+]

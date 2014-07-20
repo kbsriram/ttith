@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Luna 1, the first spacecraft to reach the Moon, was launched by the USSR.",
+      "links" : [
+         "http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1959-012A"
+      ],
+      "year" : "1959"
+   },
+   {
+      "text" : "Dan Bricklin and Bob Frankston incorporated Software Arts for the purpose of developing VisiCalc, the world's first spreadsheet program.",
+      "links" : [
+         "http://www.cs.umd.edu/class/spring2002/cmsc434-0101/MUIseum/applications/spreadsheethistory1.html"
+      ],
+      "year" : "1979"
+   },
+   {
+      "text" : "NASA's Stardust spacecraft successfully flew past Comet Wild 2, collecting samples it brought back to Earth two years later.",
+      "links" : [
+         "http://stardust.jpl.nasa.gov/photo/cometwild2.html"
+      ],
+      "year" : "2004"
+   }
+]

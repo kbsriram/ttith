@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "Thomas Edison filed a patent for something called an optical phonograph. Despite the conflicting name, it was a film camera with images 1/32nd of an inch wide. He said it would \"do for the eye what the phonograph does for the ear.\"",
+      "links" : [
+         "http://www.technicacommunications.com/dailytechnica-edison-film-kinetoscope/"
+      ],
+      "year" : "1888"
+   },
+   {
+      "text" : "Guglielmo Marconi's company began the first wireless commercial radio service, and Canada got some tech first. Glace Bay Nova Scotia was able to transmit to Clifden, Ireland. The service was used for trans-atlantic telegraph service.",
+      "links" : [
+         "http://cbwireless.ednet.ns.ca/cbwirelessp3.html"
+      ],
+      "year" : "1907"
+   },
+   {
+      "text" : "Col Needham posted a software package to rec.arts.movies called at the time rec.arts.movies movie database, that made the lists of movies on the newsgroup searchable. It would move to the web in 1992 and became known as IMDB, the Internet Movie Database.",
+      "links" : [
+         "http://www.imdb.com/features/15thanniversary/history"
+      ],
+      "year" : "1990"
+   },
+   {
+      "text" : "Microsoft released Windows 8.1, a free update to the Windows 8 operating system, that among other improvements, brought back the much beloved 'Start' button.",
+      "links" : [
+         "http://thenextweb.com/microsoft/2013/10/17/can-now-download-release-version-windows-8-1-stores-tomorrow/"
+      ],
+      "year" : "2013"
+   }
+]

@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Thomas Edison received a patent for the kinetographic camera, the forerunner of the motion picture film projector.",
+      "links" : [
+         "http://memory.loc.gov/ammem/today/aug31.html"
+      ],
+      "year" : "1897"
+   },
+   {
+      "text" : "Stockholders approved the merger of Aldus Corp. and Adobe Systems Inc. It united the two driving forces behind desktop publishing software. Aldus Pagemaker became Adobe Pagemaker.",
+      "links" : [
+         "http://www.nytimes.com/1994/09/01/business/company-news-adobe-and-aldus-stockholders-approve-merger.html"
+      ],
+      "year" : "1994"
+   },
+   {
+      "text" : "The developer release of Apple's new OS, code name Grail1Z4 / Titan1U was released. It was known formally as Rhapsody and would evolve into OS X..",
+      "links" : [
+         "http://www.rhapsodyos.org/misc/rhap_timeline/Rhapsody_Timeline_1.html"
+      ],
+      "year" : "1997"
+   }
+]

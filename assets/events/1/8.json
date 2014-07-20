@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "10 years after the SEC suggested automation could solve the problem of fragmentation in over-the-counter stocks, the National Association of Securities Dealers Automated Quotations or NASDAQ index began trading, the world's first electronic stock market.",
+      "links" : [
+         "http://www.nasdaqomx.com/aboutus/company-information/whatisnasdaq"
+      ],
+      "year" : "1971"
+   },
+   {
+      "text" : "The U.S. Congress passed the Communications Decency Act, part of the Telecommunications Act of 1996. In part, it attempted to hold website operators responsible for anyone younger than 18 seeing porn on the Internet. That provision was later struck down by the Supreme Court, however Section 230 which provides safe harbor to service providers is still in force.",
+      "links" : [
+         "http://pdfcast.org/pdf/the-communications-decency-act-a-legislative-history"
+      ],
+      "year" : "1996"
+   },
+   {
+      "text" : "John Perry Barlow posted \"A Declaration of the Independence of Cyberspace\" written in Davos, Switzerland. He foresaw a \"civilization of the Mind in Cyberspace. May it be more humane and fair than the world your governments have made before.\"",
+      "links" : [
+         "https://projects.eff.org/~barlow/Declaration-Final.html"
+      ],
+      "year" : "1996"
+   }
+]

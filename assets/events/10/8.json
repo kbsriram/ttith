@@ -1,0 +1,24 @@
+[
+   {
+      "text" : "The US Weather Bureau (someday to become the National Weather Service) issued its first weather warning for a storm on the Great Lakes. It was accurate, but there was no high-pitched beep yet.",
+      "links" : [
+         "http://www.crh.noaa.gov/dtx/november_8th_1870.php"
+      ],
+      "year" : "1870"
+   },
+   {
+      "text" : "German immigrant Emile Berliner patented a successful system of sound recording that used flat disks instead of cylinders. The first versions were made of glass. Talk about your broken records.",
+      "links" : [
+         "http://inventors.about.com/od/gstartinventions/a/gramophone.htm"
+      ],
+      "year" : "1887"
+   },
+   {
+      "text" : "German physicist Wilhelm Roentgen, working in his lab in Wurzburg noticed a strange effect while studying vacuum tubes covered in black cardboard. He eventually saw his own skeleton and went on to publish a paper \"On a new kind of rays.\" The rays would end up being called X-Rays.",
+      "links" : [
+         "http://www.bl.uk/learning/cult/bodies/xray/roentgen.html",
+         "http://www.nobelprize.org/nobel_prizes/physics/laureates/1901/rontgen-bio.html"
+      ],
+      "year" : "1895"
+   }
+]

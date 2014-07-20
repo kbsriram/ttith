@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "In a first for missiles, a Polaris A1 test vehicle was successfully launched from the USS George Washington submarine off the coast of Cape Canaveral, Florida.",
+      "links" : [
+         "http://www.ssp.navy.mil/about/history_facts_2.shtml"
+      ],
+      "year" : "1960"
+   },
+   {
+      "text" : "In a first for humans, Neil Armstrong and Edwin A. \"Buzz\" Aldrin Jr. Successfully landed the Lunar Module \"Eagle\" on the surface of the Moon as part of the Apollo 11 mission and became the first humans to ever set foot on Earth's satellite.",
+      "links" : [
+         "http://www.nasa.gov/mission_pages/apollo/missions/apollo11.html"
+      ],
+      "year" : "1969"
+   },
+   {
+      "text" : "In a first for robots, the Viking 1 lander successfully set down on on Mars in the Chryse Planitia and performed its mission.",
+      "links" : [
+         "http://nssdc.gsfc.nasa.gov/planetary/viking.html"
+      ],
+      "year" : "1976"
+   }
+]

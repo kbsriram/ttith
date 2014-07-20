@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Jean-Francois Champollion, permanent secretary of the French Academie des Inscriptions,presented his Lettre a M. Dacier, describing his solution to the mystery of the Hieroglyphic inscriptions on the Rosetta Stone. A nifty bit of decryption.",
+      "links" : [
+         "http://www.umass.edu/wsp/philology/gallery/champollion.html"
+      ],
+      "year" : "1822"
+   },
+   {
+      "text" : "The first version of the Linux kernel (0.01) was posted to a Finnish FTP server in Helsinki. Originator Linus Torvalds wanted to call the OS FreaX, but the FTP admin didn't like the name and renamed it Linux.",
+      "links" : [
+         "http://www.h-online.com/open/features/The-history-of-Linux-1331088.html"
+      ],
+      "year" : "1991"
+   },
+   {
+      "text" : "AOL announced plans to refocus the company on advertising relocate its corporate headquarters from Dulles, Virginia to New York City.",
+      "links" : [
+         "http://observer.com/2007/09/aol-to-move-corporate-headquarters-to-770-broadway/"
+      ],
+      "year" : "2007"
+   }
+]

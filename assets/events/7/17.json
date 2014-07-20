@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Larry Ellison was born in the Bronx in New York City. 9 months later after contracting pneumonia he was taken to Chicago to be raised by his Aunt and Uncle. He would grow up to drop out of college, move to Berkeley and co-found Software Development Labs, one of the most successful corporations in history. Today it's known as Oracle.",
+      "links" : [
+         "http://www.achievement.org/autodoc/page/ell0bio-1/"
+      ],
+      "year" : "1944"
+   },
+   {
+      "text" : "Royal Philips Electronics manufactured the world's first Compact Disc (not counting test pressings) at a Polygram factory in Langenhagen, just outside of Hanover, Germany. The CD was \"The Visitors\" by Abba.",
+      "links" : [
+         "http://www.newscenter.philips.com/main/standard/about/news/press/20070816_25th_anniversary_cd.wpd"
+      ],
+      "year" : "1982"
+   },
+   {
+      "text" : "Nielsen/NetRatings announced that according to their data, more than half (52%) of United States households had internet access for the first time. This confirmed Media Metrix's report from April which estimated that 51% of US households now had Internet access.",
+      "links" : [
+         "http://www.zdnet.com/news/more-u-s-households-online-than-not/109736"
+      ],
+      "year" : "2000"
+   }
+]

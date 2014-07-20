@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Nikola Tesla was born in Smiljan, Lika, Croatia, which was then part of the Austro-Hungarian Empire. His father was a Serbian Orthodox Priest and his mother an inventor of household appliances.",
+      "links" : [
+         "http://www.teslasociety.com/biography.htm"
+      ],
+      "year" : "1856"
+   },
+   {
+      "text" : "The world's first communication satellite, Telstar, was launched into orbit from Cape Canaveral on a Delta rocket.",
+      "links" : [
+         "http://www.alcatel-lucent.com/bstj/vol42-1963/articles/bstj42-4-1449.pdf"
+      ],
+      "year" : "1962"
+   },
+   {
+      "text" : "The Electronic Frontier Foundation was formally founded, immediately coming to the aid of Steve Jackson Games, who's BBS had been seized by the Secret Service.",
+      "links" : [
+         "http://w2.eff.org/legal/cases/SJG/?f=eff_creation.html"
+      ],
+      "year" : "1990"
+   }
+]

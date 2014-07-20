@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "Andrew Smith Hallidie took his San Francisco cable car for its first test run. The tracks ran from Clay and Kearny Streets for 2800 feet to a hill 307 feet above.",
+      "links" : [
+         "http://inventors.about.com/library/inventors/blstreetcars.htm"
+      ],
+      "year" : "1873"
+   },
+   {
+      "text" : "The US Navy recalled Captain Grace Murray Hopper to active duty to help develop the programming language COBOL.",
+      "links" : [
+         "http://www.history.navy.mil/bios/hopper_grace.htm"
+      ],
+      "year" : "1967"
+   },
+   {
+      "text" : "MTV began broadcasting in the United States, playing The Buggles Video Killed the Radio Star, and changing how we view music forever.",
+      "links" : [
+         "http://www.buzzfeed.com/xavierstagecoach/mtv-is-30-what-are-the-first-5-videos-they-played-3upv"
+      ],
+      "year" : "1981"
+   },
+   {
+      "text" : "Motorola announced the Moto X Android phone with multiple customization options. It was the first phone designed entirely after Google bought Motorola.",
+      "links" : [
+         "http://www.theverge.com/2013/8/1/4578890/this-is-the-moto-x"
+      ],
+      "year" : "2013"
+   }
+]

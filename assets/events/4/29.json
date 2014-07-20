@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "Sir Arthur Eddington led a team in Africa to observe the total eclipse, while another team observed it in Brazil, to measure how the sun bent star light during a solar eclipse. The results confirmed Einstein's theory of Relativity.",
+      "links" : [
+         "http://sunearthday.nasa.gov/2006/locations/einstein.php"
+      ],
+      "year" : "1919"
+   },
+   {
+      "text" : "Workers poured the last concrete at the iconic Hoover Dam hydroelectric site. Four months later after the concrete was well and truly set, President Franklin Roosevelt dedicated the dam.",
+      "links" : [
+         "http://web.mst.edu/~rogersda/hoover_dam/"
+      ],
+      "year" : "1935"
+   },
+   {
+      "text" : "John Sculley introduced the Apple Newton at CES. The first one unveiled on stage had dead batteries and didn't work.",
+      "links" : [
+         "http://techland.time.com/2012/06/01/newton-reconsidered/"
+      ],
+      "year" : "1992"
+   },
+   {
+      "text" : "Space Shuttle Discovery completed the first docking with the International Space Station.",
+      "links" : [
+         "http://www.nasa.gov/mission_pages/shuttle/shuttlemissions/archives/sts-96.html"
+      ],
+      "year" : "1999"
+   }
+]

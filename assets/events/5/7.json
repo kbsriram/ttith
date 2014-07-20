@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Computer science hero Alan Turing died. His death was ruled a suicide from eating an apple containing cyanide. Turing formulated the famous Turing test and broke code at Bletchley park during World War II.",
+      "links" : [
+         "http://plato.stanford.edu/entries/turing/"
+      ],
+      "year" : "1954"
+   },
+   {
+      "text" : "Sony introduced the Betamax video recorder for sale. It would lose the format war to VHS but find a niche in broadcast production.",
+      "links" : [
+         "http://www.vancouversun.com/sports/this+history+june+1975/6745667/story.html"
+      ],
+      "year" : "1975"
+   },
+   {
+      "text" : "The first U.S. solar power plant was dedicated at the Natural Bridge National Monument, Utah.",
+      "links" : [
+         "http://books.google.com/books?id=jC1QAAAAYAAJ&q=natural+bridges+solar+june+7+1980&dq=natural+bridges+solar+june+7+1980&hl=en&sa=X&ei=9sGnUda-E8iaiALLk4DgBQ&ved=0CDcQ6AEwAA"
+      ],
+      "year" : "1980"
+   }
+]

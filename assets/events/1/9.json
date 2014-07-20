@@ -1,0 +1,24 @@
+[
+   {
+      "text" : "US President Ulysses S. Grant signed a bill authorizing \"the Secretary of War to take observations at military stations and to warn of storms on the Great Lakes and on the Atlantic and Gulf Coasts.\" This agency operating under the Signal Service eventually became the National Weather Service.",
+      "links" : [
+         "http://www.nws.noaa.gov/pa/history/signal.php"
+      ],
+      "year" : "1870"
+   },
+   {
+      "text" : "The Boeing 747 jumbo jet took flight for the first time. It was the first wide-body plane ever produced.",
+      "links" : [
+         "http://www.historylink.org/index.cfm?DisplayPage=output.cfm&File_Id=1181"
+      ],
+      "year" : "1969"
+   },
+   {
+      "text" : "Dr. Bernard Harris became the first African-American to walk in space. Joining him, Michael Foale became the first British-born American to walk in space.",
+      "links" : [
+         "http://www.jsc.nasa.gov/Bios/htmlbios/harris.html",
+         "http://www.jsc.nasa.gov/Bios/htmlbios/foale.html"
+      ],
+      "year" : "1995"
+   }
+]

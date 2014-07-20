@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Xerox announced its withdrawal from computer mainframe manufacturing. The company did indicate it would continue activities in other computer-related businesses like computer disk drives, serial printers, and apparently giving away secrets to companies like Apple and Microsoft.",
+      "links" : [
+         "http://cdm15003.contentdm.oclc.org/cdm/compoundobject/collection/p15003coll53/id/22/rec/10"
+      ],
+      "year" : "1975"
+   },
+   {
+      "text" : "WorldCom filed for the largest Chapter 11 bankruptcy in US history. It was the number two long-distance phone company, at a time when that still meant something. It would end up changing its name back to MCI, and its remains exists as Verizon's business division.",
+      "links" : [
+         "http://money.cnn.com/2002/07/19/news/worldcom_bankruptcy/"
+      ],
+      "year" : "2002"
+   },
+   {
+      "text" : "The Space Shuttle Atlantis landed at Kennedy Space Center's Shuttle Landing Facility, Runway 15, ending the US space shuttle missions.",
+      "links" : [
+         "http://www.nasa.gov/mission_pages/shuttle/shuttlemissions/sts135/launch/sts-135_mission-overview.html"
+      ],
+      "year" : "2011"
+   }
+]

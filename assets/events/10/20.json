@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "The SETI Institute, the Search for Extraterrestrial Intelligence was founded by Thomas Pierson (CEO), and Dr. Jill Tarter. No luck so far, but they keep looking.",
+      "links" : [
+         "http://cr4.globalspec.com/blogentry/3992/November-20-SETI-Institute-is-founded"
+      ],
+      "year" : "1984"
+   },
+   {
+      "text" : "Microsoft finally released Version 1.0 of Windows. It was considered slightly inferior to competitors like DESQview and the Macintosh.",
+      "links" : [
+         "http://windows.microsoft.com/en-US/windows/history"
+      ],
+      "year" : "1985"
+   },
+   {
+      "text" : "The first module of the International Space Station launched. Zarya, also called the Functional Cargo Block, provided electrical power, storage and propulsion. It's now consigned to being used for storage.",
+      "links" : [
+         "http://spaceflight.nasa.gov/spacenews/reports/issreports/1998/iss3.html"
+      ],
+      "year" : "1998"
+   }
+]

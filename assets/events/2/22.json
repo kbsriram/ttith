@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "The Lumiere brothers showed their first film to an audience. It was a romantic comedy about a crowd of mostly women leaving a building.",
+      "links" : [
+         "https://film110.pbworks.com/w/page/12610310/The%20Lumi%C3%A8re%20Brothers"
+      ],
+      "year" : "1895"
+   },
+   {
+      "text" : "Arthur Schawlow and Charles Hard Townes were granted the first patent for a laser (U.S. No. 2,929,922) under the title \"Masers and Maser Communications System.\"",
+      "links" : [
+         "http://ieeexplore.ieee.org/Xplore/login.jsp?url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel5%2F35%2F4597088%2F04597099.pdf%3Farnumber%3D4597099&authDecision=-203"
+      ],
+      "year" : "1960"
+   },
+   {
+      "text" : "RCA first SelectaVision VideoDisc the SFT100W went on sale. The machine used Capacitance Electronic Discs to fit a couple hours of video programming on a 12-inch vinyl disc that sold for around $15.",
+      "links" : [
+         "http://www.cedmagic.com/history/sft100-1981.html"
+      ],
+      "year" : "1981"
+   },
+   {
+      "text" : "The Intel Corporation shipped the first Pentium chips featuring 60 and 66 MHz CPUs.",
+      "links" : [
+         "http://www.zdnet.com/blog/hardware/first-pentium-cpus-shipped-14-years-ago-yesterday/331"
+      ],
+      "year" : "1993"
+   }
+]

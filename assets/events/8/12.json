@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "US President John F. Kennedy delivered a speech at the stadium of Rice University, declaring \"We choose to go to the moon.\" Many consider the speech the beginning of the space race.",
+      "links" : [
+         "http://er.jsc.nasa.gov/seh/ricetalk.htm"
+      ],
+      "year" : "1962"
+   },
+   {
+      "text" : "Steve Jobs announced to the Apple board that he would resign. Jobs said, \"I've been thinking a lot, and it's time for me to get on with my life. It's obvious that I've got to do something. I'm 30 years old.\"",
+      "links" : [
+         "http://news.cnet.com/8301-13579_3-20116374-37/steve-jobs-a-timeline/"
+      ],
+      "year" : "1985"
+   },
+   {
+      "text" : "Mosaic Communications introduced its first software, the Mosaic NetScape network navigator and the Mosaic Netsite server line.",
+      "links" : [
+         "http://www.thefreelibrary.com/MOSAIC+COMMUNICATIONS+UNVEILS+NETWORK+NAVIGATOR+AND+SERVER+SOFTWARE...-a015813026"
+      ],
+      "year" : "1994"
+   }
+]

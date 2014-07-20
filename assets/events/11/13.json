@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "NASA \"Relay 1\" launched, the first active repeater communications satellite in orbit.",
+      "links" : [
+         "http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1962-068A"
+      ],
+      "year" : "1962"
+   },
+   {
+      "text" : "Young Bill Gates was arrested for a traffic violation in Albuquerque, New Mexico, leading to one of the most famous mugshots ever.",
+      "links" : [
+         "http://beginnersinvest.about.com/cs/billgates/l/blbillgatesmug.htm"
+      ],
+      "year" : "1977"
+   },
+   {
+      "text" : "Robert Metcalfe et. al were awarded a patent for \"Multipoint data communication system with collision detection\" also known as ethernet.",
+      "links" : [
+         "http://www.google.com/patents?id=Szg6AAAAEBAJ&printsec=abstract&zoom=4#v=onepage&q&f=false"
+      ],
+      "year" : "1977"
+   }
+]

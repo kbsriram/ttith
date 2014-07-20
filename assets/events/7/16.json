@@ -1,0 +1,24 @@
+[
+   {
+      "text" : "A solar flare created a geomagnetic storm that caused three hard drives to fail in an otherwise fault-tolerant system at the Toronto Stock Exchange to fail. This prevented access to critical market data leading the exchange to be shut down for three hours.",
+      "links" : [
+         "http://catless.ncl.ac.uk/Risks/9.15.html",
+         "http://www.newscientist.com/article/mg12316812.400-solar-storms-halt-stock-market-as-computers-crash-.html"
+      ],
+      "year" : "1989"
+   },
+   {
+      "text" : "Ian Murdock announced the Debian Linux distribution system. The name combined his then girlfriend Debra's name with his own, Deb-Ian. And now you know how to properly pronounce it.",
+      "links" : [
+         "http://www.debian.org/doc/manuals/project-history/ch-intro.en.html"
+      ],
+      "year" : "1993"
+   },
+   {
+      "text" : "The first version Microsoft's Web browser, Internet Explorer 1, debuted. It was based on Mosaic, which Microsoft had licensed from Spyglass Inc.",
+      "links" : [
+         "http://gizmodo.com/5614186/internet-explorer-turns-15-today"
+      ],
+      "year" : "1995"
+   }
+]

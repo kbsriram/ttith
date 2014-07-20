@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Mr. George Gouraudintroduced the Edison phonograph to London in a press conference, including the playing of a piano and cornet recording of Sullivan's \"The Lost Chord,\" one of the first recordings of music ever made.",
+      "links" : [
+         "http://diamond.boisestate.edu/GaS/sullivan/html/historic.html"
+      ],
+      "year" : "1888"
+   },
+   {
+      "text" : "The first wireless transmission of information using Morse code was demonstrated by Oliver Lodge during a meeting of the British Association at Oxford. A message was transmitted about 50 meters from the old Clarendon Laboratory to the lecture theater of the University Museum.",
+      "links" : [
+         "http://books.google.com/books?id=2jn_1E3YxloC&pg=PT94&lpg=PT94&dq=august+14+1894+wireless+telegraph&source=bl&ots=X58eXtcCFb&sig=YA77LvAUhANUJDSKxlQch7PyDkU&hl=en&sa=X&ei=is75T6L1FeiJ2AX-3Y2CBw&ved=0CF8Q6AEwBg#v=onepage&q=august%2014%201894%20wireless%20telegraph&f=false"
+      ],
+      "year" : "1894"
+   },
+   {
+      "text" : "John Atanasoff finished a paper describing the Atanasoff Berry Computer, or ABC, the computer he designed with Clifford Berry to solve simultaneous linear equations.",
+      "links" : [
+         "http://jva.cs.iastate.edu/courtcase.php"
+      ],
+      "year" : "1940"
+   }
+]

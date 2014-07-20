@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "John Frederic Daniell was born. He would grow up to invent the Daniell cell, a battery that supplied an even current during continuous operation, thus making battery power practical.",
+      "links" : [
+         "http://www.britannica.com/EBchecked/topic/151016/John-Frederic-Daniell"
+      ],
+      "year" : "1790"
+   },
+   {
+      "text" : "Almon B. Strowger of Kansas City filed his patent for the first automatic telephone exchange.",
+      "links" : [
+         "http://www.ospmag.com/issue/article/052008-Lies"
+      ],
+      "year" : "1889"
+   },
+   {
+      "text" : "Inventor Lee De Forest demonstrated The Phonofilm for the press. It was the first motion picture with a sound-on-film track.",
+      "links" : [
+         "http://books.google.com/books?id=yV4nAQAAMAAJ&pg=RA3-PA115&lpg=RA3-PA115&dq=march+12+1923+lee+de+forest&source=bl&ots=A_yIgcZUDF&sig=RYXpo6cFuQFcTDpOodOCiWrTRsU&hl=en&sa=X&ei=0MQMU6iJKdjmoAS6qoL4AQ&ved=0CEoQ6AEwAw#v=onepage&q=march%2012%201923%20lee%20de%20forest&f=false"
+      ],
+      "year" : "1923"
+   },
+   {
+      "text" : "Tim Berners-Lee wrote a paper proposing an \"information management\" system that became the foundation of the World Wide Web. He called it the Mesh at the time.",
+      "links" : [
+         "http://www.pewinternet.org/2014/02/27/the-web-at-25-in-the-u-s/"
+      ],
+      "year" : "1989"
+   }
+]

@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "The first department store elevator for passengers was installed at E.V. Haughwout & Co. in New York City. This was a significant development towards the building of skyscrapers.",
+      "links" : [
+         "http://www.wired.com/thisdayintech/2010/03/0323otis-elevator-first/"
+      ],
+      "year" : "1857"
+   },
+   {
+      "text" : "The U.S. space shuttle Atlantis docked with the Russian space station Mir for the third time, and for the first time dropped off a U.S. astronaut. Shannon Lucid began her record-breaking stay on the space station.",
+      "links" : [
+         "http://www.nasaspaceflight.com/2011/07/shuttle-atlantis-mir-realization-program-goal/"
+      ],
+      "year" : "1996"
+   },
+   {
+      "text" : "The final commands to light the engines of the Progress supply ship were sent to the Russian Mir space station, which then broke up in the atmosphere before falling into the southern Pacific Ocean near Fiji.",
+      "links" : [
+         "http://news.bbc.co.uk/hi/english/static/in_depth/sci_tech/2001/mir/2001.stm"
+      ],
+      "year" : "2001"
+   }
+]

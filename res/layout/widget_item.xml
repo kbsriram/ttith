@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget_item_base"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/dark_background">
+  <TextView
+      android:id="@+id/widget_item_day"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="20"
+      android:textSize="@dimen/grid_b_2_3"
+      android:layout_alignParentTop="true"
+      android:layout_alignParentLeft="true"
+      android:paddingTop="@dimen/grid_b_3"
+      android:gravity="right"
+      android:paddingRight="@dimen/grid_b_2_3"
+      android:paddingLeft="@dimen/grid_b_3"/>
+
+  <TextView
+      android:id="@+id/widget_item_month"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="JUL"
+      android:textSize="@dimen/text_size_small"
+      android:layout_alignRight="@id/widget_item_day"
+      android:layout_below="@id/widget_item_day"
+      android:gravity="right"
+      android:paddingRight="@dimen/grid_b_2_3"
+      android:paddingLeft="@dimen/grid_b_3"/>
+
+  <TextView
+      android:id="@+id/widget_item_tv"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_alignParentTop="true"
+      android:layout_alignParentRight="true"
+      android:layout_toRightOf="@id/widget_item_day"
+      android:paddingTop="@dimen/grid_b_3"
+      android:paddingRight="@dimen/grid_b_6"
+      style="@style/WidgetText"/>
+</RelativeLayout>

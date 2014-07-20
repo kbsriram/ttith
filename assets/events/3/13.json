@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "The United States launched Navy Transit 1-B. It demonstrated the first engine restart in space and more famously the feasibility of using satellites as navigational aids, proving systems like GPS would work.",
+      "links" : [
+         "http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1960-003B"
+      ],
+      "year" : "1960"
+   },
+   {
+      "text" : "The crew of Apollo 13 heard a sharp bang and vibration followed by a warning light. Jack Swigert radioed back the famous words \"Houston, we've had a problem here.\"",
+      "links" : [
+         "http://www-pao.ksc.nasa.gov/history/apollo/apollo-13/apollo-13.htm"
+      ],
+      "year" : "1970"
+   },
+   {
+      "text" : "Western Union, NASA and Hughes Aircraft, teamed up to launch the United States' first commercial geosynchronous communications satellite, Westar 1. The system relayed data, voice, video, and fax transmissions to the continental U.S., Hawaii, Puerto Rico, Alaska, and the Virgin islands.",
+      "links" : [
+         "http://space.jpl.nasa.gov/msl/Programs/westar.html"
+      ],
+      "year" : "1974"
+   },
+   {
+      "text" : "Heavy metal band Metallica launched their lawsuit against Napster for enabling thievery and copyright infringement. It was the beginning of the end for Napster and all music piracy. Well, at least for Napster.",
+      "links" : [
+         "http://news.cnet.com/Napster,-universities-sued-by-Metallica/2100-1023_3-239263.html"
+      ],
+      "year" : "2000"
+   }
+]

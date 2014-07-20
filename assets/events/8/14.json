@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "After 33.5 hours of flight, Luna 2 became the first human-made object to strike the moon.",
+      "links" : [
+         "http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1959-014A"
+      ],
+      "year" : "1959"
+   },
+   {
+      "text" : "Microsoft released Windows ME. The ME stood for MIllenium Edition but deserving or not, would eventually become code for a bad or unnecessary OS update.",
+      "links" : [
+         "http://news.cnet.com/2100-1040-245728.html"
+      ],
+      "year" : "2000"
+   },
+   {
+      "text" : "The Nintendo GameCube went on sale in Japan. It was the first Nintendo game console that did not use cartridges.",
+      "links" : [
+         "http://cube.gamespy.com/articles/500/500516p1.html"
+      ],
+      "year" : "2001"
+   }
+]

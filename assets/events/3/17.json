@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Harvard University President James Conant wrote to IBM founder Thomas Watson Sr. to let him know that the Harvard Mark I was operating smoothly. It was used in conjunction with the U.S. Navy Bureau of Ships.",
+      "links" : [
+         "http://www.computerhistory.org/tdih/April/17/"
+      ],
+      "year" : "1944"
+   },
+   {
+      "text" : "The Surveyor 3 spacecraft was successfully launched from Cape Kennedy, Florida on its mission to the Moon. It was the first to carry a surface soil sampling scoop.",
+      "links" : [
+         "http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1967-035A"
+      ],
+      "year" : "1967"
+   },
+   {
+      "text" : "The Apollo 13 spacecraft returned safely to Earth after a frightening malfunction caused the team to abort landing on the Moon and instead scramble to keep themselves alive.",
+      "links" : [
+         "http://science.ksc.nasa.gov/history/apollo/apollo-13/apollo-13.html"
+      ],
+      "year" : "1970"
+   }
+]

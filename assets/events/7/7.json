@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "IBM officially presented the Mark I computer, also known as the IBM Automatic Sequence Controlled Calculator, or ASCC, to Harvard. The computer produced reliable results and ran continuously.",
+      "links" : [
+         "http://www-03.ibm.com/ibm/history/exhibits/markI/markI_chronology5.html"
+      ],
+      "year" : "1944"
+   },
+   {
+      "text" : "Tokyo Telecommunications Engineering released Japan's first commercially produced transistor radio, the TR-55, sold under the company's new name, Sony.",
+      "links" : [
+         "http://www.wired.com/thisdayintech/2009/08/dayintech_0807/"
+      ],
+      "year" : "1955"
+   },
+   {
+      "text" : "Jimmy Wales was born in Huntsville, Alabama. He grew up to co-found Wikipedia.",
+      "links" : [
+         "http://en.wikipedia.org/wiki/Jimmy_Wales"
+      ],
+      "year" : "1966"
+   }
+]

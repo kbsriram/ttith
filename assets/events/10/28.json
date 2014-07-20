@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "12 men, including Christopher Wren, Robert Boyle, John Wilkins, and Sir Robert Moray met after Wren's astronomy lecture to discuss the formal constitution of a society of philosophers that would become The Royal Society. It still exists and recently opened its archives on the Web.",
+      "links" : [
+         "http://royalsociety.org/about-us/history/"
+      ],
+      "year" : "1660"
+   },
+   {
+      "text" : "For the first time, an automatic steam-powered press printed The Times in London. German inventors Friedrich Koenig and Andreas Friedrich Bauer built the press. The Times quickly pointed out that they would not layoff workers, but instead increase printing, bringing the paper to a wider audience.",
+      "links" : [
+         "http://books.google.com/books?id=WAoGd7HfTB8C&pg=PA35&lpg=PA35&dq=november+28+1814+steam+Times&source=bl&ots=a6qKyzOeYD&sig=UjjQ47T_VoOpSMpaASm3dJ8UiW4&hl=en#v=onepage&q=november%2028%201814%20steam%20Times&f=false"
+      ],
+      "year" : "1814"
+   },
+   {
+      "text" : "NASA launched Mariner 4 toward Mars where it would conduct the first successful flyby of the red planet.",
+      "links" : [
+         "http://www.nasa.gov/mission_pages/mars/missions/index-past.html"
+      ],
+      "year" : "1964"
+   }
+]

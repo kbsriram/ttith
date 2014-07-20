@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Joseph Marie Jacquard was born in Lyon, France. The weaver and inventor created the first programmable power loom and the cards he used to program it would be adapted by Herman Hollerith and others for programming the first computers.",
+      "links" : [
+         "http://www.computerhistory.org/tdih/July/7/"
+      ],
+      "year" : "1752"
+   },
+   {
+      "text" : "Henry F. Phillips received patents for a new kind of screw and the screwdriver used with it. Endless numbers of computer cases have been held together by it since.",
+      "links" : [
+         "http://www.google.com/patents?id=MINJAAAAEBAJ&printsec=abstract&zoom=4#v=onepage&q&f=false"
+      ],
+      "year" : "1936"
+   },
+   {
+      "text" : "The first solar-powered aircraft, Solar Challenger, flew 163 miles from Corneille-en-Verin Airport north of Paris across the English Channel to Manston Royal Air Force Base south of London, staying aloft 5 hours and 23 minutes.",
+      "links" : [
+         "http://www.nasa.gov/centers/dryden/news/FactSheets/FS-054-DFRC.html"
+      ],
+      "year" : "1981"
+   }
+]

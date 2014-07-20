@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "US Patent no. 25,076 was issued to Nathan Ames of Saugus, Mass. for the first escalator-type moving staircase.",
+      "links" : [
+         "http://www.google.com/patents/US25076"
+      ],
+      "year" : "1859"
+   },
+   {
+      "text" : "Computer pioneer Marvin Minsky was born in New York City. Minsky grew up to become a pioneer in Artificial Intelligence research and wrote the book \"The Society of Mind.\"",
+      "links" : [
+         "http://www.britannica.com/EBchecked/topic/384568/Marvin-Minsky"
+      ],
+      "year" : "1927"
+   },
+   {
+      "text" : "Netscape Communications staged an IPO. Shares opened at $28 and shot up to $75 per share in one day, becoming one of the indicators of the beginning of the dot-com boom.",
+      "links" : [
+         "http://www.npr.org/templates/story/story.php?storyId=4792365"
+      ],
+      "year" : "1995"
+   }
+]

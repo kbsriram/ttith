@@ -1,0 +1,38 @@
+[
+   {
+      "text" : "Gottfreid Leibniz wrote the integral sign in an unpublished manuscript, a sign that would later haunt the nightmares of students and be widely misapplied on blackboards in movies. So happy Integral Day!",
+      "links" : [
+         "http://books.google.com/books?id=bOIGAAAAYAAJ&pg=PA166&lpg=PA166&dq=leibniz+writes+integral&source=bl&ots=U_vboOt1rM&sig=ojXqmr8IEIWcrbOdC2UlM94fW5g&hl=en&ei=uyWbTr2dCdHbiALn_f3WBg&sa=X&oi=book_result&ct=result&resnum=4&ved=0CDMQ6AEwAw#v=onepage&q=leibniz%20writes%20integral&f=false"
+      ],
+      "year" : "1675"
+   },
+   {
+      "text" : "The first ever computer to computer link was established on the ARPANET. UCLA student Charley Kline sent the characters l and o to Stanford the connection crashed before he could finish sending 'login' The Internet has been crashy right from the start.",
+      "links" : [
+         "http://www.cs.ucla.edu/about/history/the-day-the-infant-internet-uttered-its-first-words",
+         "http://en.wikipedia.org/wiki/File:First-arpanet-imp-log.jpg"
+      ],
+      "year" : "1969"
+   },
+   {
+      "text" : "The Space Shuttle Discovery blasted off on STS-95 with 77-year old John Glenn on board, making him the oldest person to go into space.",
+      "links" : [
+         "http://www.nasa.gov/mission_pages/shuttle/shuttlemissions/archives/sts-95.html"
+      ],
+      "year" : "1998"
+   },
+   {
+      "text" : "Apple announced Scott Forstall would leave the company in one year, and that retail head John Browett had left the company as well.",
+      "links" : [
+         "http://www.apple.com/pr/library/2012/10/29Apple-Announces-Changes-to-Increase-Collaboration-Across-Hardware-Software-Services.html"
+      ],
+      "year" : "2012"
+   },
+   {
+      "text" : "Motorola announced it's modular phone project called Project ARA.",
+      "links" : [
+         "http://www.engadget.com/2013/10/29/motorola-project-ara-modular-smartphone/"
+      ],
+      "year" : "2013"
+   }
+]

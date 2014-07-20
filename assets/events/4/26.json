@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Apollo 10 returned to Earth after a successful eight-day test of all the components needed for the manned moon landing.",
+      "links" : [
+         "http://www.nasa.gov/mission_pages/apollo/missions/apollo10.html"
+      ],
+      "year" : "1969"
+   },
+   {
+      "text" : "Satya Pal Asija received the first US patent for a computer software program. It was called Swift-answer. The patent took seven years to issue, and the validity of software patents has been debated ever since.",
+      "links" : [
+         "http://patents.justia.com/1981/04270182.html"
+      ],
+      "year" : "1981"
+   },
+   {
+      "text" : "Bill Gates authored an internal memo entitled \"The Internet Tidal Wave\" calling the Internet the most important development since the IBM personal computer. Microsoft soon got to work on its own Web browser.",
+      "links" : [
+         "http://www.time.com/time/business/article/0,8599,1818989,00.html"
+      ],
+      "year" : "1995"
+   }
+]

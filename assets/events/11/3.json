@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "The first text message was sent on Vodafone's U.K. network from a PC to a mobile device with the message \"Merry Christmas.\"",
+      "links" : [
+         "http://news.cnet.com/8301-1035_3-57556747-94/father-of-sms-reflects-on-20th-anniversary-of-first-text/"
+      ],
+      "year" : "1992"
+   },
+   {
+      "text" : "The Sony PlayStation game console went on sale in Japan.",
+      "links" : [
+         "http://www.economist.com/node/21541164"
+      ],
+      "year" : "1994"
+   },
+   {
+      "text" : "NASA lost radio contact with the Mars Polar Lander moments before the spacecraft entered the Martian atmosphere. It just wasn't a good year for Mars exploration.",
+      "links" : [
+         "http://mars.jpl.nasa.gov/msp98/lander/"
+      ],
+      "year" : "1999"
+   },
+   {
+      "text" : "In Bryant Park in Manhattan, Inventor Dean Kamen unveiled a secret project with the codename \"Ginger\" that Steve Jobs reportedly said would cause cities to be re-architected. The Segway Personal Transporter has become iconic for mall cops and mailmen.",
+      "links" : [
+         "http://www.britannica.com/EBchecked/topic/1687647/IBOT"
+      ],
+      "year" : "2001"
+   }
+]

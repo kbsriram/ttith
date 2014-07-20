@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "The First Transcontinental Telegraph line across the United States was completed, ending the need for the Pony Express which had only been around for a year and a half. Pony unemployment skyrocketed.",
+      "links" : [
+         "http://www.history.com/this-day-in-history/western-union-completes-the-first-transcontinental-telegraph-line"
+      ],
+      "year" : "1861"
+   },
+   {
+      "text" : "NASA launched Deep Space 1, it's mission to seek out an asteroid, specifically, asteroid 9969 Braille. When that mission ended up being only partially successful, it went after Comet Borrelly where it got some choice information.",
+      "links" : [
+         "http://science.nasa.gov/missions/deep-space-1/"
+      ],
+      "year" : "1998"
+   },
+   {
+      "text" : "The Concorde made its last commercial flight, a victim of air traffic reductions and rising maintenance costs. 100 passengers, including actress Joan Collins, model Christie Brinkley, made the flight from New York to London in it's usual three and a half hours. Flights have been slower ever since.",
+      "links" : [
+         "http://www.pbs.org/newshour/bb/transportation/july-dec03/concord_10-24.html"
+      ],
+      "year" : "2003"
+   }
+]

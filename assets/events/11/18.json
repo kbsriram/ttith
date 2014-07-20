@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "John William Draper took a daguerreotype of the moon, the first lunar photograph.",
+      "links" : [
+         "http://www.fotoart.gr/photography/history/historyphotos/onephotoonestory/thefirstphotoofthemoon.htm"
+      ],
+      "year" : "1839"
+   },
+   {
+      "text" : "Joseph Swan demonstrated the electric lamp to the Newcastle Chemical Society in northern England. His bulb would burn for about 40 hours. Edison's later bulb would burn for closer to 150 hours.",
+      "links" : [
+         "http://books.google.com/books?id=6jgRWR1F7X8C&pg=PA49&lpg=PA49&dq=joseph+swan+1848&source=bl&ots=0KlFOPDQxv&sig=womCrG8fAAj-61N8N-PnxENyj-0&hl=en&ei=WlvYTr3mCIXYiALFwPWjCg&sa=X&oi=book_result&ct=result&resnum=1&ved=0CB8Q6AEwAA#v=onepage&q=joseph%20swan%201848&f=false"
+      ],
+      "year" : "1878"
+   },
+   {
+      "text" : "Larry Wall released the Perl scripting language. It would go from being a SysAdmin's helper to one of the Web's dominant scripting languages, for good or ill, depending on the coder.",
+      "links" : [
+         "http://www.modernperlbooks.com/mt/2013/12/perl-is-26-today.html"
+      ],
+      "year" : "1987"
+   },
+   {
+      "text" : "HTML 4.0 was recommended and published by the World Wide Web Consortium, the W3C. It offered the strict, transitional and frameset variations, and deprecated many of Netscape's visual tags in favor of CSS.",
+      "links" : [
+         "http://www.w3.org/Press/HTML4-REC"
+      ],
+      "year" : "1997"
+   }
+]

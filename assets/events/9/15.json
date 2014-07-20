@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "The Edison Electric Light Company began operation. They would go on to become more general. As in making up a significant part of General Electric.",
+      "links" : [
+         "http://books.google.com/books?id=w0o5Ld53wAEC&pg=PT130&lpg=PT130&dq=Edison+Electric+Light+Company+october+15+1878&source=bl&ots=s8fwfna3c3&sig=8HzXtv0nHRnYOKS6kAmAE-ieNaM&hl=en#v=onepage&q=Edison%20Electric%20Light%20Company%20october%2015%201878&f=false"
+      ],
+      "year" : "1878"
+   },
+   {
+      "text" : "Fortran, the first modern computer language was shared with the public for the first time. The IBM Mathematical Formula Translating System made John Backus a legend, kicked off modern programming, and is still developed to this day by the Fortran Standards Technical Committee.",
+      "links" : [
+         "http://gcc.gnu.org/wiki/GFortranStandards"
+      ],
+      "year" : "1956"
+   },
+   {
+      "text" : "China launched the Shenzhou 5, its first manned space mission, becoming the third country in the world to have independent human spaceflight capability. Yang Liwei piloted the capsule showing the flags of the People's Republic of China and the United Nations.",
+      "links" : [
+         "http://spaceflightnow.com/shenzhou/031015launch.html"
+      ],
+      "year" : "2003"
+   }
+]

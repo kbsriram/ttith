@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "NASA launched the Mariner 2 unmanned space mission to Venus.",
+      "links" : [
+         "http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1962-041A"
+      ],
+      "year" : "1962"
+   },
+   {
+      "text" : "The first direct-to-home TV satellite launched from Cape Canaveral. Marco Polo I delivered the British Satellite Broadcasting service to homes in the UK.",
+      "links" : [
+         "http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1989-067A"
+      ],
+      "year" : "1989"
+   },
+   {
+      "text" : "Fairbanks, Alaska got the world's biggest UPS backup. The city hooked up the world's largest storage battery, built to provide an uninterrupted power supply of 40 megawatts.",
+      "links" : [
+         "http://www.telegraph.co.uk/technology/3312118/Worlds-biggest-battery-switched-on-in-Alaska.html"
+      ],
+      "year" : "2003"
+   }
+]

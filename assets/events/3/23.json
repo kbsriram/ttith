@@ -1,0 +1,31 @@
+[
+   {
+      "text" : "Mathematics student William Rowan Hamilton presented his \"Theory of Systems of Rays\" at the Royal Irish Academy in Dublin. It led to the development of the wave theory of light which led to the development of quantum mechanics.",
+      "links" : [
+         "http://www.maths.tcd.ie/pub/HistMath/People/Hamilton/Rays/PtFst.pdf"
+      ],
+      "year" : "1827"
+   },
+   {
+      "text" : "A patent was granted to Herman Anthony for a leak-proof dry-cell battery. The patent was assigned to Ray-o-Vac.",
+      "links" : [
+         "http://patentimages.storage.googleapis.com/pdfs/US2197780.pdf"
+      ],
+      "year" : "1940"
+   },
+   {
+      "text" : "Sinclair launched the ZX Spectrum which popularised home computing in the UK.",
+      "links" : [
+         "http://www.theregister.co.uk/2007/04/23/spectrum_zx_25/"
+      ],
+      "year" : "1982"
+   },
+   {
+      "text" : "At 8:27 PM, Jawed Karim, one of the co-founders of YouTube, uploaded the video Me at the zoomaking it the first video ever to be uploaded to YouTube.",
+      "links" : [
+         "http://en.wikipedia.org/wiki/Me_at_the_zoo",
+         "https://www.youtube.com/watch?v=jNQXAC9IVRw"
+      ],
+      "year" : "2005"
+   }
+]

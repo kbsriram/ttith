@@ -1,0 +1,37 @@
+[
+   {
+      "text" : "John F. Pickering of Haiti received a US patent for his design of an airship.",
+      "links" : [
+         "http://www.google.com/patents/US643975"
+      ],
+      "year" : "1900"
+   },
+   {
+      "text" : "Following the USSR, the United States put its first man into orbit. John Glenn piloted the Mercury-Atlas 6 Friendship 7 spacecraft to a successful conclusion of the mission.",
+      "links" : [
+         "http://www-pao.ksc.nasa.gov/history/mercury/ma-6/ma-6.htm"
+      ],
+      "year" : "1962"
+   },
+   {
+      "text" : "A Soviet Proton launcher boosted the base block of the Mir space station into orbit.",
+      "links" : [
+         "http://history.nasa.gov/SP-4225/mir/mir.htm"
+      ],
+      "year" : "1986"
+   },
+   {
+      "text" : "Apple's first iPod Mini arrived in Apple retail stores and online. It was the first size variation of the iPod.",
+      "links" : [
+         "http://www.apple.com/pr/library/2004/02/17Apple-Ships-New-iPod-mini.html"
+      ],
+      "year" : "2004"
+   },
+   {
+      "text" : "Sony announced the PlayStation 4 without giving out price or even showing what the hardware would look like.",
+      "links" : [
+         "http://thenextweb.com/gadgets/2013/02/21/sony-announces-playstation-4/"
+      ],
+      "year" : "2013"
+   }
+]

@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "The first roll of waterproof, transparent, pressure-sensitive tape was sold. Its brand name \"Scotch\" has become synonymous with cellophane tape.",
+      "links" : [
+         "http://news.3m.com/press-release/company/3m-celebrates-75-years-scotch-transparent-tape"
+      ],
+      "year" : "1930"
+   },
+   {
+      "text" : "The TV show Star Trek made its network television debut with the episode \"The Man Trap\". Star Trek would have a profound influence on future technology thought and design.",
+      "links" : [
+         "http://en.memory-alpha.org/wiki/8_September"
+      ],
+      "year" : "1966"
+   },
+   {
+      "text" : "NASA's unmanned spacecraft Genesis crash-landed when its parachute failed to open.",
+      "links" : [
+         "http://www.nasa.gov/mission_pages/genesis/media/feature-genesis-returns.html"
+      ],
+      "year" : "2004"
+   }
+]

@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Ford sold its first car to Dr. Ernst Pfenning of Chicago. The two-cylinder Model A was assembled at Mack Avenue Plant in Detroit.",
+      "links" : [
+         "http://www.hfmgv.org/exhibits/fmc/chrono.asp"
+      ],
+      "year" : "1903"
+   },
+   {
+      "text" : "Commodore introduced the Amiga personal computer at the Vivian Beaumont Theater in New York's Lincoln Center. Amiga cost $1,295 and shipped with a base configuration of 256K of RAM.",
+      "links" : [
+         "http://technologizer.com/2010/07/23/amiga/"
+      ],
+      "year" : "1985"
+   },
+   {
+      "text" : "The first commercial HDTV signal was broadcast in North Carolinaby WRAL channel 32 operating at 100 kilowatts with an antenna 1,750 feet above the ground. 200 members of the press watched the broadcast at WRAL.",
+      "links" : [
+         "http://www.wral.com/wral-tv/story/1069461/"
+      ],
+      "year" : "1996"
+   }
+]

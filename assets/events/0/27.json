@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "IBM dedicated its \"SSEC\" in New York City. The Selective Sequence Electronic Calculator handled both data and instructions using electronic circuits made with 13,500 vacuum tubes and 21,000 relays.",
+      "links" : [
+         "http://www.columbia.edu/cu/computinghistory/ssec.html"
+      ],
+      "year" : "1948"
+   },
+   {
+      "text" : "The first US astronauts died in the line of duty. Gus Grissom, Ed White and Roger Chaffee were killed on the launch pad when a flash fire engulfed their command module during testing for the first Apollo-Saturn mission.",
+      "links" : [
+         "http://history.nasa.gov/Apollo204/"
+      ],
+      "year" : "1967"
+   },
+   {
+      "text" : "Western Union discontinued its Telegram and Commercial Messaging services. The company still handles money transfers.",
+      "links" : [
+         "http://www.livescience.com/6989-era-ends-western-union-stops-sending-telegrams.html"
+      ],
+      "year" : "2006"
+   }
+]

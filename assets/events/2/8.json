@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Doug Ross demonstrated the Director tape for MIT's Whirlwind machine, the first digital computer with real-time text and graphics. The idea of the Director Tape was to allow multiple problems to be read by the computer in one session without humans having to intervene and change tapes. In other words, an operating system.",
+      "links" : [
+         "http://www.wired.com/thisdayintech/2010/03/0308doug-ross-director-tape/"
+      ],
+      "year" : "1955"
+   },
+   {
+      "text" : "The first radio episode of The Hitchhiker's Guide to the Galaxy, by Douglas Adams, was transmitted on BBC Radio 4. Some credit Adams with accidentally predicting the PDA and smartphone.",
+      "links" : [
+         "http://entertainment.howstuffworks.com/hitchhikers-history1.htm"
+      ],
+      "year" : "1978"
+   },
+   {
+      "text" : "Philips publicly demonstrated a prototype of an optical digital audio disc at a press conference called \"Philips Introduces Compact Disc.\"",
+      "links" : [
+         "http://www.ieeeghn.org/wiki/index.php/Milestones:Compact_Disc_Audio_Player,_1979"
+      ],
+      "year" : "1979"
+   }
+]

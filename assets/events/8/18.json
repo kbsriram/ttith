@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "America's first native locomotive, the \"Tom Thumb\" lost a race to a draft horse at Ellicotts Mills, Maryland.",
+      "links" : [
+         "http://books.google.com/books?id=Bgno_pNojO4C&pg=PA17&lpg=PA17&dq=september+18+1830+steam+engine&source=bl&ots=mhgjtxUFGL&sig=ikW1TWyC2VGa6oLicl5DUATeVnE&hl=en&sa=X&ei=5RwkUN2fBa3riQLW8oDwBw&ved=0CGUQ6AEwBw#v=onepage&q=september%2018%201830%20steam%20engine&f=false"
+      ],
+      "year" : "1830"
+   },
+   {
+      "text" : "The Columbia Phonograph Broadcasting System went on the air with 47 radio stations. Within two years it would be sold and become the Columbia Broadcasting System and later simply CBS.",
+      "links" : [
+         "http://articles.orlandosentinel.com/1985-04-19/news/0290180286_1_columbia-broadcasting-system-turner-broadcasting-cbs-television-network"
+      ],
+      "year" : "1927"
+   },
+   {
+      "text" : "The Internet Corporation for Assigned Names and Numbers aka ICANN was created in order to take over Internet administrative tasks from the US Government. The most famous of those tasks is overseeing the Domain Name System.",
+      "links" : [
+         "http://www.britannica.com/EBchecked/topic/923082/ICANN"
+      ],
+      "year" : "1998"
+   }
+]

@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "Ada Byron was born in London, England to the poet Lord Byron and Anne Isabelle Milbanke. She would later marry William King and take on his title as Lady Lovelace. But she is best remembered as Charles Babbage's friend, and writer of the first program for his Difference Engine. She is considered by many to be the first computer programmer.",
+      "links" : [
+         "http://www.sdsc.edu/ScienceWomen/lovelace.html"
+      ],
+      "year" : "1815"
+   },
+   {
+      "text" : "Germany conducted the first powered test flight of a V-1 Rocket, launched from beneath an Fw-200.",
+      "links" : [
+         "http://books.google.com/books?id=Sr6JtOoWghkC&printsec=frontcover&dq=isbn:9781894643054&source=bl&ots=gYyU75QoNf&sig=pOXKx8p7ncyGnBEKmmcEaVwOLRY&hl=en&sa=X&ei=kPxQULLhF8mUiAKP2oHADQ&ved=0CC8Q6AEwAA#v=snippet&q=December%2010&f=false"
+      ],
+      "year" : "1942"
+   },
+   {
+      "text" : "Paul Otlet died. His theories presciently described a global interlinked \"web\" of documents, presaging the World Wide Web almost 50 years before its invention.",
+      "links" : [
+         "http://www.britannica.com/EBchecked/topic/434719/Paul-Otlet"
+      ],
+      "year" : "1944"
+   },
+   {
+      "text" : "John Carmack and friends at iD Software released the video game Doom. It would launch a million mods and make the first person shooter the dominant form of video game for decades.",
+      "links" : [
+         "http://www.theverge.com/2013/12/10/5195508/doom-20th-anniversary-retrospective"
+      ],
+      "year" : "1993"
+   }
+]

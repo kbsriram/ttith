@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "The Tabulating Company (founded by Herman Hollerith), the Computing Scale Company, and the International Time Recording Company merged to form the Computing-Tabulating-Recording Company in Endicott, New York. They would later change the company name to International Business Machines,and later just IBM.",
+      "links" : [
+         "http://www-03.ibm.com/ibm/history/ibm100/us/en/icons/founded/"
+      ],
+      "year" : "1911"
+   },
+   {
+      "text" : "Soviet Cosmonaut Valentina Tereshkova became the first woman to fly in space, orbiting the Earth 48 times.",
+      "links" : [
+         "http://starchild.gsfc.nasa.gov/docs/StarChild/whos_who_level2/tereshkova.html"
+      ],
+      "year" : "1963"
+   },
+   {
+      "text" : "Software Development Laboratories was incorporated in Redwood Shores, California, by Larry Ellison, Bob Miner and Ed Oates. They later came up with the catchier name, Oracle.",
+      "links" : [
+         "http://www.oracle.com/us/corporate/investor-relations/faq/index.html"
+      ],
+      "year" : "1977"
+   }
+]

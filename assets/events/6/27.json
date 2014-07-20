@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "The first jet-powered airliner, the de Havilland Comet, made its first flight. Previously jet engines had only been used to power small fighter aircraft.",
+      "links" : [
+         "http://www.history.com/this-day-in-history/first-jet-makes-test-flight"
+      ],
+      "year" : "1949"
+   },
+   {
+      "text" : "Microsoft bought the rights for QDOS (Quick and Dirty Operating System) from Seattle Computer Products for $25,000.",
+      "links" : [
+         "http://www.extremetech.com/computing/91202-ms-dos-is-30-years-old-today"
+      ],
+      "year" : "1981"
+   },
+   {
+      "text" : "Microsoft released Windows NT 3.1, completing its attempt to build an advanced 32-bit operating system from scratch.",
+      "links" : [
+         "http://windows.microsoft.com/en-us/windows/history?SignedIn=1"
+      ],
+      "year" : "1993"
+   }
+]

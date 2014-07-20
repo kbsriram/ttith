@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "The US Patent Office received a patent application for the cyclotron by Ernest Orlando Lawrence as a \"Method and Apparatus for the Acceleration of Ions.\"",
+      "links" : [
+         "http://www.google.com/patents?id=egdOAAAAEBAJ&printsec=abstract&zoom=4#v=onepage&q&f=false"
+      ],
+      "year" : "1932"
+   },
+   {
+      "text" : "The Hale telescope at Palomar Observatory saw first light under the direction of Edwin Hubble, becoming the largest aperture optical telescope. Hubble photographed Hubble's Variable Nebula (NGC 2261).",
+      "links" : [
+         "http://www.astro.caltech.edu/palomar/hvn.html"
+      ],
+      "year" : "1949"
+   },
+   {
+      "text" : "Lotus began selling its spreadsheet application for Microsoft DOS, called 1-2-3. It would quickly become the most popular spreadsheet software but not make the transition to Windows well and fall behind Excel permanently.",
+      "links" : [
+         "http://www.wired.com/science/discoveries/news/2009/01/dayintech_0126"
+      ],
+      "year" : "1983"
+   }
+]

@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Photographer Eadweard Muybridge used high-speed photography to capture a horse's motion. The photos showed the horse with all four feet in the air during some parts of its stride. Stop-motion photography was born.",
+      "links" : [
+         "http://www.cmp.ucr.edu/collections/permanent/object_genres/photographers/muybridge/contents.html#"
+      ],
+      "year" : "1878"
+   },
+   {
+      "text" : "Jay Forrester wrote down a proposal for core memory in his notebook. Core memory was the standard for computer memory until advances in semiconductors in the 1970s.",
+      "links" : [
+         "http://www.edn.com/electronics-blogs/edn-moments/4375442/Forrester-records-a-proposal-for-core-memory-in-his-notebook--June-15--1949"
+      ],
+      "year" : "1949"
+   },
+   {
+      "text" : "Compuserve's Sandy Trevor and his team, which included inventor Steve Wilhite, released GIF version 87a. The new enhanced format allowed people to create compressed animations. \"Under Construction\" GIFs everywhere became possible.",
+      "links" : [
+         "http://www.dailydot.com/entertainment/gif-history-steve-wilhite-olia-lialina-interview/"
+      ],
+      "year" : "1987"
+   }
+]

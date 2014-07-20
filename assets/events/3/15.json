@@ -1,0 +1,24 @@
+[
+   {
+      "text" : "Leonardo da Vinci, one of the greatest artists, inventors and engineers in history, was born near the Tuscan town of Vinci.",
+      "links" : [
+         "http://www.bbc.co.uk/history/historic_figures/da_vinci_leonardo.shtml"
+      ],
+      "year" : "1452"
+   },
+   {
+      "text" : "The Edison General Electric Company and the Thomson-Houston Company merged to form the General Electric Company, manufacturer of dynamos and electric lights.",
+      "links" : [
+         "http://www.ge.com/innovation/timeline/eras/inspiration_to_industry.html",
+         "http://edison.rutgers.edu/list.htm"
+      ],
+      "year" : "1892"
+   },
+   {
+      "text" : "The first West Coast Computer Faire took place in Palo Alto, California. The star of the show would turn out to be the Apple II. The computer featured a built-in keyboard, 16 kilobytes of memory, BASIC, and eight expansion slots all for $1,300.",
+      "links" : [
+         "http://www.computerhistory.org/tdih/April/15/"
+      ],
+      "year" : "1977"
+   }
+]

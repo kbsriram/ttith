@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "NASA launched a Saturn V rocket carrying Apollo 4, a test craft launched from Cape Kennedy. It was the first launch in the Apollo program and the first time using the Launch Control Center at Kennedy Space Center.",
+      "links" : [
+         "http://science.ksc.nasa.gov/history/apollo/apollo-4/apollo-4.html"
+      ],
+      "year" : "1967"
+   },
+   {
+      "text" : "The NORAD computers detected a massive Soviet Nuclear Strike. Thankfully raw data from satellites were reviewed along with early warning radar, proving it was a false alarm. A technician had loaded a test tape but failed to switch the system status to \"test\". Oops!",
+      "links" : [
+         "http://www.gwu.edu/~nsarchiv/nukevault/ebb371/"
+      ],
+      "year" : "1979"
+   },
+   {
+      "text" : "The Mozilla Foundation released Firefox 1.0. It featured tabbed browsing and a popup blocker.",
+      "links" : [
+         "http://www.mozilla.org/en-US/press/mozilla-2004-11-09.html"
+      ],
+      "year" : "2004"
+   }
+]

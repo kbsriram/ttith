@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Construction began in Chicago on the Home Insurance Building, generally acknowledged as the first steel-frame high-rise skyscraper.",
+      "links" : [
+         "http://articles.chicagotribune.com/1997-02-20/news/9702200217_1_skyscraper-american-skyline-office-building"
+      ],
+      "year" : "1884"
+   },
+   {
+      "text" : "Shortly after construction had begun, NASA's Goddard Space Flight Center in Greenbelt, Maryland was officially named in honor of the pioneering rocket scientist.",
+      "links" : [
+         "http://www.nasa.gov/centers/goddard/about/dr_goddard.html"
+      ],
+      "year" : "1959"
+   },
+   {
+      "text" : "Thomas Kurtz and John Kemeny of Dartmouth College, launched a time-sharing system using a language meant to be learned quickly, called BASIC.",
+      "links" : [
+         "http://cis-alumni.org/BASIC.html"
+      ],
+      "year" : "1964"
+   }
+]

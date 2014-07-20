@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "Georges Claude, the first person to apply an electrical discharge to a sealed tube of neon gas, displayed the first neon lamp to the public at the Paris Motor Show.",
+      "links" : [
+         "http://inventors.about.com/od/qstartinventions/a/neon.htm"
+      ],
+      "year" : "1910"
+   },
+   {
+      "text" : "The Concorde, a joint British-French venture and the world's first supersonic airliner, was unveiled in Toulouse, France. Bigger news than the speed of the jet was the announcement that it was finally agreed that the British and French planes would both be spelled with an \"e\" at the end.",
+      "links" : [
+         "http://www.time.com/time/world/article/0,8599,2050872,00.html"
+      ],
+      "year" : "1967"
+   },
+   {
+      "text" : "Apollo 17 became the sixth and last Apollo mission to land on the Moon.",
+      "links" : [
+         "http://spaceflight.nasa.gov/history/apollo/apollo17/index.html"
+      ],
+      "year" : "1972"
+   },
+   {
+      "text" : "The Mars Climate Orbiter was successfully launched on a Delta II rocket from Cape Canaveral Air Station in Florida. However, the probe disappeared on September 23rd before reaching Mars, apparently destroyed because scientists had failed to convert English measures to metric values.",
+      "links" : [
+         "http://mars.jpl.nasa.gov/msp98/news/mco981211.html"
+      ],
+      "year" : "1998"
+   }
+]

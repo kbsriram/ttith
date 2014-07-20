@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Bob Metcalfe of the Xerox Palo Alto Research Center wrote a memo on an IBM selectric typewriter, outlining how to connect personal computers to a shared printer. Metcalfe says \"If Ethernet was invented in any one memo, by any one person, or on any one day, this was it.\"",
+      "links" : [
+         "http://www.digibarn.com/collections/diagrams/ethernet-original/"
+      ],
+      "year" : "1973"
+   },
+   {
+      "text" : "Namco released an arcade game called Puck-Man. When it was released in the US in October the name was altered to Pac-Man.",
+      "links" : [
+         "http://history1900s.about.com/od/1980s/qt/Pac-Man.htm"
+      ],
+      "year" : "1980"
+   },
+   {
+      "text" : "Microsoft released Windows 3.0. It featured big improvements in interface and multitasking. It's Control Panel feature caught the eye of Apple which sued, and lost.",
+      "links" : [
+         "http://www.eweek.com/c/a/IT-Infrastructure/The-Day-Microsoft-Went-Hollywood-with-Windows-30-292510/"
+      ],
+      "year" : "1990"
+   }
+]

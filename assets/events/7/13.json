@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "John Logie Baird was born in Helensburgh, Scotland. He would grow up to invent the first working television system in the world.",
+      "links" : [
+         "http://www.bbc.co.uk/history/historic_figures/baird_logie.shtml"
+      ],
+      "year" : "1888"
+   },
+   {
+      "text" : "The US Department of Commerce issued its first experimental radio license in compliance with the International Radio Convention and Radio Act of 1912. St. Joseph's College received a license with serial number 1 to operate 2 kilowatts station 3XJ.",
+      "links" : [
+         "http://www.nrcdxas.org/articles/1stfacts.txt"
+      ],
+      "year" : "1912"
+   },
+   {
+      "text" : "Adam Curry launched an RSS feed of audio recordings called \"Daily Source Code\" and podcasting became a thing.",
+      "links" : [
+         "http://radio-weblogs.com/0001014/categories/dailySourceCode/2004/08/13.html"
+      ],
+      "year" : "2004"
+   }
+]

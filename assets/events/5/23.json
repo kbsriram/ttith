@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Alan Turing was born in London, although his father worked for the Indian Civil Service and his parents lived in India. He helped break the code of the German enigma machine and developed the Turing test for artificial intelligence.",
+      "links" : [
+         "http://www.bbc.co.uk/history/people/alan_turing"
+      ],
+      "year" : "1912"
+   },
+   {
+      "text" : "Vint Cerf was born in New Haven, Connecticut. He grew up to become known as one of the fathers of the Internet, most famously for his co-creation of the protocols underlying TCP/IP.",
+      "links" : [
+         "http://www.imdb.com/name/nm0148576/bio"
+      ],
+      "year" : "1943"
+   },
+   {
+      "text" : "Paul Mockapetris and Jon Postel ran the first successful test of the automated, distributed Domain Name System at the University of Southern California School of Engineering's Information Sciences.",
+      "links" : [
+         "http://www.infoworld.com/d/applications/dns-marks-20th-birthday-128"
+      ],
+      "year" : "1983"
+   }
+]

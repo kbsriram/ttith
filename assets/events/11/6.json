@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Thomas Edison tested out his new phonograph invention, by recording the first lines of the poem \"Mary Had a Little Lamb.\" He recreated the event in 1927.",
+      "links" : [
+         "http://phonographia.com/phonobday.htm"
+      ],
+      "year" : "1877"
+   },
+   {
+      "text" : "Responding to Sputnik, the United States launched the Vanguard TV3. The rocket only made it a little over a meter off the launchpad before it fell back and was destroyed. A fuel leak was thought to have caused the failure.",
+      "links" : [
+         "http://archive.org/details/GPN-2001-000008"
+      ],
+      "year" : "1957"
+   },
+   {
+      "text" : "NASA revealed photographs from the Martian Global Surveyor, of two craters called Terra Sirenum and Centauri Montes which appeared to show the evidence that water existed on the surface Mars, as recently as five years before.",
+      "links" : [
+         "http://www.nasa.gov/mission_pages/mars/news/mgs-20061206.html"
+      ],
+      "year" : "2006"
+   }
+]

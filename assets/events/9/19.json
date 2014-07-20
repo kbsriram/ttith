@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Samuel Morse first conceived of the electric telegraph system. At least he said later this was the day he first thought of it.",
+      "links" : [
+         "http://books.google.com/books?id=Da6nJoa_9nQC&pg=PA43&lpg=PA43&dq=october+19+1832+samuel+morse&source=bl&ots=Kccb4Tn_UH&sig=Re6L_uE_YqFB0b8sVwiWKwHS2Uo&hl=en#v=onepage&q=october%2019%201832%20samuel%20morse&f=false"
+      ],
+      "year" : "1832"
+   },
+   {
+      "text" : "The Smith-Putnam Wind Turbine first fed AC power to the electric grid on Grandpa's Knob in Castleton, Vermont, becoming the first wind machine to do so. The 1.25 MW turbine operated for 1100 hours before a blade failed.",
+      "links" : [
+         "http://www.revermont.org/grandpa_knob.pdf"
+      ],
+      "year" : "1941"
+   },
+   {
+      "text" : "The Atanasoff-Berry Computer finally got its due. US Federal Judge Earl R. Larson signed his decision that the ENIAC patent was invalid and named Atanasoff the inventor of the electronic digital computer. But ENIAC still incorrectly gets the credit from many to this day.",
+      "links" : [
+         "http://www.columbia.edu/~td2177/JVAtanasoff/JVAtanasoff.html"
+      ],
+      "year" : "1973"
+   }
+]

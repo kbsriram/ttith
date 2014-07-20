@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "The United States successfully entered the space age with the successful launch of the Explorer I satellite. Data from the satellite confirmed the existence of the Van Allen radiation belt circling the Earth.",
+      "links" : [
+         "http://history.nasa.gov/sputnik/expinfo.html"
+      ],
+      "year" : "1958"
+   },
+   {
+      "text" : "The U.S. launched a four-year-old male chimpanzee named Ham on a Mercury-Redstone 2 rocket into suborbital flight to test the capabilities of the Mercury capsule.",
+      "links" : [
+         "http://www.californiasciencecenter.org/Exhibits/AirAndSpace/HumansInSpace/MercuryRedstone2/MercuryRedstone2.php"
+      ],
+      "year" : "1961"
+   },
+   {
+      "text" : "Astronauts Alan Shepard, Stuart Roosa, and Edgar Mitchell lifted off on the Apollo 14 mission to the Fra Mauro Highlands on the Moon.",
+      "links" : [
+         "http://www.lpi.usra.edu/lunar/missions/apollo/apollo_14/"
+      ],
+      "year" : "1971"
+   },
+   {
+      "text" : "The Consumer Electronics Association announced it was awarding the Dish Hopper co-winner of Best of CES and would begin searching for a new awards partner. CBS had forced CNET editors not to award Dish a prize due to ongoing litigation between the two companies.",
+      "links" : [
+         "http://paidcontent.org/2013/01/31/ces-severs-ties-with-cbs-over-dish-hopper-coverage/"
+      ],
+      "year" : "2013"
+   }
+]

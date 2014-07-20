@@ -1,0 +1,24 @@
+[
+   {
+      "text" : "Nippon Electric Company Ltd. (NEC) was founded by Iwadare Kunihiko, an expert in telegraphic systems who worked under Thomas Edison. Western Electric provided funding, making it the first Japanese joint-venture with a foreign company.",
+      "links" : [
+         "http://www.nec.com/en/global/about/corporate_profile.html",
+         "http://www.britannica.com/EBchecked/topic/664589/NEC-Corporation"
+      ],
+      "year" : "1899"
+   },
+   {
+      "text" : "DNS was widely disrupted making email routing and web page delivery spotty throughout the day. An Ingres database failure resulted in corrupt .COM and .NET zone files. A system administrator mistakenly released the zone file without regenerating the file and verifying its integrity.",
+      "links" : [
+         "http://scripting.com/davenet/stories/DNSOutage.html"
+      ],
+      "year" : "1997"
+   },
+   {
+      "text" : "Apple announced PC versions of the iPod with MusicMatch software instead of iTunes. The company also announced a 20 GB version of the music player and touch-sensitive scroll wheel and dropped the prices.",
+      "links" : [
+         "http://www.apple.com/pr/library/2002/07/17Apple-Unveils-New-iPods.html"
+      ],
+      "year" : "2002"
+   }
+]

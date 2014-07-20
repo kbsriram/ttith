@@ -1,0 +1,25 @@
+[
+   {
+      "text" : "The first atomic reactor built in the US for medical research, achieved criticality at Brookhaven National Laboratory in Upton, N.Y.",
+      "links" : [
+         "http://www.bnl.gov/bnlweb/history/BMRR.asp"
+      ],
+      "year" : "1959"
+   },
+   {
+      "text" : "Symbolics, a Massachusetts computer company, registered the Internet's first domain name, symbolics.com. The domain is now owned by an investment company who uses it as a marketing device. The remains of the original Symbolics company survived in altered form at symbolics-dks.com.",
+      "links" : [
+         "http://www.symbolics-dks.com/",
+         "http://www.networksolutions.com/whois-search/symbolics.com"
+      ],
+      "year" : "1985"
+   },
+   {
+      "text" : "Nicolas Jacobsen posted to a forum that he had hacked into T-Mobile's network and stolen information from major celebrities like Paris Hilton. Jacobsen was later charged with two counts of violating the U.S. Computer Fraud and Abuse Act.",
+      "links" : [
+         "http://news.cnet.com/2100-7349_3-5534323.html",
+         "http://hackstory.net/Hack_de_T-Mobile"
+      ],
+      "year" : "2004"
+   }
+]

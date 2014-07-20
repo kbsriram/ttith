@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "The world's first drive-in movie theater opened in Camden, New Jersey. Richard Hollingshead Jr. had developed the system by using a 1928 Kodak projector mounted on the hood of his car and aimed at a screen pinned to some trees.",
+      "links" : [
+         "http://www.history.com/this-day-in-history/first-drive-in-movie-theater-opens"
+      ],
+      "year" : "1933"
+   },
+   {
+      "text" : "Tetris, one of the best-selling video games of all-time, was released. It was invented by a Soviet programmer, Alexei Pazhitnov and popularized by Hank Rogers who bought the rights and distributed it.",
+      "links" : [
+         "http://russianow.washingtonpost.com/2010/06/the-game-of-an-era.php"
+      ],
+      "year" : "1984"
+   },
+   {
+      "text" : "The Los Angeles Times reported that Father Leonard Boyle was working to put the Vatican's library on the World Wide Web through a site funded by IBM.",
+      "links" : [
+         "http://www.computerhistory.org/tdih/June/6/"
+      ],
+      "year" : "1995"
+   },
+   {
+      "text" : "The Guardian published another leak from Edward Snowden about the PRISM project used to gather data held by Google, Facebook, Apple and other US tech companies. The tech companies denied \"back door access\" to their systems.",
+      "links" : [
+         "http://www.guardian.co.uk/world/2013/jun/06/us-tech-giants-nsa-data"
+      ],
+      "year" : "2013"
+   }
+]

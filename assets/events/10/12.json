@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "The US Army held a contest between an abacus used by Kiyoshi Matsuzaki from Japan's postal ministry and an electric calculator operated by Private Thomas Nathan Wood. The abacus won 4 to 1.",
+      "links" : [
+         "http://www.wired.com/thisdayintech/2009/11/1112abacus-beats-calculator/"
+      ],
+      "year" : "1946"
+   },
+   {
+      "text" : "The Oregon Highway Divisions made an ill-advised attempt to destroy a dead whale by blowing it up with explosives. The results, documented by local news, eventually became Internet gold as the \"exploding whale\" video.",
+      "links" : [
+         "http://www.offbeatoregon.com/H001_ExplodWhale.html"
+      ],
+      "year" : "1970"
+   },
+   {
+      "text" : "Tim Berners-Lee published a formal proposal for a hypertext project. The proposal referred to a \"web of information nodes\" and implementing \"browsers\" The project eventually became the World Wide Web.",
+      "links" : [
+         "http://www.w3.org/Proposal"
+      ],
+      "year" : "1990"
+   }
+]

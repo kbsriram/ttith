@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "In Well der Stadt, Wurttemberg of the Holy Roman Empire, Johannes Kepler was born. His theories like the laws of planetary motion came in handy for Isaac Newton.",
+      "links" : [
+         "http://kepler.nasa.gov/Mission/JohannesKepler/"
+      ],
+      "year" : "1571"
+   },
+   {
+      "text" : "Apollo 8 splashed down in the Pacific Ocean, ending the first manned orbit of the Moon.",
+      "links" : [
+         "http://airandspace.si.edu/collections/imagery/apollo/as08/a08facts.htm"
+      ],
+      "year" : "1968"
+   },
+   {
+      "text" : "Warner Music Group became the third major music label to begin selling DRM-free MP3s through Amazon.",
+      "links" : [
+         "http://www.tuaw.com/2007/12/27/warner-music-group-ditches-drm-on-amazon-mp3-only/"
+      ],
+      "year" : "2007"
+   }
+]

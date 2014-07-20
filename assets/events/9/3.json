@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "Germany conducted the first successful test of the V-2/A4 rocket, launched from Test Stand VII at Peenemunde. It traveled 118 miles.",
+      "links" : [
+         "http://www.history.com/this-day-in-history/germany-conducts-first-successful-v-2-rocket-test"
+      ],
+      "year" : "1942"
+   },
+   {
+      "text" : "John Bardeen, Walter Brattain, and William Shockley received US patents for circuits what would eventually be called the transistor.",
+      "links" : [
+         "http://www.jmripl.com/Publications/Vol8/Issue1/Ebert.pdf"
+      ],
+      "year" : "1954"
+   },
+   {
+      "text" : "The first USA/Japan Computer Conference was held in Tokyo.",
+      "links" : [
+         "http://books.google.com/books/about/First_USA_Japan_Computer_Conference_proc.html?id=eY4mAAAAMAAJ"
+      ],
+      "year" : "1972"
+   },
+   {
+      "text" : "STS-51J lifted off Sending the Space Shuttle Atlantis on its maiden flight. It was the fourth shuttle created and eventually became the last shuttle to fly in July 2011.",
+      "links" : [
+         "http://www.nasa.gov/mission_pages/shuttle/shuttlemissions/archives/sts-51J.html"
+      ],
+      "year" : "1985"
+   }
+]

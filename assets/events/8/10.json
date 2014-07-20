@@ -1,0 +1,28 @@
+[
+   {
+      "text" : "Peter Deutsch posted to comp.archives about the Internet Archive Server called \"Archie\" that he, Alan Emtage, and Bill Heelan had put together. It is often considered the Internet's first search engine.",
+      "links" : [
+         "https://groups.google.com/forum/?fromgroups#!msg/comp.archives/LWVA50W8BKk/wyRbF_lDc6cJ"
+      ],
+      "year" : "1990"
+   },
+   {
+      "text" : "Paul Lindner posted to comp.unix.misc introducing \"The Internet Gopher\" a distributed information service. Before the World Wide Web, Gopher was the prime way to find and share documents online.",
+      "links" : [
+         "https://groups.google.com/forum/?fromgroups#!topic/comp.unix.misc/-CGG1XLkjfk"
+      ],
+      "year" : "1991"
+   },
+   {
+      "text" : "The Large Hadron Collider at CERN powered up in Geneva, Switzerland, on its quest to discover the secrets of particle physics, especially evidence for the Higgs Boson.",
+      "links" : [
+         "http://www.nature.com/news/2008/080910/full/news.2008.1098.html"
+      ],
+      "year" : "2008"
+   },
+   {
+      "text" : "Apple announced two new phones, the iPhone 5S with a fingerprint scanner, and the iPhone 5C a cheaper and colored version of the iPhone 5.",
+      "links" : [],
+      "year" : "2013"
+   }
+]

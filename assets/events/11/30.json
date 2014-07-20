@@ -1,0 +1,24 @@
+[
+   {
+      "text" : "A number of gentlemen in New York City founded the American Metrological Society, feeling that a change to the Metric System was needed by civilized nations. 100 years later they're defunct and gallons, miles, and Fahrenheit rule the US.",
+      "links" : [
+         "http://books.google.com/books?id=DKhPAAAAYAAJ&pg=PA60&lpg=PA60&dq=american+metrological+society+1873&source=bl&ots=gT8i4uxLl6&sig=OStywp4Jujdjwfuac0vsHqSVCMI&hl=en&ei=j5DhTrDpG8nQiAK6jMWVDw&sa=X&oi=book_result&ct=result&resnum=7&ved=0CFoQ6AEwBg#v=onepage&q=american%20metrological%20society%201873&f=false",
+         "http://www.archive.org/stream/bulletinamerica00socigoog#page/n1/mode/2up"
+      ],
+      "year" : "1873"
+   },
+   {
+      "text" : "Dr William David Coolidge received his patent for improvements in tungsten and methods for making the same for use as filaments in incandescent lights. It made light bulbs last a lot longer. Too bad that in 1928, GE got a court to declare the patent was not an invention.",
+      "links" : [
+         "http://books.google.com/books?id=UX44AAAAIAAJ&pg=PA824&lpg=PA824&dq=patent+1,082,933&source=bl&ots=M0sZ-KWp7T&sig=yjGTG16ZzYsKrQKQWU8Q5QrhKF8&hl=en&ei=xJHhTtTWC-iLiALPueEk&sa=X&oi=book_result&ct=result&resnum=3&ved=0CC4Q6AEwAg#v=onepage&q=patent%201%2C082%2C933&f=false"
+      ],
+      "year" : "1913"
+   },
+   {
+      "text" : "Astronomer Edwin Hubble announced that he had found stars in the spiral nebula Andromeda, and using Leavitt's formula measured them as 860,000 light years away proving Andromeda was a separate galaxy. He would go on to find a dozen more galaxies.",
+      "links" : [
+         "http://www.wired.com/thisdayintech/2009/12/1230hubble-first-galaxy-outside-milky-way/"
+      ],
+      "year" : "1924"
+   }
+]

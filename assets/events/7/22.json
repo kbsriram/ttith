@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "The BBC began public television broadcasts.",
+      "links" : [
+         "http://news.bbc.co.uk/2/hi/entertainment/1146543.stm"
+      ],
+      "year" : "1932"
+   },
+   {
+      "text" : "The first computer user group, SHARE was founded by users of IBM's Model 704 computer. The first meeting was held in the basement conference room of the RAND Corporation.",
+      "links" : [
+         "http://americanhistory.si.edu/archives/AC0567.htm"
+      ],
+      "year" : "1955"
+   },
+   {
+      "text" : "The Storm botnet sent out a record 57 million virus-infected emails. It failed to take down the Internet.",
+      "links" : [
+         "http://www.fastcompany.com/blog/clay-dillow/culture-buffet/fast-history-storm-botnet-sends-57-million-emails-one-day-2007"
+      ],
+      "year" : "2007"
+   }
+]

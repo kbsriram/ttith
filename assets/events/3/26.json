@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "The New York Times reported that \"sending mails by electricity\" was to be investigated by the Post Office Committee of the U.S. House, by providing for contracts with an existing telegraph company. The article promised it could lead to 10 cent telegrams!",
+      "links" : [
+         "http://query.nytimes.com/gst/abstract.html?res=9803E3DA1138E033A25755C2A9629C94659FD7CF"
+      ],
+      "year" : "1884"
+   },
+   {
+      "text" : "The Convention Establishing the World Intellectual Property Organization entered into force.",
+      "links" : [
+         "http://www.wipo.int/ip-outreach/en/ipday/"
+      ],
+      "year" : "1970"
+   },
+   {
+      "text" : "Design flaws made worse by human error during a safety test, led to the worst nuclear disaster yet, and a partial meltdown at the Chernobyl Nuclear Plant.",
+      "links" : [
+         "http://www.world-nuclear.org/info/Safety-and-Security/Safety-of-Plants/Chernobyl-Accident/#.Ud7xfz54Zvg"
+      ],
+      "year" : "1986"
+   },
+   {
+      "text" : "A team of archaeologists hired by hired by Fuel Entertainment and Xbox Entertainment Studios uncovered a pile of buried Atari E.T. games in a landfill in Alamogordo, New Mexico. The games were dumped 31 years before after the game flopped in sales.",
+      "links" : [
+         "http://arstechnica.com/gaming/2014/04/landfill-excavation-unearths-years-of-crushed-atari-treasure/"
+      ],
+      "year" : "2014"
+   }
+]

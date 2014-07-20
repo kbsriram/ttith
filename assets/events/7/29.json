@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "Michael Faraday discovered electromagnetic induction which is used in power generation and power transmission by generators, transformers, induction motors, electric motors, synchronous motors, and solenoids.",
+      "links" : [
+         "http://physics.info/news/?p=38"
+      ],
+      "year" : "1831"
+   },
+   {
+      "text" : "Astronaut L. Gordon Cooper, orbiting 100 miles above the Earth in Gemini 5 talked with aquanaut M. Scott Carpenter in Sealab II, 205 feet below the surface of the Pacific Ocean. It happened to be Cooper's wedding anniversary.",
+      "links" : [
+         "http://history.nasa.gov/40thmerc7/cooper.htm"
+      ],
+      "year" : "1965"
+   },
+   {
+      "text" : "The British Computer Misuse Act went into effect. The Act resulted from a long debate in the 1980s over failed prosecutions of hackers.",
+      "links" : [
+         "http://usir.salford.ac.uk/15815/7/MacEwan_Crim_LR.pdf"
+      ],
+      "year" : "1990"
+   },
+   {
+      "text" : "Niklas Zennstrom and Janus Friis founded Skype, the Voice over Internet Provider that would go on to dominate the space.",
+      "links" : [
+         "http://blogs.skype.com/2013/08/28/skype-celebrates-a-decade-of-meaningful-conversations/?cm_mmc=SMTW7001_B1-_-Outgoing%20-%20Holiday/Seasonal"
+      ],
+      "year" : "2003"
+   }
+]

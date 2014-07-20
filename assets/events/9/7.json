@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Englishman Ralph Wedgwood received the first patent on carbon paper, which led to the initials cc to indicate a carbon copy which led to the email option to \"cc\" somebody.",
+      "links" : [
+         "http://www.rc.umd.edu/editions/southey_letters/Part_Three/HTML/letterEEd.26.1228.html"
+      ],
+      "year" : "1806"
+   },
+   {
+      "text" : "IBM sounded the death knell of vacuum tubes, building the first calculating machine to use solid-state transistors. It was an experimental version of the IBM 604 Electronic Calculating Punch, that was desktop-sized and slow just like it's vacuum-tube powered brother, but it used 5% of the power!",
+      "links" : [
+         "http://www.wired.com/thisdayintech/2010/10/1007ibm-transistor-calculator/"
+      ],
+      "year" : "1954"
+   },
+   {
+      "text" : "The Soviet Space Probe Luna 3 took the first photographs of the dark side of the moon. You're welcome Pink Floyd.",
+      "links" : [
+         "http://www.lpi.usra.edu/lunar/missions/luna/"
+      ],
+      "year" : "1959"
+   }
+]

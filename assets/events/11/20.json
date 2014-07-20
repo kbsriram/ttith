@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "New York's Broadway from 14th to 26th street was first lighted by electricity and became known as the \"Great White Way.\"",
+      "links" : [
+         "http://news.cnet.com/Apple-acquires-Next,-Jobs/2100-1001_3-256914.html"
+      ],
+      "year" : "1880"
+   },
+   {
+      "text" : "In Idaho, the Experimental Breed Reactor no. 1 aka EBR-1 became the first power plant to produce electricity using atomic energy. It would take 2 more years to prove it could create more fuel than it consumed.",
+      "links" : [
+         "http://www.inl.gov/ebr/"
+      ],
+      "year" : "1951"
+   },
+   {
+      "text" : "Apple announced it would acquire NeXT Computer and bring co-founder Steve Jobs back to the company he left in 1985.",
+      "links" : [
+         "http://news.cnet.com/Apple-acquires-Next,-Jobs/2100-1001_3-256914.html"
+      ],
+      "year" : "1996"
+   }
+]

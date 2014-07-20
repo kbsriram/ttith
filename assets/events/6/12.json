@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "George Eastman was born to Maria Kilbourn and George Washington Eastman in Waterville, New York. He went on to found the Eastman Kodak Company and invented the roll of film.",
+      "links" : [
+         "http://www.kodak.com/ek/US/en/Our_Company/History_of_Kodak/George_Eastman.htm"
+      ],
+      "year" : "1854"
+   },
+   {
+      "text" : "At an IBM sales meeting, Thomas J. Watson Jr. predicted that within 10 years, electronics would replace moving parts in machines. His vision launched IBM into dominating the computer industry.",
+      "links" : [
+         "http://www.computerhistory.org/tdih/July/12/"
+      ],
+      "year" : "1949"
+   },
+   {
+      "text" : "Apple announced the iTunes Music Store sold its 100,000,000th downloaded song. \"Somersault (Dangermouse remix)\" by Zero 7 was purchased by Kevin Britten of Hays, Kansas.",
+      "links" : [
+         "http://www.apple.com/pr/library/2004/07/12iTunes-Music-Store-Downloads-Top-100-Million-Songs.html"
+      ],
+      "year" : "2004"
+   }
+]

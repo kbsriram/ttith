@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "The first commercial telephone exchange in the U.S. was installed at New Haven, Connecticut, and served 21 subscribers connected by a single strand of iron wire. Only two conversations could be handled simultaneously and six connections had to be made for each call.",
+      "links" : [
+         "http://www.nps.gov/nhl/DOE_dedesignations/Telephone.htm"
+      ],
+      "year" : "1878"
+   },
+   {
+      "text" : "The Communications Moon Relay System was inaugurated publicly when a facsimile picture of the USS Hancock was transmitted wirelessly by radio wave to Washington DC, by being bounced off the moon.",
+      "links" : [
+         "http://www.nrl.navy.mil/accomplishments/systems/moon-relay/"
+      ],
+      "year" : "1960"
+   },
+   {
+      "text" : "The Space Shuttle Challenger experienced an O-ring failure in the right solid rocket booster during flight. 73 seconds after liftoff a catastrophic explosion claimed crew and vehicle.",
+      "links" : [
+         "http://www.nasa.gov/mission_pages/shuttle/shuttlemissions/archives/sts-51L.html"
+      ],
+      "year" : "1986"
+   },
+   {
+      "text" : "The Baltimore Ravens and the New York Giants faced off in Tampa Bay, Florida, for Super Bowl XXXV, and facial-recognition surveillance cameras pointed at tens of thousands of fans entering the game. It found 12 false positives.",
+      "links" : [
+         "http://www.itl.nist.gov/iad/News/FaceRecog3.html"
+      ],
+      "year" : "2001"
+   }
+]

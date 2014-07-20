@@ -1,0 +1,24 @@
+[
+   {
+      "text" : "Fred Cohen demonstrated a way to insert code into a Unix command in order to gain control of systems. His academic adviser, Len Adelman (the A in RSA) compared the self-replicating code to a virus. It wasn't the first code of it's kind, but it's the one that inspired the name.",
+      "links" : [
+         "http://www.wired.com/thisdayintech/2009/11/1110fred-cohen-first-computer-virus/"
+      ],
+      "year" : "1983"
+   },
+   {
+      "text" : "At the plaza hotel in New York, Bill Gates announced Windows. It originally was called Interface Manager until Rowland Hanson convinced Gates to change the name. It would take two years before Microsoft would put it on sale.",
+      "links" : [
+         "http://inventors.about.com/od/mstartinventions/a/Windows.htm"
+      ],
+      "year" : "1983"
+   },
+   {
+      "text" : "The first Apple iPod went on sale. Analysts agreed that the price of $399 was too high, and Apple was too inexperienced in consumer electronics to make it a success.",
+      "links" : [
+         "http://www.apple.com/pr/library/2001/10/23Apple-Presents-iPod.html",
+         "http://liveweb.archive.org/http://news.cnet.com/2100-1040-275054.html&tag=mn_hd"
+      ],
+      "year" : "2001"
+   }
+]

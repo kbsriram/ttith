@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Grace Hopper was born. She would rise to the rank of Rear Admiral but be best remembered for popularizing the term \"debugging\" for hunting down computer errors. She conceptualized the idea of machine-independent programming languages, which led to the development of COBOL.",
+      "links" : [
+         "http://www.agnesscott.edu/lriddle/women/hopper.htm"
+      ],
+      "year" : "1906"
+   },
+   {
+      "text" : "Computer scientist Douglas Engelbart gave a legendary product demonstration of NLS that would become known as \"the mother of all demos.\" Among other things it introduced the computer mouse, video conferencing, teleconferencing, hypertext, word processing, hypermedia, object addressing and dynamic file linking, bootstrapping, and a collaborative real-time editor.",
+      "links" : [
+         "http://codinginparadise.org/weblog/2008/02/original-program-announcement-for.html"
+      ],
+      "year" : "1968"
+   },
+   {
+      "text" : "Microsoft released Windows 2.0 which among other improvements could run the first Windows versions of Microsoft Word and Microsoft Excel.",
+      "links" : [
+         "http://windows.microsoft.com/en-US/windows/history"
+      ],
+      "year" : "1987"
+   }
+]

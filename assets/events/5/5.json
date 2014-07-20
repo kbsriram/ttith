@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "Ada Gordon, daughter of Lord Byron (and future Countess Lovelace) met Charles Babbage for the first time. He designed an early computer, and she published a description of his work and wrote the first computer program.",
+      "links" : [
+         "http://www.computerhistory.org/tdih/June/5/"
+      ],
+      "year" : "1833"
+   },
+   {
+      "text" : "The Apple II went on sale. It had a bus speed of 1 MHz and 64 KB of memory.",
+      "links" : [
+         "http://www.itwire.com/science-news/energy/12646-apple-ii-thirty-years-ago-the-first-pc-went-on-sale"
+      ],
+      "year" : "1977"
+   },
+   {
+      "text" : "Mozilla.org announced the release of Mozilla 1.0, an open-source browser built on the Gecko engine that also powered Netscape.",
+      "links" : [
+         "http://www.mozillazine.org/articles/article2278.html"
+      ],
+      "year" : "2002"
+   },
+   {
+      "text" : "The Guardian published its first exclusive based on Edward Snowden's leaks, revealing a secret court order forced Verizon to hand over the phone records of millions of customers to the US government.",
+      "links" : [
+         "http://www.guardian.co.uk/world/2013/jun/06/nsa-phone-records-verizon-court-order"
+      ],
+      "year" : "2013"
+   }
+]

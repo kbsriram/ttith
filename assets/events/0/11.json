@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "BBC TV broadcast their first 'in-vision' weather forecast. George Cowling of the Meteorological Office presented from the BBC's Lime Grove studios with two hand-drawn weather charts pinned to an easel.",
+      "links" : [
+         "http://www.bbc.co.uk/pressoffice/pressreleases/stories/2004/01_january/06/weather_50th.shtml"
+      ],
+      "year" : "1954"
+   },
+   {
+      "text" : "AOL and Time Warner completed their merger. At the time it was seen as a signal of the victory of the Internet over old media. Time Warner would eventually come out on top and spin AOL back out as separate company.",
+      "links" : [
+         "http://news.cnet.com/2100-1023-250781.html"
+      ],
+      "year" : "2001"
+   },
+   {
+      "text" : "Apple introduced the first iPod Shuffle, a music player with no screen and flash memory.",
+      "links" : [
+         "http://www.apple.com/pr/library/2005/01/11Apple-Introduces-iPod-shuffle.html"
+      ],
+      "year" : "2005"
+   },
+   {
+      "text" : "RSS 1.0 and Reddit Developer Aaron Swartz was found dead after committing suicide.",
+      "links" : [
+         "http://www.huffingtonpost.com/2013/01/12/aaron-swartz-suicide_n_2462819.html"
+      ],
+      "year" : "2013"
+   }
+]

@@ -1,0 +1,24 @@
+[
+   {
+      "text" : "Ernst Werner von Siemens presented his \"trackless trolley\" called the \"Elektromote\" in a Berlin suburb. The system pulled electricity from overhead wires, but used road wheels instead of tracks.",
+      "links" : [
+         "http://www.siemens.com/history/en/innovations/transportation.htm#toc-2",
+         "http://www.wired.com/thisdayintech/2010/04/0429first-trolleybus/"
+      ],
+      "year" : "1882"
+   },
+   {
+      "text" : "KECA-TV, an ABC affiliate in Los Angeles, California, broadcast the first US experimental 3D-TV. An episode of Space Patrol required specially polarized glasses to watch.",
+      "links" : [
+         "http://www.edn.com/electronics-blogs/edn-moments/4412950/1st-US-3D-TV-program-is-broadcast--April-29--1953"
+      ],
+      "year" : "1953"
+   },
+   {
+      "text" : "Apple released Mac OS X 10.4 Tiger, introducing spotlight search and dashboard functionality.",
+      "links" : [
+         "http://www.apple.com/pr/library/2005/04/28Apple-Unleashes-Tiger-Friday-at-6-00-p-m.html"
+      ],
+      "year" : "2005"
+   }
+]

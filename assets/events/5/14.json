@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "Charles Babbage announced his difference engine in a paper to the Royal Astronomical Society entitled \"Note on the application of machinery to the computation of astronomical and mathematical tables\".",
+      "links" : [
+         "http://www-history.mcs.st-andrews.ac.uk/Biographies/Babbage.html"
+      ],
+      "year" : "1822"
+   },
+   {
+      "text" : "The U.S. Census Bureau officially put UNIVAC I into service calling it the world's first commercial computer.",
+      "links" : [
+         "http://articles.cnn.com/2001-06-14/tech/computing.anniversary_1_vacuum-tubes-univacs-first-computer?_s=PM:TECH"
+      ],
+      "year" : "1951"
+   },
+   {
+      "text" : "The European Space Research Organization, which would become the European Space Agency, was established in Paris.",
+      "links" : [
+         "http://www.jaxa.jp/library/space_law/chapter_1/1-2-2-4_e.html"
+      ],
+      "year" : "1962"
+   },
+   {
+      "text" : "NASA launched Mariner 5 on its mission to fly by Venus.",
+      "links" : [
+         "http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1967-060A"
+      ],
+      "year" : "1967"
+   }
+]

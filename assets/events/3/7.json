@@ -1,0 +1,32 @@
+[
+   {
+      "text" : "The Bell System sent live TV images of Herbert Hoover, then the Secretary of Commerce, over telephone lines from Washington, D.C. to an auditorium in Manhattan. It was the first public demonstration in the US of long-distance television transmission.",
+      "links" : [
+         "http://www.corp.att.com/attlabs/reputation/timeline/27tv.html",
+         "http://www.wired.com/entertainment/hollywood/news/2007/04/tvhistory_0406"
+      ],
+      "year" : "1927"
+   },
+   {
+      "text" : "IBM unveiled the System/360 line of mainframe computers, its most successful computer system. It was called the \"360\" because it was meant to address all possible sizes and types of customer with one unified software-compatible architecture.",
+      "links" : [
+         "http://www-03.ibm.com/ibm/history/exhibits/mainframe/mainframe_PR360.html"
+      ],
+      "year" : "1964"
+   },
+   {
+      "text" : "The first Request For Comment, RFC 1 put together by Steve Crocker was distributed on the newly operational ARPANET. RFCs describe methods, behaviors, research, or innovations applicable to the working of the Internet.",
+      "links" : [
+         "http://isen.com/blog/2009/04/40th-anniversary-of-rfc-1.html",
+         "http://tools.ietf.org/html/rfc1"
+      ],
+      "year" : "1969"
+   },
+   {
+      "text" : "OpenSSL issued a security advisory about a vulnerability that would come to be called 'Heartbleed.' The bug was in the TLS Heartbeat function, that when implemented could be used to reveal up to 64k of memory to a connected client or server. Unpatched servers could have their private keys stolen making it easy for malicious hackers to pretend to have certified secure connections.",
+      "links" : [
+         "https://www.openssl.org/news/secadv_20140407.txt"
+      ],
+      "year" : "2014"
+   }
+]

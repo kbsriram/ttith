@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "In one of the earliest examples of white hat hacking, Nevil Maskelyne interrupted a demonstration of the Marconi radio communications system at the Royal Institution, London. Before Marconi's message from Poldhu, Cornwall could arrive, Maskelyne hijacked the signal sending the word \"rast\" repeatedly and then the phrases, \"There was a young fellow of Italy, who diddled the public quite prettily.\"",
+      "links" : [
+         "http://books.google.com/books?id=UjXGQSPXvIcC&pg=PA108&lpg=PA108&dq=Marconi+radio+demonstration+at+the+Royal+Institution,+London+1903&source=bl&ots=5I-39pBVKI&sig=Y5yjsdCYkmsFVrm8naAcEegEW1E&hl=en&sa=X&ei=wrelT-6YLsrWiAL7puHSAg&ved=0CGgQ6AEwCA#v=onepage&q=Marconi%20radio%20demonstration%20at%20the%20Royal%20Institution%2C%20London%201903&f=false"
+      ],
+      "year" : "1903"
+   },
+   {
+      "text" : "JVC introduced the open standard for the VHS videocassette in North America at a press conference before the Consumer Electronics Show in Chicago.",
+      "links" : [
+         "http://www.electronichouse.com/article/print/vhs_in_the_usa_turns_33_doesnt_look_a_day_over_30/"
+      ],
+      "year" : "1977"
+   },
+   {
+      "text" : "Falcon 9 Flight 1 launched the maiden flight of the SpaceX Falcon 9 rocket, setting a new benchmark for non-governmental space flight. The rocket put a dummy payload into orbit as a test.",
+      "links" : [
+         "http://news.cnet.com/8301-19514_3-20006863-239.html"
+      ],
+      "year" : "2010"
+   }
+]

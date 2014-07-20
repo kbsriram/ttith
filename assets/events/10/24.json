@@ -1,0 +1,24 @@
+[
+   {
+      "text" : "The FBI Scientific Crime Detection Laboratory (known then only as the Technical Crime Laboratory) officially opened in Washington DC. It's location was chosen because it had a sink, and its one employee, Agent Charles Appel had to borrow a microscope.",
+      "links" : [
+         "http://www.history.com/this-day-in-history/the-fbi-crime-lab-opens-its-doors-for-business",
+         "http://www.fbi.gov/about-us/history/highlights-of-history/articles/laboratory"
+      ],
+      "year" : "1932"
+   },
+   {
+      "text" : "The Apollo 12 command module with its all-Navy crew splashed down safely in the Pacific Ocean, ending the second manned mission to the Moon. Credit goes to the USS Hornet for its second flawless recovery effort.",
+      "links" : [
+         "http://www.uss-hornet.org/history/apollo/"
+      ],
+      "year" : "1969"
+   },
+   {
+      "text" : "AOL announced it would purchase Netscape Communications, merging what were then two of the biggest names on the Internet.",
+      "links" : [
+         "http://money.cnn.com/1998/11/24/technology/aol/"
+      ],
+      "year" : "1998"
+   }
+]

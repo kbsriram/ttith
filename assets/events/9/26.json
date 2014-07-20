@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "The first electric generator went into full operation at Hoover Dam. About a month after President Roosevelt had dedicated the dam and tried to encourage people to call it the Boulder Dam.",
+      "links" : [
+         "http://www.usbr.gov/projects/Project.jsp?proj_Name=Boulder+Canyon+Project+-+Hoover+Dam"
+      ],
+      "year" : "1936"
+   },
+   {
+      "text" : "Software deployment issues in CAD, the new ambulance dispatch system in London caused 30-45 deaths. Poor training, a memory leak and no load testing contributed to the failure.",
+      "links" : [
+         "http://www.cs.ucl.ac.uk/staff/a.finkelstein/las/lascase0.9.pdf"
+      ],
+      "year" : "1992"
+   },
+   {
+      "text" : "Apple debuted the iPod photo, capable of displaying digital photographs and album art on a built-in color screen.",
+      "links" : [
+         "http://www.apple.com/pr/library/2004/10/26Apple-Introduces-iPod-Photo.html"
+      ],
+      "year" : "2004"
+   },
+   {
+      "text" : "Microsoft's Windows 8 operating system went on sale, with its tile-based start screen.",
+      "links" : [
+         "http://windowsteamblog.com/windows/b/bloggingwindows/archive/2012/07/18/windows-8-will-be-available-on.aspx"
+      ],
+      "year" : "2012"
+   }
+]

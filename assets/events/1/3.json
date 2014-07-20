@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "Joseph Wilson Swan demonstrated the first practically usable incandescent filament electric light bulb to 700 people at the Literary and Philosophical Society of Newcastle upon Tyne.",
+      "links" : [
+         "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5197568&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel5%2F5176125%2F5197544%2F05197568.pdf%3Farnumber%3D5197568"
+      ],
+      "year" : "1879"
+   },
+   {
+      "text" : "The Soviet Luna 9 spacecraft landed safely on the moon in the Ocean of Storms. It was the first lunar soft landing and first transmission of photographic data from the Moon to Earth.",
+      "links" : [
+         "http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1966-006A"
+      ],
+      "year" : "1966"
+   },
+   {
+      "text" : "The Number Resource Organization announced that the free pool of available IPv4 addresses was fully depleted. The IANA allocated the last of the blocks equally between the five Regional Internet Registries.",
+      "links" : [
+         "http://www.nro.net/news/ipv4-free-pool-depleted"
+      ],
+      "year" : "2011"
+   },
+   {
+      "text" : "Facebook launched its 'Paper' app for iOS int he US. Paper provided a more magazine like format for viewing Facebook content.",
+      "links" : [
+         "http://recode.net/2014/01/30/meet-paper-facebooks-answer-to-browsing-and-creating-mobile-media/"
+      ],
+      "year" : "2014"
+   }
+]

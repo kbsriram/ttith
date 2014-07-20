@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "The United States detonated a plutonium-based test nuclear weapon at the Alamogordo Bombing and Gunnery Range in New Mexico. The Trinity test ushered in the atomic age.",
+      "links" : [
+         "http://www.osti.gov/manhattan-project-history/Events/1945/trinity.htm"
+      ],
+      "year" : "1945"
+   },
+   {
+      "text" : "VisiCalc creator Dan Bricklin was born in Philadelphia.",
+      "links" : [
+         "http://www.computerhistory.org/tdih/July/16/"
+      ],
+      "year" : "1951"
+   },
+   {
+      "text" : "Neil A. Armstrong, Edwin E. Aldrin, Jr., and Michael Collins, blasted off from Cape Kennedy on Apollo 11, the first manned mission to the surface of the moon.",
+      "links" : [
+         "http://science.ksc.nasa.gov/history/apollo/apollo-11/apollo-11.html"
+      ],
+      "year" : "1969"
+   },
+   {
+      "text" : "Amazon.com opened for business selling books online. Shipments were packed into boxes from a desk made out of a spare door in a two-car garage in Bellevue, Washington.",
+      "links" : [
+         "http://content.time.com/time/business/article/0,8599,2004089,00.html"
+      ],
+      "year" : "1995"
+   }
+]

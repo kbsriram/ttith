@@ -1,0 +1,25 @@
+[
+   {
+      "text" : "Thomas Edison announced his invention of the phonograph, a machine that could record and play sound.",
+      "links" : [
+         "http://www.history.com/this-day-in-history/edisons-first-great-invention",
+         "http://memory.loc.gov/ammem/edhtml/edcyldr.html"
+      ],
+      "year" : "1877"
+   },
+   {
+      "text" : "The Annalen Der Physik published Albert Einstein's paper, entitled \"Does the Inertia of a Body Depend Upon Its Energy Content?\" The paper revealed the relationship between energy and mass. You know the relationship as E = mc^2.",
+      "links" : [
+         "http://www.wired.com/science/discoveries/news/2007/11/dayintech_1121",
+         "http://www.physik.uni-augsburg.de/annalen/history/einstein-papers/1905_18_639-641.pdf"
+      ],
+      "year" : "1905"
+   },
+   {
+      "text" : "The first permanent ARPANET link was established between the Interface Message Processor or IMP at UCLA and the IMP at the Stanford Research Institute.",
+      "links" : [
+         "http://www.computerhistory.org/tdih/November/21/"
+      ],
+      "year" : "1969"
+   }
+]

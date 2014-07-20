@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "Samuel Pierpoint Langley's Aerodrome No. 5 made the first successful flight of an unpiloted, engine-driven, heavier-than-air craft of substantial size.",
+      "links" : [
+         "http://www.nasm.si.edu/collections/artifact.cfm?id=A19050001000"
+      ],
+      "year" : "1896"
+   },
+   {
+      "text" : "The EDSAC, the first practical stored program computer, performed its first calculation. It operated at a speed of 714 operations per second.",
+      "links" : [
+         "http://www.cl.cam.ac.uk/~mr10/edsacposter.pdf"
+      ],
+      "year" : "1949"
+   },
+   {
+      "text" : "Apple's Steve Jobs previewed Mac OS X 10.2 Jaguar during his Worldwide Developers Conference keynote. It featured a handwriting technology dubbed Inkwell, an iChat instant messenger client, QuickTime 6 integration and more.",
+      "links" : [
+         "http://www.macworld.com/article/1004782/jaguar.html"
+      ],
+      "year" : "2002"
+   },
+   {
+      "text" : "Eve Online launched. The massively multiplayer space adventure differed from others in that its storylines were created mostly by the players of the game.",
+      "links" : [
+         "http://www.eveonline.com/expansions/"
+      ],
+      "year" : "2003"
+   }
+]

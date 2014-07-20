@@ -1,0 +1,25 @@
+[
+   {
+      "text" : "Yuri Gagarin of the USSR made a 108-minute orbital flight in the Vostok 1 spacecraft, becoming the first human in space.",
+      "links" : [
+         "http://www.nasa.gov/mission_pages/shuttle/sts1/gagarin_anniversary.html"
+      ],
+      "year" : "1961"
+   },
+   {
+      "text" : "Commander John Young and Pilot Robert Crippen crewed the first launch of a Space Shuttle on mission STS-1. During the mission the space shuttle Columbia used an HP-41 calculator to calculate the exact angle at which they needed to re-enter the Earth's atmosphere.",
+      "links" : [
+         "http://www.nasa.gov/mission_pages/shuttle/sts1/index.html",
+         "http://www.computerhistory.org/tdih/April/12/"
+      ],
+      "year" : "1981"
+   },
+   {
+      "text" : "Immigration Lawyers Laurence Canter and Martha Siegel intentionally posted to more than 6,000 Usenet discussion groups about their green card services. It is considered the first occurrence of commercial spam.",
+      "links" : [
+         "https://groups.google.com/forum/#!msg/alt.pub.coffeehouse.amethyst/XRLnYe0_zK8/l5eFCesyeEcJ",
+         "http://www.wired.com/thisdayintech/2010/04/0412canter-siegel-usenet-spam/"
+      ],
+      "year" : "1994"
+   }
+]

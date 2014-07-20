@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Marc Andreessen was born in Cedar Falls, Iowa. He would grow up to develop the Netscape browser, which powered the explosion of the Web in the late 1990s.",
+      "links" : [
+         "http://www.biography.com/people/marc-andreessen-9542208"
+      ],
+      "year" : "1971"
+   },
+   {
+      "text" : "Voyager 2 made its closest approach to Jupiter, coming within 570,000 kilometers of the planet.",
+      "links" : [
+         "http://www.jpl.nasa.gov/history/70s/Voyager2_1979.htm"
+      ],
+      "year" : "1979"
+   },
+   {
+      "text" : "Disney released the movie Tron, which used the most extensive computer-generated graphics and special effects to that time.",
+      "links" : [
+         "http://www.imdb.com/title/tt0084827/"
+      ],
+      "year" : "1982"
+   }
+]

@@ -1,0 +1,24 @@
+[
+   {
+      "text" : "At McNutt Hall at Dartmouth College, George Stibitz demonstrated the first remote operation of a computer. He connected to his Complex Number Generator at Bell labs by telephone using 28-wire teletype cable.",
+      "links" : [
+         "http://en.wikipedia.org/wiki/File:Stibitz_plaque_0708_edited-1.jpg"
+      ],
+      "year" : "1940"
+   },
+   {
+      "text" : "While troubleshooting the Harvard University Mark II Aiken Relay Calculator, operators found a moth trapped between the points of relay #70 in Panel F. They affixed the bug to the log and wrote \"First actual case of bug being found.\" While this was not the first use of the term 'bug' for a computer problem, 'debugging' became popular for fixing bugs after this case.",
+      "links" : [
+         "http://www.jamesshuggins.com/h/tek1/first_computer_bug.htm"
+      ],
+      "year" : "1947"
+   },
+   {
+      "text" : "The Sega Dreamcast debuted in North America. However many were distracted by the supposed 9/9/99 bug that ended up being just as much of a non-problem as the Y2K bug.",
+      "links" : [
+         "http://www.1up.com/features/9999-dreamcast-memorial",
+         "http://www.zdnet.com/9999-not-a-problem-say-bug-experts-3002073449/"
+      ],
+      "year" : "1999"
+   }
+]

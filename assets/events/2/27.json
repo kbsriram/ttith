@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "San Jose was incorporated as one of the first cities in California and was the site of the first state capital. It would lose the capital to Vallejo in 1852 but eventually become the center of Silicon Valley and the de facto capital of the technology world.",
+      "links" : [
+         "http://www.sanjoseca.gov/about.asp"
+      ],
+      "year" : "1850"
+   },
+   {
+      "text" : "The first successful long-distance telephone conversation took place. Bell and Watson experimented with a line of two twelve gauge hard-drawn copper wires connecting Boston and New York City. The line worked for about ninety minutes before finally falling.",
+      "links" : [
+         "http://books.google.com/books?id=HVAiAQAAIAAJ&pg=PA149&lpg=PA149&dq=march+27+1884+long-stance&source=bl&ots=VWUQpviOz6&sig=lDHwYOgLGYD53rnVBzaDTWAllwc&hl=en&sa=X&ei=JuAfU9DbF8fEoATnxYDoCg&ved=0CFoQ6AEwBw#v=onepage&q=march%2027%201884%20long-stance&f=false"
+      ],
+      "year" : "1884"
+   },
+   {
+      "text" : "Guglielmo Marconi made the first wireless transmission from France to England. A message was sent 32 miles from Wimereaux near Boulogne, France, to the South Foreland lighthouse near Dover, England. This became an important alternative to laying undersea cables for telegraphy.",
+      "links" : [
+         "http://books.google.com/books?id=wfSABTyeiV4C&pg=PA326&lpg=PA326&dq=1899+Marconi+transmission&source=bl&ots=oIkS3RAXyr&sig=64hQaAIs8x-hpg6KE9Esvm-KM6I&hl=en&sa=X&ei=-i5YT7CiNcawiQK5k9mkCw&ved=0CHAQ6AEwCA#v=onepage&q=1899%20Marconi%20transmission&f=false"
+      ],
+      "year" : "1899"
+   }
+]

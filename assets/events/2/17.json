@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "William Gibson was born in Conway, South Carolina. His stories are credited with launching cyberpunk literature, named after the phrase he used in the story \"Burning Chrome\".",
+      "links" : [
+         "https://www.britannica.com/EBchecked/topic/233297/William-Gibson"
+      ],
+      "year" : "1948"
+   },
+   {
+      "text" : "Australian researcher David Warren came up with the idea for a device to record cockpit noise and instruments during flight. His ARL Flight Memory Unit would eventually be known as the Black Box.",
+      "links" : [
+         "http://www.wired.com/thisdayintech/2010/03/0317warren-invents-airplane-black-box/"
+      ],
+      "year" : "1953"
+   },
+   {
+      "text" : "The United States launched the Vanguard 1 satellite, achieving the highest altitude of any man-made vehicle to that time.",
+      "links" : [
+         "http://www.nrl.navy.mil/accomplishments/rockets/vanguard-project/"
+      ],
+      "year" : "1958"
+   }
+]

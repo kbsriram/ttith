@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "Valentina Tereshkova was born in the Yaroslavl region of Russia. She would grow up to become the first woman in space and only woman ever to fly solo in space.",
+      "links" : [
+         "http://starchild.gsfc.nasa.gov/docs/StarChild/whos_who_level2/tereshkova.html"
+      ],
+      "year" : "1937"
+   },
+   {
+      "text" : "The first media-hyped computer virus reached fever pitch as the Michelangelo boot sector virus began to affect computers. Worldwide catastrophe did not follow.",
+      "links" : [
+         "http://www.zdnet.com/news/michelangelo-virus-is-it-overhyped-or-a-real-threat/98759"
+      ],
+      "year" : "1992"
+   },
+   {
+      "text" : "NASA launched the Kepler space observatory, with a mission to discover Earth-like planets orbiting other stars.",
+      "links" : [
+         "http://www.nasa.gov/mission_pages/kepler/launch/index.html"
+      ],
+      "year" : "2009"
+   },
+   {
+      "text" : "Google consolidated its various online stores, Android Market, Google Books, Google Music, and Google video, into one store called Google Play.",
+      "links" : [
+         "http://www.zdnet.com/blog/mobile-news/google-play-launched-feeling-the-amazon-squeeze/7073"
+      ],
+      "year" : "2012"
+   }
+]

@@ -1,0 +1,24 @@
+[
+   {
+      "text" : "John Logie Baird performed the first test of a working television system. It delivered a grayscale 30-line vertically scanned image, at five frames per second. After a ventriloquist's dummy appeared on screen, 20-year-old William Edward Taynton became first person televised in full tonal range.",
+      "links" : [
+         "http://www.solarnavigator.net/inventors/john_logie_baird.htm",
+         "http://www.bairdtelevision.com/"
+      ],
+      "year" : "1925"
+   },
+   {
+      "text" : "ENIAC was shut down for the last time. After 11 years running at 5,000 operations a second and taking up 1,000 square feet of floor space, it deserved its retirement.",
+      "links" : [
+         "http://www.computerhistory.org/tdih/October/2/"
+      ],
+      "year" : "1955"
+   },
+   {
+      "text" : "US President Bill Clinton signed amendments to the Freedom of Information Act requiring the US government to make electronic documents available online.",
+      "links" : [
+         "http://www.justice.gov/oip/foia_updates/Vol_XVII_4/page2.htm"
+      ],
+      "year" : "1996"
+   }
+]

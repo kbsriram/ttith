@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "The first successful photocopier, the Xerox 914, was introduced at the Sherry-Netherland hotel in New York City. ONe caught fire. The demo that was carried live on television did not catch fire.",
+      "links" : [
+         "http://books.google.com/books?id=ZYurhbUh_2gC&pg=PA61&dq=#v=onepage&q&f=false"
+      ],
+      "year" : "1959"
+   },
+   {
+      "text" : "Steve Jobs spent his last day as an employee of Apple after submitting his resignation to the board.",
+      "links" : [
+         "http://gizmodo.com/5639822/25-years-ago-today-steve-jobs-left-apple"
+      ],
+      "year" : "1985"
+   },
+   {
+      "text" : "After purchasing NeXT the previous December, bringing Steve Jobs back to the company, the Apple Board named Jobs as interim CEO, replacing Gil Amelio.",
+      "links" : [
+         "http://techcrunch.com/2008/09/16/today-in-history-steve-jobs-returns-to-apple/"
+      ],
+      "year" : "1997"
+   }
+]

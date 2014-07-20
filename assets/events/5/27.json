@@ -1,0 +1,37 @@
+[
+   {
+      "text" : "The world's first ATM was installed at a Barclays Bank branch in Enfield Town, England, United Kingdom.",
+      "links" : [
+         "http://www.enfieldindependent.co.uk/news/8328017.Cash_machine_plaque_unveiled_in_Enfield_Town/"
+      ],
+      "year" : "1967"
+   },
+   {
+      "text" : "Nolan Bushnell and Ted Dabney filed incorporation papers for Atari, Inc. and got ready to release it's first product, a game called Pong.",
+      "links" : [
+         "http://techland.time.com/2012/06/27/atari-at-40-catching-up-with-founder-nolan-bushnell/"
+      ],
+      "year" : "1972"
+   },
+   {
+      "text" : "Spyglass Inc. went public, the year after it began distributing its Spyglass Mosaic Web browser. The Spyglass browser powered the first version of Internet Explorer and had code in IE all the way up to IE 7.",
+      "links" : [
+         "http://www.thefreelibrary.com/Spyglass(R)+announces+initial+public+offering.-a017142114"
+      ],
+      "year" : "1995"
+   },
+   {
+      "text" : "Bill Gates spent his last day as an employee of the company he founded, Microsoft, to focus on the Bill and Melinda Gates foundation. He remained Chairman of the Board.",
+      "links" : [
+         "http://abcnews.go.com/Archives/video/june-27-2008-bill-gates-retires-13831280"
+      ],
+      "year" : "2008"
+   },
+   {
+      "text" : "Sergey Brin interrupted a Google announcement of the new Google + app to show off the Project Glass smart glasses by having sky divers wearing the prototypes, jump out of a zeppelin and land on the Moscone Convention Center in downtown San Francisco, while streaming video in a Google hangout.",
+      "links" : [
+         "http://arstechnica.com/gadgets/2012/06/googlers-skydive-wearing-google-glasses-broadcast-jump-live-to-google/"
+      ],
+      "year" : "2012"
+   }
+]

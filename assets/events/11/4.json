@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "The Cray X-MP/48 began operation at the San Diego Supercomputer Center. It almost doubled the speed of other machines with a parallel processing system, which ran at 420 megaflops.",
+      "links" : [
+         "http://www.computerhistory.org/tdih/December/4/"
+      ],
+      "year" : "1985"
+   },
+   {
+      "text" : "General Motors began delivery of the EV1, an electric vehicle that would become well-loved by its drivers then be taken back in 2002 and sent to car-crushers.",
+      "links" : [
+         "http://www.wired.com/thisdayintech/2009/12/1204gm-ev1-electric-car/"
+      ],
+      "year" : "1996"
+   },
+   {
+      "text" : "The space shuttle Endeavour lifted off from Cape Canaveral, carrying the first American-built component of the International Space Station, a connecting node, known as Unity.",
+      "links" : [
+         "http://www.nasa.gov/mission_pages/shuttle/shuttlemissions/archives/sts-88.html"
+      ],
+      "year" : "1998"
+   }
+]

@@ -1,0 +1,24 @@
+[
+   {
+      "text" : "Samuel Morse sent the message \"What hath God wrought\" from the Old Supreme Court Chamber in the United States Capitol to the Mount Clair train depot in Baltimore, Maryland. It was the first public demonstration of the telegraph.",
+      "links" : [
+         "http://web.mit.edu/invent/iow/morse.html",
+         "http://www.americaslibrary.gov/jb/reform/jb_reform_morsecod_1.html"
+      ],
+      "year" : "1844"
+   },
+   {
+      "text" : "General Electric Co. sold the first spectrophotometer. It could detect two million different shades of color and make a permanent record chart of the results.",
+      "links" : [
+         "http://www.opnmagazine-digital.com/opn/200911?pg=19#pg19"
+      ],
+      "year" : "1935"
+   },
+   {
+      "text" : "Wes Clark began working on the Laboratory Instrument Computer (LINC), at MIT's Lincoln Laboratory. It was one of the earliest examples of a user-friendly machine that you could communicate with while it operated. It's credited with setting the standard for personal computer design.",
+      "links" : [
+         "http://www.computerhistory.org/tdih/May/24/"
+      ],
+      "year" : "1961"
+   }
+]

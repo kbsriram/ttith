@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "The first draft of a Report on the EDVAC was published. It discussed the advantages of using just one large internal memory, in which instructions as well as data could be held.",
+      "links" : [
+         "http://virtualtravelog.net.s115267.gridserver.com/wp/wp-content/media/2003-08-TheFirstDraft.pdf"
+      ],
+      "year" : "1945"
+   },
+   {
+      "text" : "Bell Labs introduced the point-contact transistor demonstrated by its inventors, John Bardeen and Walter Brattain at a press conference in Murray Hill, NJ.",
+      "links" : [
+         "http://www.computerhistory.org/semiconductor/timeline/1947-invention.html"
+      ],
+      "year" : "1948"
+   },
+   {
+      "text" : "The FCC authorization of recording devices in connection with interstate or foreign telephone service went into effect. Users of the service had to be given adequate notice including a tone warning signal at regular intervals.",
+      "links" : [
+         "http://transition.fcc.gov/Bureaus/Mass_Media/Databases/documents_collection/annual_reports/1948.pdf"
+      ],
+      "year" : "1948"
+   }
+]

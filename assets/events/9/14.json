@@ -1,0 +1,24 @@
+[
+   {
+      "text" : "US inventor George Eastman received a patent on his new paper-strip photographic film. It would reign for over 100 years until digital stole its thunder.",
+      "links" : [
+         "http://www.uspto.gov/news/pr/2001/01-44.jsp"
+      ],
+      "year" : "1884"
+   },
+   {
+      "text" : "The Atari 2600 was released in North America, though it may have been available in Macy's and Sears on September 11.",
+      "links" : [
+         "http://games.yahoo.com/blogs/plugged-in/happy-35th-atari-2600-175216071.html",
+         "http://www.theverge.com/products/atari-2600/1710"
+      ],
+      "year" : "1977"
+   },
+   {
+      "text" : "The first official reference guide for the C++ programming language was published. It was written by the language's creator, Bjarne Stroustrup.",
+      "links" : [
+         "http://www.wired.com/thisdayintech/2010/10/1014cplusplus-released/all/1"
+      ],
+      "year" : "1985"
+   }
+]

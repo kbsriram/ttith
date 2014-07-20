@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Cornelius Ehret of Rosemont, Pennsylvania received a patent for the \"Art of Transmitting Intelligence.\" It was the forerunner of the modern fax.",
+      "links" : [
+         "http://www.google.com/patents?id=gUdlAAAAEBAJ&printsec=abstract&zoom=4#v=onepage&q&f=false"
+      ],
+      "year" : "1905"
+   },
+   {
+      "text" : "Robert Goddard launched the first rocket equipped with gyroscopic controls near Roswell, New Mexico. The rocket reached an altitude of 4,800 feet and flew 13,000 feet at a speed of 550 mph.",
+      "links" : [
+         "http://www.nasa.gov/exploration/thismonth/this_month_march10.html"
+      ],
+      "year" : "1935"
+   },
+   {
+      "text" : "A combination of equipment malfunction and human error caused a partial reactor meltdown at the Three Mile Island nuclear power plant near Middletown, Pennsylvania. While no injuries or deaths have been attributed to the accident, it changed US nuclear attitudes significantly.",
+      "links" : [
+         "http://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html"
+      ],
+      "year" : "1979"
+   }
+]

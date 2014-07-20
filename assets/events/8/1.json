@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "Georges Melies' Le voyage dans la lune (A Trip to the Moon) debuted in France. It is often considered the first real science fiction film.",
+      "links" : [
+         "http://www.euronews.com/2011/08/31/back-in-the-day-the-dawn-of-science-fiction/"
+      ],
+      "year" : "1902"
+   },
+   {
+      "text" : "The United States Library of Congress held the first of several meetings to plan the conversion of its materials to digital form to make them accessible by computer networks.",
+      "links" : [
+         "http://www.computerhistory.org/tdih/September/1/"
+      ],
+      "year" : "1994"
+   },
+   {
+      "text" : "Apple released its Pippin game console in the US. The idea was to provide an inexpensive game-focused computer. Apple licensed third parties like Bandai to make Pippin consoles.",
+      "links" : [
+         "http://web.archive.org/web/20100527212315/http://web.mac.com/sebangulo/Pippin/About_the_Pippin.html"
+      ],
+      "year" : "1996"
+   },
+   {
+      "text" : "Google launched its Web browser called Google Chrome.",
+      "links" : [
+         "http://googleblog.blogspot.com/2008/09/fresh-take-on-browser.html"
+      ],
+      "year" : "2008"
+   }
+]

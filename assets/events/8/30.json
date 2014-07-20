@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Thomas Edison's first commercial hydroelectric power plant began operation on the Fox River in Appleton, Wisconsin, United States.",
+      "links" : [
+         "http://www.americaslibrary.gov/jb/gilded/jb_gilded_hydro_1.html"
+      ],
+      "year" : "1882"
+   },
+   {
+      "text" : "The USS Nautilus, the first nuclear submarine, was commissioned at Groton, CT.",
+      "links" : [
+         "http://www.ussnautilus.org/nautilus/index.shtml"
+      ],
+      "year" : "1954"
+   },
+   {
+      "text" : "Xerox published the Version 1.0 specifications for Ethernet in conjunction with Intel and Digital Equipment Corporation.",
+      "links" : [
+         "http://research.microsoft.com/en-us/um/people/gbell/Digital/Ethernet%20Blue%20Book.pdf"
+      ],
+      "year" : "1980"
+   }
+]

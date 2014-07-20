@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "The very first Consumer Electronics Show opened in New York occupying the Americana and New York Hilton Hotels. It was devoted to home entertainment electronics and featured such advances as portable color TVs and video tape recorders.",
+      "links" : [
+         "http://blog.modernmechanix.com/first-consumer-electronics-show/"
+      ],
+      "year" : "1967"
+   },
+   {
+      "text" : "After six years as a company, Microsoft incorporated in the state of Washington.",
+      "links" : [
+         "http://www.microsoft.com/investor/InvestorServices/FAQ/default.aspx"
+      ],
+      "year" : "1981"
+   },
+   {
+      "text" : "Microsoft released Windows 98 with less hype than Windows 95, but more consumer focus.",
+      "links" : [
+         "http://windows.microsoft.com/en-us/windows/history"
+      ],
+      "year" : "1998"
+   }
+]

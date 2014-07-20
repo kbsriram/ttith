@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Cornell student Robert Tappan Morris became the first person indicted under the Computer Fraud and Abuse Act after releasing a worm on the Internet. Morris claimed his worm was just measuring the size of the Internet.",
+      "links" : [
+         "http://books.google.com/books?id=lB4PAwAAQBAJ&pg=PA455&lpg=PA455&dq=july+26+1989+computer+fraud+and+abuse&source=bl&ots=3UIT1O0ZdL&sig=1DtUHSOAhBXD4MtmdrGpCs-LN4I&hl=en&sa=X&ei=YHC9U4PHB5HuoAS644CIBw&ved=0CEwQ6AEwBQ#v=onepage&q=july%2026%201989%20computer%20fraud%20and%20abuse&f=false"
+      ],
+      "year" : "1989"
+   },
+   {
+      "text" : "Microsoft released Beta 2 of Internet Explorer 3.0, touting customization options like parental controls and the ability to handle shared applications and Web phone calls.",
+      "links" : [
+         "http://knowledgeway.org/news/96stories/new9607.html#ie3"
+      ],
+      "year" : "1996"
+   },
+   {
+      "text" : "Motorola announced that its next generation of cell phones would be iTunes-compatible. This first Apple phone, the Rokr, was not to meet with much success.",
+      "links" : [
+         "http://www.apple.com/pr/library/2004/07/26Motorola-and-Apple-Bring-iTunes-Music-Player-to-Motorolas-Next-Generation-Mobile-Phones.html"
+      ],
+      "year" : "2004"
+   }
+]

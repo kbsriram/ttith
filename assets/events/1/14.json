@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "The Computing-Tabulating-Recording Company merged with its subsidiary and took the subsidiary's name, International Business Machines Corporation. Yes it was later shortened to IBM.",
+      "links" : [
+         "http://www-03.ibm.com/ibm/history/reference/faq_0000001707.html"
+      ],
+      "year" : "1924"
+   },
+   {
+      "text" : "The Department of Defense put the NAVSTAR II-1into orbit, the first of 24 satellites that would make up the global positioning system.",
+      "links" : [
+         "http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1989-013A"
+      ],
+      "year" : "1989"
+   },
+   {
+      "text" : "The domain name YouTube.com was registered. It would eventually become the dominant place to share videos on the Internet.",
+      "links" : [
+         "http://mashable.com/2010/02/14/youtube-birthday/"
+      ],
+      "year" : "2005"
+   },
+   {
+      "text" : "IBM's Watson, an AI computer system competed against Jeopardy champions Ken Jennings and Brad Rutter. Watson cleaned up, winning $77,147 to Mr. Jennings's $24,000 and Mr. Rutter's $21,600.",
+      "links" : [
+         "http://www.nytimes.com/2011/02/17/science/17jeopardy-watson.html?pagewanted=all"
+      ],
+      "year" : "2011"
+   }
+]

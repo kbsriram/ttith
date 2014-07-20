@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Steve Wozniak built the first prototype of the Apple I, the first computer to show letters on the screen as you typed them.",
+      "links" : [
+         "http://www.amazon.com/iWoz-Computer-Geek-Cult-ebook/dp/B000VUCIZO"
+      ],
+      "year" : "1975"
+   },
+   {
+      "text" : "The Space Shuttle Atlantis docked with the space station Mir, the first-ever docking of a Shuttle to a Space Station.",
+      "links" : [
+         "http://www.nasaspaceflight.com/2011/07/shuttle-atlantis-mir-realization-program-goal/"
+      ],
+      "year" : "1995"
+   },
+   {
+      "text" : "The Apple iPhone went on sale for the first time.",
+      "links" : [
+         "http://money.cnn.com/2007/06/29/technology/iphone_launches/index.htm"
+      ],
+      "year" : "2007"
+   }
+]

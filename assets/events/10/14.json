@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "The BBC sent its first daily transmission from station 2LO at Marconi House London. Arthur Burrows, first Director of Programmes, read the first newscast.",
+      "links" : [
+         "http://www.bbc.co.uk/historyofthebbc/great_moments/archive/november.shtml"
+      ],
+      "year" : "1922"
+   },
+   {
+      "text" : "The American space probe Mariner 9 began orbiting Mars becoming the first spacecraft to successfully orbit another planet.",
+      "links" : [
+         "http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1971-051A"
+      ],
+      "year" : "1971"
+   },
+   {
+      "text" : "The last Direct Current electrical distribution system in the US was shut down by Con Edison in New York.",
+      "links" : [
+         "http://cityroom.blogs.nytimes.com/2007/11/14/off-goes-the-power-current-started-by-thomas-edison/"
+      ],
+      "year" : "2007"
+   }
+]

@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "A US patent was issued for an \"Electric Device,\" invented by David Misell, which used D size batteries laid end to end in a paper tube with a light bulb and a brass reflector at the end. The batteries only lasted long enough for a \"flash\" of light, hence the name Flashlight.",
+      "links" : [
+         "http://en.wikipedia.org/wiki/File:Patent_617,592.png"
+      ],
+      "year" : "1899"
+   },
+   {
+      "text" : "In response to Columbia's new 33-RPM long playing record, RCA kicked off a platter war introducing the the seven-inch diameter 45 rpm \"single\" in the U.S.",
+      "links" : [
+         "http://www.wired.com/science/discoveries/news/2008/01/dayintech_0110"
+      ],
+      "year" : "1949"
+   },
+   {
+      "text" : "NASA announced plans to build the C-5, a three-stage rocket launch vehicle. It became better known as the Saturn V, which launched every Apollo Moon mission.",
+      "links" : [
+         "http://history.msfc.nasa.gov/saturn_apollo/display.html"
+      ],
+      "year" : "1962"
+   },
+   {
+      "text" : "Sony BMG became the last major label to agree to sell DRM-free MP3s.",
+      "links" : [
+         "http://web.archive.org/web/20080118185346/http://www.informationweek.com/news/showArticle.jhtml?articleID=205602334&subSection=All+Stories"
+      ],
+      "year" : "2008"
+   }
+]

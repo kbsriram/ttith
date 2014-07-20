@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="widget_margin">8sp</dimen>
+
+  <!-- android standard grid sizes -->
+  <dimen name="module_b_4">12sp</dimen>
+  <dimen name="module_b_6">8sp</dimen>
+  <!-- fractions of grid -->
+  <dimen name="grid_b_2_3">32sp</dimen>
+  <dimen name="grid_b_3">16sp</dimen>
+  <dimen name="grid_b_6">8sp</dimen>
+  <dimen name="grid_b_12">4sp</dimen>
+  <!-- multiples of grid -->
+  <dimen name="grid_m_2">96sp</dimen>
+  <dimen name="grid_m_8">384sp</dimen>
+  <dimen name="grid_m_12">576sp</dimen>
+
+  <!-- android standard text sizes -->
+  <dimen name="text_size_huge">36sp</dimen>
+  <dimen name="text_size_medium">18sp</dimen>
+  <dimen name="text_size_small">14sp</dimen>
+</resources>

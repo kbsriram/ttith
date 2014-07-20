@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Claude Elwood Shannon was born. He is considered the father of information theory and is the man who coined the term 'bit' for the fundamental unit of both data and computation.",
+      "links" : [
+         "http://www.computerhistory.org/tdih/April/30/"
+      ],
+      "year" : "1916"
+   },
+   {
+      "text" : "RCA began regularly scheduled television service in New York City, with a telecast of President Franklin D. Roosevelt opening the New York World's Fair. Programs were transmitted from mobile camera trucks to the main transmitter, which was connected to an aerial atop the Empire State Building. The broadcasting division of RCA was called the National Broadcasting Corporation (NBC).",
+      "links" : [
+         "http://www.bairdtelevision.com/RCA.html"
+      ],
+      "year" : "1939"
+   },
+   {
+      "text" : "CERN released a statement declaring the software protocols developed for the World Wide Web would be available in the public domain.",
+      "links" : [
+         "http://press.web.cern.ch/press/PressReleases/Releases2003/PR04.03EWeb10Years.html"
+      ],
+      "year" : "1993"
+   }
+]

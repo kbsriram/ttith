@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Hedy Markey and composer George Antheil received a U.S. patent for a frequency-hopping device. The technique has led to many advancements in wireless technology including Wi-Fi. Markey was better known under her stage name of Hedy Lamarr.",
+      "links" : [
+         "http://www.google.com/patents?id=R4BYAAAAEBAJ&printsec=abstract&zoom=4#v=onepage&q&f=false"
+      ],
+      "year" : "1942"
+   },
+   {
+      "text" : "Steve Wozniak was born in San Jose, California. He would grow up to invent the first successful personal computer, and revolutionize desktop computing.",
+      "links" : [
+         "http://web.mit.edu/invent/iow/apple.html"
+      ],
+      "year" : "1950"
+   },
+   {
+      "text" : "Shinji Mikami was born in Japan. He grew up to become a video game designer for Capcom, revolutionizing survival-horror games with his popular series, Resident Evil.",
+      "links" : [
+         "http://www.ign.com/stars/shinjimikami"
+      ],
+      "year" : "1965"
+   }
+]

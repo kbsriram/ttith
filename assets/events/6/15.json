@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "The Polish Cipher Bureau picked up enciphered radio signals from the German Reicswehr for the first time. The messages were encoded with Germany's ENIGMA machine. Cracking the EMIGMA during World War II brought together some of the finest minds in computer science at Bletchley Park in England.",
+      "links" : [
+         "http://books.google.com/books?id=hfWTDr_bvMwC&pg=PA117&lpg=PA117&dq=july+15+1928+enigma&source=bl&ots=9M41qBR6P2&sig=uvtGXuu4q3DeZol6pbJs3rfzq28&hl=en&sa=X&ei=GYjMUYSBIOWciQKOv4GoDg&ved=0CFwQ6AEwBg#v=onepage&q=july%2015%201928%20enigma&f=false"
+      ],
+      "year" : "1928"
+   },
+   {
+      "text" : "Nintendo released the Family Computer or Famicom, along with Donkey Kong, Donkey Kong Jr. and Popeye cartridges. It would later be released in the US as the Nintendo Entertainment System, or NES.",
+      "links" : [
+         "http://www.britannica.com/EBchecked/topic/1437208/Nintendo-console"
+      ],
+      "year" : "1983"
+   },
+   {
+      "text" : "AOL Time Warner disbanded the Netscape browser development team. In conjunction, Mozilla created the Mozilla Foundation giving the project its first independent legal existence.",
+      "links" : [
+         "http://www.mozillazine.org/talkback.html?article=3434"
+      ],
+      "year" : "2003"
+   },
+   {
+      "text" : "After a few months being used internally at Odeo, the Twttr service launched for public use. They later added some vowels and spun Twitter out as its own company.",
+      "links" : [
+         "http://techcrunch.com/2006/07/15/is-twttr-interesting/"
+      ],
+      "year" : "2006"
+   }
+]

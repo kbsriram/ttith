@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Karl Benz submitted a patent for his Benz Patent Motorwagen, a three-wheeler vehicle with a one-cylinder four-stroke gasoline engine. The world's first patent for a practical internal combustion engine powered automobile. Previous automobiles had been steam-powered.",
+      "links" : [
+         "http://www.daimler.com/dccom/0-5-7153-1-1396926-1-0-0-0-0-0-9293-7145-0-0-0-0-0-0-0.html"
+      ],
+      "year" : "1886"
+   },
+   {
+      "text" : "Charles Proteus Steinmetz received a patent for a \"system of distribution by alternating currents.\" His engineering work made a widespread power grid practical.",
+      "links" : [
+         "http://www.google.com/patents/US533244"
+      ],
+      "year" : "1895"
+   },
+   {
+      "text" : "In Brooklyn, Allen B. DuMont was born. He would go on to perfect the cathode ray tube, sell the first practical commercial television and found the first national US TV network to fail. The DuMont network was eventually sold to Fox Television Stations.",
+      "links" : [
+         "http://www.museum.tv/eotvsection.php?entrycode=DuMont"
+      ],
+      "year" : "1901"
+   }
+]

@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "Hungarians Laszlo and Georg Biro, while living in Argentina, patented the first successful implementation of the ballpoint pen.",
+      "links" : [
+         "http://inventors.about.com/library/weekly/aa101697.htm"
+      ],
+      "year" : "1943"
+   },
+   {
+      "text" : "A few days after going on sale, Apple began shipping the Apple II for the first time.",
+      "links" : [
+         "http://www.opensource.apple.com/source/misc_cmds/misc_cmds-6/calendar/calendars/calendar.computer"
+      ],
+      "year" : "1977"
+   },
+   {
+      "text" : "The Spirit Rover launched on a Delta II rocket, beginning NASA's Mars Exploration Rover mission.",
+      "links" : [
+         "http://marsrover.nasa.gov/mission/launch_e.html"
+      ],
+      "year" : "2003"
+   },
+   {
+      "text" : "Apple introduced iOS 7 and Apple OS X Mavericks at their Worldwide Developers Conference in San Francisco. They also gave a sneak peek at the new cylindrical Mac Pro and announced their streaming music service called iTunes Radio.",
+      "links" : [
+         "http://appleinsider.com/articles/13/06/10/apples-packed-wwdc-2013-keynote-now-live"
+      ],
+      "year" : "2013"
+   }
+]

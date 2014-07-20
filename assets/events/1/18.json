@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "In the small town of Chirlitz of the Austrian Empire Ernst Mach was born. His work in aerodynamics and supersonic speeds, led to the unit of measurement that bears his name. He would die one day after his birthday in 1916.",
+      "links" : [
+         "http://plato.stanford.edu/entries/ernst-mach/"
+      ],
+      "year" : "1838"
+   },
+   {
+      "text" : "Dr Lee de Forest received a patent for \"Space Telegraphy\" which described a three-element vacuum tube later called the triode, which could amplify feeble electric currents, and proved especially useful for radio reception. Sorry it was not about Moon telegrams.",
+      "links" : [
+         "http://www.google.com/patents?id=6i1vAAAAEBAJ&printsec=abstract&zoom=4#v=onepage&q&f=false"
+      ],
+      "year" : "1908"
+   },
+   {
+      "text" : "The Enterprise space shuttle orbiter prototype made the first of five \"captive-inactive\" flight tests, testing structural integrity and performance handling, while attached to the top of a 747 jumbo jet.",
+      "links" : [
+         "http://www-pao.ksc.nasa.gov/shuttle/resources/orbiters/enterprise.html#flights"
+      ],
+      "year" : "1977"
+   }
+]

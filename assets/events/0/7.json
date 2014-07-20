@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "Henry Mill patented a machine for transcribing letters \"one after another, as in writing.\" Sadly, he died before he perfected the first typewriter.",
+      "links" : [
+         "http://www-03.ibm.com/ibm/history/exhibits/modelb/modelb_history.html"
+      ],
+      "year" : "1714"
+   },
+   {
+      "text" : "Louis Daguerre made the first announcement of his photographic system at the Academie des Sciences in Paris, though details were not presented until August of that year.",
+      "links" : [
+         "http://www.metmuseum.org/toah/hd/dagu/hd_dagu.htm"
+      ],
+      "year" : "1839"
+   },
+   {
+      "text" : "In New York at IBM headquarters, IBM and Georgetown University showed off their joint project on machine translation. More than 60 sentences were translated from Russian to English using eight grammar rules.",
+      "links" : [
+         "http://www-03.ibm.com/ibm/history/exhibits/701/701_translator.html"
+      ],
+      "year" : "1954"
+   },
+   {
+      "text" : "Apple released the public beta of its new browser, called Safari.",
+      "links" : [
+         "http://www.apple.com/pr/library/2003/01/07Apple-Unveils-Safari.html"
+      ],
+      "year" : "2003"
+   }
+]

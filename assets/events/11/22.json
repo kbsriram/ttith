@@ -1,0 +1,31 @@
+[
+   {
+      "text" : "Seven mathematicians and seven physicists gathered by Jean-Baptiste Colbert met in the king's library to found the French Academy of Sciences.",
+      "links" : [
+         "http://www.scholarly-societies.org/history/1666as.html",
+         "http://www.academie-sciences.fr/"
+      ],
+      "year" : "1666"
+   },
+   {
+      "text" : "Edward H. Johnson of the Edison Illumination Company strung a single power cord with red white and blue lights on his Christmas tree becoming the first person to use Christmas tree lights.",
+      "links" : [
+         "http://www.wired.com/thisdayintech/2009/12/1222johnson-creates-christmas-lights/"
+      ],
+      "year" : "1882"
+   },
+   {
+      "text" : "A patent for a gravity switchback railway was issued to La Marcus Thompson of Coney Island, New York. You and I might call it a \"roller coaster.\"",
+      "links" : [
+         "http://www.google.com/patents?vid=USPAT332762"
+      ],
+      "year" : "1885"
+   },
+   {
+      "text" : "At 3:01 PM Eastern time, Apollo 8 transmitted the first U.S. live telecast from a manned spacecraft in outer space.",
+      "links" : [
+         "https://www.youtube.com/watch?v=sR0VI7dSksk"
+      ],
+      "year" : "1968"
+   }
+]

@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "Harvard and IBM signed an agreement to build the Mark I, also known as the IBM Automatic Sequence Controlled Calculator (ASCC). It weighed 5 tons and read data from paper tape and punch cards.",
+      "links" : [
+         "http://books.google.com/books?id=ocx4Jc12mkgC&pg=PA13&lpg=PA13&dq=march+31+1939++harvard+ibm&source=bl&ots=-yWIWk1OZc&sig=I7Ow7MHeYBBWCLBuMtzM5x_T1qo&hl=en&sa=X&ei=P9glU7agN8byoAS0-oGwAw&ved=0CDEQ6AEwAQ#v=onepage&q=march%2031%201939%20%20harvard%20ibm&f=false"
+      ],
+      "year" : "1939"
+   },
+   {
+      "text" : "Richard Depew accidentally posted 200 identical messages to news.admin.policy while testing some auto-moderation software. It became the first USENET postings to be referred to as spam.",
+      "links" : [
+         "http://www.templetons.com/brad/spamterm.html"
+      ],
+      "year" : "1993"
+   },
+   {
+      "text" : "After three years of development and much wrangling with the Warcraft engine it was originally built on, Blizzard released the iconic game Starcraft.",
+      "links" : [
+         "http://us.blizzard.com/en-us/games/sc/"
+      ],
+      "year" : "1998"
+   },
+   {
+      "text" : "IBM shut down the Roadrunner supercomputer, the first computer to run at more than one petaflop.",
+      "links" : [
+         "http://news.cnet.com/8301-1001_3-57577179-92/former-supercomputer-king-roadrunner-to-shut-down-today/"
+      ],
+      "year" : "2013"
+   }
+]

@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "According to a handwritten note by illustrator Heinrich Cremer, the final binding of the Gutenberg Bible took place.",
+      "links" : [
+         "http://books.google.com/books?id=YOXt9dVq9EcC&pg=PA126&lpg=PA126&dq=august+24+1456+gutenberg&source=bl&ots=jcDMkkfxNp&sig=ctz_I-jiUtq_lpMtok5oHA2I_EA&hl=en&sa=X&ei=jBcHUIucFqOw2wXgv53IDw&ved=0CFgQ6AEwCDgU#v=onepage&q=august%2024%201456%20gutenberg&f=false"
+      ],
+      "year" : "1456"
+   },
+   {
+      "text" : "Microsoft released Windows 95. During development it was referred to as Windows 4.0 or by the internal codename \"Chicago.\"",
+      "links" : [
+         "http://windows.microsoft.com/en-US/windows/history"
+      ],
+      "year" : "1995"
+   },
+   {
+      "text" : "WebKit received its first commit of code from Apple. The Safari browser appeared two years later and WebKit was open sourced in 2005.",
+      "links" : [
+         "http://www.engadget.com/2011/08/25/webkit-turns-10-celebrates-a-decade-of-speedy-standards-compli/"
+      ],
+      "year" : "2001"
+   }
+]

@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "The Ranger 8 probe launched on its mission to photograph the Sea of Tranquility on the Moon. The photos paved the way to select the area as the site of the first manned Moon landing.",
+      "links" : [
+         "http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1965-010A"
+      ],
+      "year" : "1965"
+   },
+   {
+      "text" : "World chess champion Garry Kasparov defeated Deep Blue in game 6 winning the match 4-2. He would lose the next match.",
+      "links" : [
+         "http://www.history.com/this-day-in-history/kasparov-defeats-chess-playing-computer"
+      ],
+      "year" : "1996"
+   },
+   {
+      "text" : "Microsoft released Windows 2000, the successor to Windows NT 4.0, and the final Windows release to display the \"Windows NT\" designation.",
+      "links" : [
+         "http://www.microsoft.com/presspass/features/1998/10-27winma.mspx"
+      ],
+      "year" : "2000"
+   }
+]

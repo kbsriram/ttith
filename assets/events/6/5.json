@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "Nicephore Niepce died. He created the first permanent photograph in 1826-- an image of the outside of his house.",
+      "links" : [
+         "http://www.niepce.com/pagus/pagus-bio.html"
+      ],
+      "year" : "1833"
+   },
+   {
+      "text" : "The BBC broadcast its first daily television news bulletin. Richard Baker read the 20-minute bulletin billed as an \"Illustrated summary of the news.\"",
+      "links" : [
+         "http://news.bbc.co.uk/onthisday/hi/dates/stories/july/5/newsid_3856000/3856397.stm"
+      ],
+      "year" : "1954"
+   },
+   {
+      "text" : "Radio station WWVB began broadcasting standard frequencies in Fort Collins, Colorado for use by satellite and missile programs. Its time code was later used for synchronizing power plants and coordinating telephone networks and eventually for setting alarm clocks.",
+      "links" : [
+         "http://www.nist.gov/pml/div688/wwvb-062513.cfm"
+      ],
+      "year" : "1963"
+   },
+   {
+      "text" : "Rob Flickenger and friends posted details of their now legendary 12db Pringles-can antenna to boost WiFi signal distance.",
+      "links" : [
+         "http://www.oreillynet.com/cs/weblog/view/wlg/448"
+      ],
+      "year" : "2001"
+   }
+]

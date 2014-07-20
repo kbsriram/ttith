@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "Andrew S. Hallidie received a patent for an \"endless wire rope way\" which he would put into practice as the cable car system in San Francisco, California.",
+      "links" : [
+         "http://www.americaslibrary.gov/jb/recon/jb_recon_cablecar_1.html"
+      ],
+      "year" : "1871"
+   },
+   {
+      "text" : "Thomas Edison received a patent for adding a carbon microphone to the telephone. The patent described finely divided conducting material, like carbon, between metal cups mounted on arms that attached to the mouthpiece diaphragm.",
+      "links" : [
+         "http://edison.rutgers.edu/patents/00252442.PDF"
+      ],
+      "year" : "1882"
+   },
+   {
+      "text" : "Anatol M. Josepho received a the first U.S. patent for a fully automatic photographic film developing machine. The Photomaton better known as a PhotoBooth in the US still survives as an app and in dark corners of subway stations.",
+      "links" : [
+         "http://www.google.com/patents/US1656522?printsec=drawing&dq=1,656,522&ei=OIoUT5K0O-Pz0gH3nYSsAw#v=onepage&q&f=false"
+      ],
+      "year" : "1928"
+   },
+   {
+      "text" : "The first synchrotron installed at the Radiation Laboratory at the University of California, Berkeley, reached its design energy of 300 MeV.",
+      "links" : [
+         "http://ajp.aapt.org/resource/1/ajpias/v18/i3/p125_s1?isAuthorized=no"
+      ],
+      "year" : "1949"
+   }
+]

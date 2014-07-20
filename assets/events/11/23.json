@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "John Bardeen and Walter Brattain demonstrated their new discovery, transistor, at Bell Laboratories in Murray Hill, New Jersey. William Shockley, who contributed to the invention, missed the presentation.",
+      "links" : [
+         "http://www.pbs.org/transistor/background1/events/miraclemo.html"
+      ],
+      "year" : "1947"
+   },
+   {
+      "text" : "Apollo 8 astronauts Frank Borman, James A. Lovell, Jr., and William A. Anders made the lunar-orbit-insertion maneuver on their way to becoming the first humans to orbit the Moon.",
+      "links" : [
+         "http://www.hq.nasa.gov/pao/History/SP-4205/ch11-6.html"
+      ],
+      "year" : "1968"
+   },
+   {
+      "text" : "Dick Rutan and Jeana Yeager touched down at Edwards Air Force Base in the experimental airplane Voyager, completing the first non-stop, round- the- world flight without refueling.",
+      "links" : [
+         "http://centennialofflight.net/essay/Explorers_Record_Setters_and_Daredevils/rutan/EX32.htm"
+      ],
+      "year" : "1986"
+   }
+]

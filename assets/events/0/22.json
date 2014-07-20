@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "John Dunning's Cyclotron split the uranium atom for the first time at Columbia University in New York City. And the Manhattan Project was on.",
+      "links" : [
+         "http://www.astro.columbia.edu/~ff/pupin.html"
+      ],
+      "year" : "1939"
+   },
+   {
+      "text" : "Apollo 5 lifted off carrying the first Lunar module into space.",
+      "links" : [
+         "http://www-pao.ksc.nasa.gov/kscpao/history/apollo/apollo-5/apollo-5.htm"
+      ],
+      "year" : "1968"
+   },
+   {
+      "text" : "Apple aired the famous \"1984\" commercial for the Apple Macintosh, directed by Ridley Scott.",
+      "links" : [
+         "http://newsdesk.si.edu/snapshot/apple-classic-macintosh-personal-computer"
+      ],
+      "year" : "1984"
+   }
+]

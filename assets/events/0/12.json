@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Lee de Forest, a French engineer and scientist, broadcast a phonograph record show from the Eiffel Tower for an audience of less than 50 people. The show was also heard over 500 miles from the tower, becoming the first long-distance radio message transmission.",
+      "links" : [
+         "http://hassam.hubpages.com/hub/Interesting-Facts-About-Eiffel-Tower"
+      ],
+      "year" : "1908"
+   },
+   {
+      "text" : "Jeff Bezos was born in Albuquerque, New Mexico. He would grow up to study computer science at Princeton, and set the standard for online shopping with his company, Amazon.com.",
+      "links" : [
+         "http://www.biography.com/people/jeff-bezos-9542209"
+      ],
+      "year" : "1964"
+   },
+   {
+      "text" : "Deep Impact launched from Cape Canaveral on a Delta 2 rocket, headed to an impact with comet 9P/Tempel.",
+      "links" : [
+         "http://science.nasa.gov/missions/deep-impact/"
+      ],
+      "year" : "2005"
+   }
+]

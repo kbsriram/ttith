@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "Edmund C. Berkeley, an actuary at the Prudential Insurance Company, wrote a report about possible applications of electro mechanical calculation to large commercial data-processing needs.",
+      "links" : [
+         "http://www.historyofinformation.com/index.php?category=Data+Processing+%2F+Computing"
+      ],
+      "year" : "1841"
+   },
+   {
+      "text" : "Telegraph lines opened between Los Angeles and San Francisco. This allowed gold miners to tell backers farther south that they still hadn't found any gold.",
+      "links" : [
+         "http://www.sfmuseum.org/hist/chron5.html"
+      ],
+      "year" : "1860"
+   },
+   {
+      "text" : "KDKA radio in Pittsburgh conducted the first live broadcast of a football game from Forbes Field. The University of Pittsburgh beat West Virginia University.",
+      "links" : [
+         "http://pittsburgh.cbslocal.com/2010/04/01/kdka-firsts/"
+      ],
+      "year" : "1921"
+   },
+   {
+      "text" : "To allow IT departments to prepare for critical updates, Microsoft conducted the first regularly scheduled Windows patch release. It became lovingly known as \"Patch Tuesday\".",
+      "links" : [
+         "http://www.zdnet.com/celebrating-10-years-of-patch-tuesday-7000021664/"
+      ],
+      "year" : "2003"
+   }
+]

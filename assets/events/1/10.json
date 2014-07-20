@@ -1,0 +1,31 @@
+[
+   {
+      "text" : "Scientists at Lincoln Laboratory at MIT bounced radar signals off the planet Venus, calling it the first measurement of interplanetary distances.",
+      "links" : [
+         "http://news.google.com/newspapers?nid=1734&dat=19590319&id=c1EqAAAAIBAJ&sjid=YFEEAAAAIBAJ&pg=7082,1174229"
+      ],
+      "year" : "1958"
+   },
+   {
+      "text" : "Chess's international grandmaster Garry Kasparov began a six game match against IBM's Deep Blue. Deep Blue won the first game, the first time that a current world champion had ever been beaten by a computer opponent under regular tournament conditions.",
+      "links" : [
+         "http://www.research.ibm.com/deepblue/watch/html/c.10.html",
+         "http://www.wired.com/thisdayintech/2011/02/0210computer-deep-blue-beats-chess-champ-kasparov/"
+      ],
+      "year" : "1996"
+   },
+   {
+      "text" : "While talking about their forthcoming game, Game Neverending, Ludicorp unveiled a side project called Flickr at the O'Reilly Emerging Tech Conference in San Diego. It was a service that melded chat rooms with real-time photo sharing.",
+      "links" : [
+         "http://techland.time.com/2014/02/10/flickr-turns-10-the-rise-fall-and-revival-of-a-photo-sharing-community/?curator=MediaREDEF"
+      ],
+      "year" : "2004"
+   },
+   {
+      "text" : "One of Motorola's communication satellites Iridium 33 collided with defunct Russian satellite Kosmos-2251 destroying both. It was an unprecedented space collision.",
+      "links" : [
+         "http://www.n2yo.com/collision-between-two-satellites.php"
+      ],
+      "year" : "2009"
+   }
+]

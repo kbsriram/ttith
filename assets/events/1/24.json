@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "A modified German V-2 ballistic missile launched from White Sands Missile Range in New Mexico, reached an altitude of 244 miles, putting it well above the Karman line. It was the first U.S. rocket to reach \"outer space.\"",
+      "links" : [
+         "http://history.nasa.gov/SP-4201/ch1-4.htm"
+      ],
+      "year" : "1949"
+   },
+   {
+      "text" : "A boy was born to University of Wisconsin graduate students Joanne Simpson and Abdulfattah Jandali. He was given up for adoption and taken in by a machinist and his wife in Mountain View, California. They named him Steve Jobs.",
+      "links" : [
+         "http://www.biography.com/people/steve-jobs-9354805"
+      ],
+      "year" : "1955"
+   },
+   {
+      "text" : "The Space Shuttle Discovery lifted off from Cape Canaveral on its final mission.",
+      "links" : [
+         "http://www.nasa.gov/mission_pages/shuttle/shuttlemissions/sts133/main/index.html"
+      ],
+      "year" : "2011"
+   },
+   {
+      "text" : "Samsung announced the Galaxy S5 with a heart rate sensor and water and dust proofing.",
+      "links" : [
+         "http://www.theverge.com/2014/2/24/5441668/samsung-galaxy-s5-announcement-launch"
+      ],
+      "year" : "2014"
+   }
+]

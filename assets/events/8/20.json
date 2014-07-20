@@ -1,0 +1,31 @@
+[
+   {
+      "text" : "At noon in the library of the Academy of Natural Sciences in Philadelphia, members of the former Association of American Geologists and Naturalists met to create the American Association for the Advancement of Science.",
+      "links" : [
+         "http://archives.aaas.org/exhibit/origins2.php"
+      ],
+      "year" : "1848"
+   },
+   {
+      "text" : "John Backus and his team at IBM ran the first FORTRAN program. FORTRAN stands for FORmula TRANslation and was the first high-level language and compiler developed.",
+      "links" : [
+         "http://www.engineeringpathway.com/engpath/ep/learning_resource/summary/Summary?id=A2D5CEDE-DD9C-4940-AECF-C7F243C40B04"
+      ],
+      "year" : "1954"
+   },
+   {
+      "text" : "A patent for the RSA Algorithm for public-key cryptography was awarded. RSA stands for Ron Rivest, Adi Shamir and Leonard Adleman, who first publicly described it in 1977.",
+      "links" : [
+         "http://www.google.com/patents?id=daEsAAAAEBAJ&printsec=abstract&zoom=4#v=onepage&q&f=false",
+         "http://people.csail.mit.edu/rivest/Rsapaper.pdf"
+      ],
+      "year" : "1983"
+   },
+   {
+      "text" : "Makerbot Industries released the Replicator 2 3D printer, meant for non-expert users, and providing 100 micron resolution printing. They also announced the opening of a store in Manhattan.",
+      "links" : [
+         "http://www.makerbot.com/blog/2012/09/19/a-whole-new-makerbot-introducing-replicator-2-desktop-3d-printer/"
+      ],
+      "year" : "2012"
+   }
+]

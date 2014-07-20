@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "German computer pioneer Konrad Zuse filed for a patent for the automatic execution of calculations, and described combination memory, an early form of programmable memory. Zuse was working on what would become Germany's first computer, the Z-1.",
+      "links" : [
+         "http://books.google.com/books?id=emmitTbOoFgC&pg=PA74&lpg=PA74&dq=%22april+11%22+1936+konrad+zuse&source=bl&ots=FiErE_FGVF&sig=G7iEg5nPuhSK4afsnpcyb7EgcWM&hl=en&sa=X&ei=rvZcUey7LKqdiALMrYDQBQ&ved=0CC8Q6AEwADgK#v=onepage&q=%22april%2011%22%201936%20konrad%20zuse&f=false"
+      ],
+      "year" : "1936"
+   },
+   {
+      "text" : "The Ryan X-13 Vertijet took off from Edwards Air Force base flew for a few minutes and landed. The significant part of the short flight was that it took off and landed vertically, becoming the first jet capable of doing so.",
+      "links" : [
+         "http://www.nationalmuseum.af.mil/factsheets/factsheet.asp?id=633"
+      ],
+      "year" : "1957"
+   },
+   {
+      "text" : "The ill-fated Apollo 13 launched from Kennedy Space Center. The second-stage inboard engine shut down early but orbital insertion was achieved. However the problems were not over.",
+      "links" : [
+         "http://www.lpi.usra.edu/lunar/missions/apollo/apollo_13/overview/"
+      ],
+      "year" : "1970"
+   },
+   {
+      "text" : "Pebble launched its smartwatch Kickstarter. It would become successful and lead to the resurgence of interest in smartwatches.",
+      "links" : [
+         "http://www.kickstarter.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android"
+      ],
+      "year" : "2012"
+   }
+]

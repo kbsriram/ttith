@@ -1,0 +1,31 @@
+[
+   {
+      "text" : "Herman Hollerith was born. He would grow up to build the first punched-card tabulating machines as well as found the company that was to become IBM.",
+      "links" : [
+         "http://www.columbia.edu/cu/computinghistory/hollerith.html",
+         "http://www.invent.org/hall_of_fame/80.html"
+      ],
+      "year" : "1860"
+   },
+   {
+      "text" : "Ernest O. Lawrence delivered his 1939 Nobel Prize in Physics banquet speech in Berkeley, California, instead of the usual Sweden, so he could keep raising funds for his cyclotron research which got him the prize in the first place.",
+      "links" : [
+         "http://www.nobelprize.org/nobel_prizes/physics/laureates/1939/lawrence-speech.html"
+      ],
+      "year" : "1940"
+   },
+   {
+      "text" : "Microprose released Civilization II, a sequel to Sid Meier's Civilization, and the version that would launch the franchise to widespread popularity.",
+      "links" : [
+         "http://www.gamespot.com/civilization-ii/related/release/platform/pc/"
+      ],
+      "year" : "1996"
+   },
+   {
+      "text" : "Orders began for the small and inexpensive Raspberry Pi computer.",
+      "links" : [
+         "http://www.bbc.co.uk/news/technology-21588419"
+      ],
+      "year" : "2012"
+   }
+]

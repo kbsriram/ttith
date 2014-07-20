@@ -1,0 +1,24 @@
+[
+   {
+      "text" : "The Soviet Union launched Sputnik 2 carrying the first animal ever to enter orbit, a dog named Laika. It would go on to inspire the saddest Jonathan Coulton song ever, space doggity and the band Laika and the Cosmonauts.",
+      "links" : [
+         "http://www.russianspaceweb.com/sputnik2.html"
+      ],
+      "year" : "1957"
+   },
+   {
+      "text" : "NASA launched Mariner 10 towards Mercury. It would become the first space probe to reach the planet.",
+      "links" : [
+         "http://www.jpl.nasa.gov/history/70s/Mariner10_1973.htm"
+      ],
+      "year" : "1973"
+   },
+   {
+      "text" : "Tim Berners-Lee posted a page describing the World Wide Web. It's the oldest page still served on the Web.",
+      "links" : [
+         "http://www.w3.org/People/Berners-Lee/FAQ.html#Examples",
+         "http://www.w3.org/History/19921103-hypertext/hypertext/WWW/TheProject.html"
+      ],
+      "year" : "1992"
+   }
+]

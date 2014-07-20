@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "NASA launched Surveyor 1. It achieved the first soft landing on the Moon by the United States and demonstrated the technology necessary to achieve landing and operations on the lunar surface for the manned missions to follow.",
+      "links" : [
+         "http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1966-045A"
+      ],
+      "year" : "1966"
+   },
+   {
+      "text" : "IRM was founded in Japan with the purpose of selling electric applied game machines. Two years later they started a subsidiary called Japan Capsule Computer. They eventually spun that division off as Capcom.",
+      "links" : [
+         "http://www.ign.com/articles/2008/06/12/capcom-marks-25th-anniversary"
+      ],
+      "year" : "1979"
+   },
+   {
+      "text" : "North American Philips Company introduced the compact disc video (CD-V), a 12 cm (4-3/4 inch) CD-sized implementation of storage for full motion video and CD-audio.",
+      "links" : [
+         "http://web.archive.org/web/20080821194759/http://www.comsoc.org/e-news/2005/may/index.html"
+      ],
+      "year" : "1987"
+   },
+   {
+      "text" : "Intel planned to announce a video phone. Frank Gill, executive vice president of Intel's Internet Communications Group, said he expected hundreds of thousands of video-phone ready computers would be sold that year. Video phones didn't take off then.",
+      "links" : [
+         "http://www.nytimes.com/1996/05/30/business/intel-plans-pc-video-phone-technology.html"
+      ],
+      "year" : "1996"
+   }
+]

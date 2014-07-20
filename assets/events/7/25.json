@@ -1,0 +1,21 @@
+[
+   {
+      "text" : "Galileo Galilei craftily beat a Dutch telescope maker to an appointment with the Doge of Venice. Galileo impressed the Doge and received a lifetime appointment and a doubled salary. Later that autumn, Galileo pointed his telescope to the Moon, and trouble began.",
+      "links" : [],
+      "year" : "1609"
+   },
+   {
+      "text" : "Voyager 2 made its closest approach to Saturn. 8 years later on the same day in 1989, Voyager 2 would make its closest approach to Neptune.",
+      "links" : [
+         "http://voyager.jpl.nasa.gov/mission/fastfacts.html"
+      ],
+      "year" : "1981"
+   },
+   {
+      "text" : "21-year-old Finnish student Linus Torvalds wrote a newsgroup post about an free operating system he was working on. He said it was \"just a hobby, won't be big and professional like gnu.\" His OS would eventually be called Linux.",
+      "links" : [
+         "https://groups.google.com/forum/?fromgroups#!topic/comp.os.minix/dlNtH7RRrGA"
+      ],
+      "year" : "1991"
+   }
+]

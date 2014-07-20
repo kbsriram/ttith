@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "Charles Jenkins publicly demonstrated synchronized transmission of silhouette pictures and sound, becoming the first person to demonstrate TV in the US.",
+      "links" : [
+         "http://www.bairdtelevision.com/jenkins.html"
+      ],
+      "year" : "1925"
+   },
+   {
+      "text" : "John Mauchly visited John Atanasoff to see his computer. The two computer pioneers later battled in court over who was the legal inventor of the electronic digital computer.",
+      "links" : [
+         "http://jva.cs.iastate.edu/mauchlyinames.php"
+      ],
+      "year" : "1941"
+   },
+   {
+      "text" : "Germany launched the first guided missile attack in history, sending V-1 rockets into London.",
+      "links" : [
+         "http://www.history.com/this-day-in-history/germans-launch-v-1-rocket-attack-against-britain"
+      ],
+      "year" : "1944"
+   },
+   {
+      "text" : "Pioneer 10 became the first human-made object to pass outside Pluto's orbit and leave the central solar system.",
+      "links" : [
+         "http://quest.arc.nasa.gov/sso/cool/pioneer10/mission/"
+      ],
+      "year" : "1983"
+   }
+]

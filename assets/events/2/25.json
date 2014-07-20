@@ -1,0 +1,31 @@
+[
+   {
+      "text" : "John Logie Baird gave his first public demonstration of his 'Silhouette Television' at the Selfridges department store, Oxford Street, London. It was part of the store's birthday celebration.",
+      "links" : [
+         "http://www.paulpert.com/johnlogiebaird.htm",
+         "http://www.selfridges.com/en/StaticPage/Our+Heritage/"
+      ],
+      "year" : "1925"
+   },
+   {
+      "text" : "The first fully functional space shuttle orbiter, Columbia, was delivered to the John F. Kennedy Space Center in preparation for its first launch.",
+      "links" : [
+         "http://spaceflight.nasa.gov/shuttle/reference/basics/history/index.html"
+      ],
+      "year" : "1979"
+   },
+   {
+      "text" : "Ward Cunningham installed the First Wiki, WikiWikiWeb on a $300 computer someone gave him. He connected it to the Internet, using a 14.4-baud dial-up modem.",
+      "links" : [
+         "http://c2.com/cgi/wiki"
+      ],
+      "year" : "1995"
+   },
+   {
+      "text" : "Facebook announced it would purchase Oculus VR, makers of the Oculus Rift virtual reality headset, for $2 billion.",
+      "links" : [
+         "http://time.com/37842/facebook-oculus-rift/"
+      ],
+      "year" : "2014"
+   }
+]

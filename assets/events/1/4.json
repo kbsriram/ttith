@@ -1,0 +1,31 @@
+[
+   {
+      "text" : "Thomas Edison received a patent for the first quadruplex telegraph, which could send two messages simultaneously in each direction. One message consisted of an electric signal of varying strength, while the second was a signal of varying polarity.",
+      "links" : [
+         "http://www.ieeeghn.org/wiki/index.php/Quadruplex_Telegraph",
+         "http://www.google.com/patents?id=SV9BAAAAEBAJ&printsec=abstract&zoom=4#v=onepage&q&f=false"
+      ],
+      "year" : "1890"
+   },
+   {
+      "text" : "Noel Godin, a Belgian who made a practice of pie-ing rich and famous people struck a pie against the face of Bill Gates. Gates did not press charges.",
+      "links" : [
+         "http://news.cnet.com/2100-1023-207832.html"
+      ],
+      "year" : "1998"
+   },
+   {
+      "text" : "Mark Zuckerberg and a few other guys at Harvard launch TheFacebook so Harvard students can look up and hook up with each other. They would eventually expand the service to the world. And drop the \"the\".",
+      "links" : [
+         "https://www.facebook.com/facebook?v=info"
+      ],
+      "year" : "2004"
+   },
+   {
+      "text" : "Microsoft named 22-year employee Satya Nadella its new CEO. Bill Gates stepped down as Chairman of the Board and was replaced by John Thompson.",
+      "links" : [
+         "http://www.microsoft.com/en-us/news/press/2014/feb14/02-04newspr.aspx"
+      ],
+      "year" : "2014"
+   }
+]

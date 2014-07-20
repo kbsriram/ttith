@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "Thomas Edison sketched his idea for the phonograph, and may have even completed a model. The first working model wasn't completed until December 6.",
+      "links" : [
+         "http://www.americaslibrary.gov/jb/recon/jb_recon_phongrph_1.html"
+      ],
+      "year" : "1877"
+   },
+   {
+      "text" : "The first NASA communications satellite, Echo 1 was launched from Cape Canaveral. The satellite was a balloon of mylar polyester film.",
+      "links" : [
+         "http://nssdc.gsfc.nasa.gov/nmc/masterCatalog.do?sc=1960-009A"
+      ],
+      "year" : "1960"
+   },
+   {
+      "text" : "The space shuttle Enterprise carried out its first free flight test, when the orbiter was released from the back of a 747 in flight.",
+      "links" : [
+         "http://www-pao.ksc.nasa.gov/shuttle/resources/orbiters/enterprise.html"
+      ],
+      "year" : "1977"
+   },
+   {
+      "text" : "IBM introduced the model 5150 personal computer. It had a 4.77 MHz Intel 8088 microprocessor and used Microsoft's MS-DOS operating system.",
+      "links" : [
+         "http://www.cbsnews.com/8301-501465_162-20091657-501465.html"
+      ],
+      "year" : "1981"
+   }
+]

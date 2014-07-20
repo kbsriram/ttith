@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "The movie In Old Arizona was released. It was the first full-length talking motion picture in the U.S. to be filmed outdoors.",
+      "links" : [
+         "http://www.imdb.com/title/tt0020018/"
+      ],
+      "year" : "1929"
+   },
+   {
+      "text" : "Fuji Photo Film Co. Ltd., the photographic and electronics company known today as Fujifilm, was founded in Tokyo, Japan.",
+      "links" : [
+         "http://www.fujifilmholdings.com/en/about/factsheet/index.html"
+      ],
+      "year" : "1934"
+   },
+   {
+      "text" : "The inauguration of US President Ronald Reagan is the world's first broadcast to feature live teletext subtitles for the hearing impaired.",
+      "links" : [
+         "http://www.reagan.utexas.edu/archives/speeches/1981/12081a.htm"
+      ],
+      "year" : "1981"
+   },
+   {
+      "text" : "The inauguration of US President Barack Obama became the most widely-streamed Presidential inauguration to that time. According to Akamai's Net Usage Index, web traffic peaked at 5.4 million requests per minute  --  and two terabits per second.",
+      "links" : [
+         "http://www.wired.com/thisdayintech/2012/01/jan-20-2009-obamas-inauguration-crashes-websites/"
+      ],
+      "year" : "2009"
+   }
+]

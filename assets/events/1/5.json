@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "The first U.S. patent for push-key operation of a calculating machine was issued to Dubois D. Parmelee of New Paltz, N.Y.",
+      "links" : [
+         "http://www.google.com/patents/US7074"
+      ],
+      "year" : "1850"
+   },
+   {
+      "text" : "At Bletchley Park in Great Britain, the Colossus Mk I attacked its first Lorenz-encrypted message. Enigma had been cracked but Lorenz was a tougher cipher used in communications between Hitler and his generals in World War II.",
+      "links" : [
+         "http://www.zdnet.com/colossus-celebrates-70th-anniversary-at-national-museum-of-computing-7000026002/"
+      ],
+      "year" : "1944"
+   },
+   {
+      "text" : "The U.S. space probe Mariner 10returned the first close-up images of Venus and became the first spacecraft to use a gravity assist from one planet to help it reach another.",
+      "links" : [
+         "http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1973-085A"
+      ],
+      "year" : "1974"
+   },
+   {
+      "text" : "Victoria's Secret's online fashion show became the first major webcast, attracting an estimated 1.5 million viewers worldwide. Proving even back then, the Internet is for shopping.",
+      "links" : [
+         "http://www.cnn.com/TECH/computing/9902/05/vicweb.idg/"
+      ],
+      "year" : "1999"
+   }
+]

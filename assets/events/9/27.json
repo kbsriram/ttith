@@ -1,0 +1,24 @@
+[
+   {
+      "text" : "The first underground New York City subway line opened. The line ran from City Hall in lower Manhattan through Grand Central, Times Square and ended north in Harlem. Rides cost five cents.",
+      "links" : [
+         "http://www.nycsubway.org/wiki/The_New_York_Subway_Souvenir_(1904)",
+         "http://1904blog.georgesnyder.org/2007/07/21/new-yorks-subway-system-opens.aspx"
+      ],
+      "year" : "1904"
+   },
+   {
+      "text" : "HotWired (later to become Wired.com) launched bringing with it the first large quantity sales of banner ads. AT&T, Zima, MCI, Volvo, Club Med and 1-800-COLLECT all plunked down for the privilege.",
+      "links" : [
+         "http://adage.com/article/digitalnext/happy-birthday-digital-advertising/139964/"
+      ],
+      "year" : "1994"
+   },
+   {
+      "text" : "The European Space Agency launched its first satellite, a micro-satellite called the SSETI Express Satellite, designed and built by European students.",
+      "links" : [
+         "http://www.esa.int/esaMI/sseti_express/index.html"
+      ],
+      "year" : "2005"
+   }
+]

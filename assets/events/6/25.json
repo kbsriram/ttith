@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Christopher Cockerell's Hovercraft crossed the English Channel for the first time, celebrating the 50th Anniversary of Frenchman Louis Bleriot's historic first cross-Channel heavier-than-air flight.",
+      "links" : [
+         "http://www.bbc.co.uk/schoolradio/subjects/history/britainsince1930s/transport/hovercraft"
+      ],
+      "year" : "1959"
+   },
+   {
+      "text" : "Microsoft became the first software company to exceed $1 billion in sales in a single year, reporting revenues of $1.18 billion for fiscal year 1990.",
+      "links" : [
+         "http://www.pcworld.com/article/16015/microsoft_then_and_now.html"
+      ],
+      "year" : "1990"
+   },
+   {
+      "text" : "Wikileaks published classified documents about the War in Afghanistan, one of the largest leaks in U.S. military history.",
+      "links" : [
+         "http://www.guardian.co.uk/world/2010/jul/25/afghanistan-war-logs-military-leaks"
+      ],
+      "year" : "2010"
+   }
+]

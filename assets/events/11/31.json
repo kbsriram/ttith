@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "The chimes of Big Ben were broadcast on radio for the first time by the BBC, beginning a new year's tradition.",
+      "links" : [
+         "http://www.visitlondon.com/attractions/culture/big-ben"
+      ],
+      "year" : "1923"
+   },
+   {
+      "text" : "Cops in Indianapolis put Indiana University professor Rolla Harger's drunkometer to its first practical New Year's Eve test as a breath analyzer. Suspected drunks blew into a balloon and the air was mixed with a chemical solution that turned darker the more alcohol was present. The more portable Breathalyzer replaced the drunkometer in 1958.",
+      "links" : [
+         "http://www.wired.com/thisdayintech/tag/drunkometer/"
+      ],
+      "year" : "1938"
+   },
+   {
+      "text" : "Microsoft provided its last day of support for Windows 95 making it officially \"obsolete\" according to the Microsoft Lifecycle policy, after only six years.",
+      "links" : [
+         "http://www.winbeta.org/news/happy-birthday-windows-95"
+      ],
+      "year" : "2001"
+   }
+]

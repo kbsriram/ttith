@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Herbert George Wells was born in Bromley, England. He would grow up to write under the name H. G. Wells and help form the genre of science fiction.",
+      "links" : [
+         "http://www.history.com/this-day-in-history/hg-wells-is-born"
+      ],
+      "year" : "1866"
+   },
+   {
+      "text" : "Google came out of beta. The young company announced its new Google Scout feature and the launch of its new website, removing the beta designation from the Google search engine.",
+      "links" : [
+         "http://googlepress.blogspot.com/1999/09/googles-new-googlescout-feature-expands.html"
+      ],
+      "year" : "1999"
+   },
+   {
+      "text" : "Kevin Mitnick was released from a Lompoc, California prison after almost five years of incarceration.",
+      "links" : [
+         "http://news.cnet.com/Mitnick-released-from-prison/2100-1023_3-235933.html"
+      ],
+      "year" : "2000"
+   }
+]

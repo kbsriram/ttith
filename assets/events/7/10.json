@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Ferdinand Magellan set sail to find that pesky trade route that Columbus was looking for, and instead circumnavigated the globe. Well, at least his ship did.",
+      "links" : [
+         "http://articles.chicagotribune.com/1998-08-10/news/9808100080_1_serial-killings-james-smithson-new-brunswick"
+      ],
+      "year" : "1519"
+   },
+   {
+      "text" : "The Magellan space probe, named after Ferdinand Magellan, reached Venus, beginning its mission to map the planet's surface.",
+      "links" : [
+         "http://nssdc.gsfc.nasa.gov/planetary/magellan.html"
+      ],
+      "year" : "1990"
+   },
+   {
+      "text" : "The iTunes Music Store library passed the mark of 1,000,000 songs available.",
+      "links" : [
+         "http://www.apple.com/pr/library/2004/08/10iTunes-Music-Store-Catalog-Tops-One-Million-Songs.html"
+      ],
+      "year" : "2004"
+   }
+]

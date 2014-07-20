@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "The programming language LISP had its first public presentation. Created by John McCarthy, LISP offered programmers flexibility in organization.",
+      "links" : [
+         "http://www.computerhistory.org/tdih/April/16/"
+      ],
+      "year" : "1959"
+   },
+   {
+      "text" : "Abhay Bhushan proposed FTP (File Transfer Protocol) in RFC 114.",
+      "links" : [
+         "http://tools.ietf.org/html/rfc114"
+      ],
+      "year" : "1971"
+   },
+   {
+      "text" : "The Helios-B deep-space probe made what was then the closest controlled approach to the Sun at 43 million km or within 0.3 AU.",
+      "links" : [
+         "http://www.esa.int/esaSC/SEM64967ESD_index_0.html"
+      ],
+      "year" : "1976"
+   }
+]

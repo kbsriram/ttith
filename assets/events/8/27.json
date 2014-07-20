@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Scientists at the Naval Aircraft Radio Laboratory near Washington, D.C., demonstrated radar by showing that if a ship passed through a radio wave broadcast between two stations, that ship could be detected.",
+      "links" : [
+         "http://science.howstuffworks.com/transport/flight/classic/world-war-i-flight-timeline7.htm"
+      ],
+      "year" : "1922"
+   },
+   {
+      "text" : "Richard Stallman announced the GNU project which aimed at the time to develop a free Unix-like operating system.",
+      "links" : [
+         "http://www.gnu.org/gnu/initial-announcement.html"
+      ],
+      "year" : "1983"
+   },
+   {
+      "text" : "Kevin Mitnick was indicted on charges he broke into the systems of major software companies, then transferred stolen material to computers at USC via the Internet. Seems prosaic today, but was unheard of at the time.",
+      "links" : [
+         "http://articles.latimes.com/1996-09-27/local/me-47980_1_computer-hacker"
+      ],
+      "year" : "1996"
+   }
+]

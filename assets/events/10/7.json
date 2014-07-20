@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "The JOSS (Johniac Open Shop System) conversational time-sharing service began on the Rand Corporation's Johnniac computer. Time sharing reduced the time programmers had to wait after turning in their punch cards.",
+      "links" : [
+         "http://www.computer.org/csdl/mags/co/2012/11/mco2012110012.html"
+      ],
+      "year" : "1960"
+   },
+   {
+      "text" : "University of North Carolina student radio station WXYC began what is considered the world's first Internet radio broadcast. DJ Michael Shoffner set it up. The simulcast continues today.",
+      "links" : [
+         "http://www.unc.edu/~bretd/radio.htm"
+      ],
+      "year" : "1994"
+   },
+   {
+      "text" : "NASA launched the Mars global surveyor, humanity's return to Mars after a 10-year absence. The mission discovered much about the Geology of the planet.",
+      "links" : [
+         "http://mars.jpl.nasa.gov/programmissions/missions/past/globalsurveyor/"
+      ],
+      "year" : "1996"
+   }
+]

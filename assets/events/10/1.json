@@ -1,0 +1,24 @@
+[
+   {
+      "text" : "The United States Weather Bureau (now known as the National Weather Service) made its first actual weather report. 24 observers sent reports by telegram to Washington DC.",
+      "links" : [
+         "http://weather.about.com/od/weatherhistory/tp/Signal_Service.01.htm",
+         "http://www.crh.noaa.gov/dtx/november_8th_1870.php"
+      ],
+      "year" : "1870"
+   },
+   {
+      "text" : "The largest radio telescope ever constructed, the Arecibo observatory opened in Arecibo Puerto Rico. It would be used for many major discoveries including the first direct imaging of an asteroid.",
+      "links" : [
+         "http://www.naic.edu/public/descrip_eng.htm"
+      ],
+      "year" : "1963"
+   },
+   {
+      "text" : "The MPAA and 2 other industry organisations introduced the voluntary ratings system. G meant good for all ages, M meant mature audiences, R was restricted and X... well you know what X means. It would serve as a model for future voluntary systems like that used by the video game industry.",
+      "links" : [
+         "http://www.mpaa.org/ratings/ratings-history"
+      ],
+      "year" : "1968"
+   }
+]

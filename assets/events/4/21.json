@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "North Pole-1 became the first scientific research station to operate on the drift ice of the Arctic Ocean. The Soviet Union established it about 20 km from the North Pole. It operated for 9 months, and travelled 2,850 kilometres.",
+      "links" : [
+         "http://www.itar-tass.com/en/c32/312161.html"
+      ],
+      "year" : "1937"
+   },
+   {
+      "text" : "IBM announced the Model 701, the first computer designed for scientific calculation. The 701 used electrostatic storage tube memory and kept information on magnetic tape. It sold much better than expected with 19 governments and large companies snapping them up.",
+      "links" : [
+         "http://www-03.ibm.com/ibm/history/exhibits/701/701_1415bx01.html"
+      ],
+      "year" : "1952"
+   },
+   {
+      "text" : "The Japan Aerospace Exploration Agency (JAXA), launched a solar-sail spacecraft IKAROS aboard an H-IIA rocket. The vessel would test out the performance of solar sails, and make a Venus flyby later in the year.",
+      "links" : [
+         "http://www.jspec.jaxa.jp/e/activity/ikaros.html"
+      ],
+      "year" : "2010"
+   },
+   {
+      "text" : "Microsoft announced their newest game console, the Xbox One at a press conference in Redmond.",
+      "links" : [
+         "http://www.theverge.com/2013/5/21/4352404/microsoft-xbox-one-everything-you-need-to-know"
+      ],
+      "year" : "2013"
+   }
+]

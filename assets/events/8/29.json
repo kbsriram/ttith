@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "The Joseph Horne department store in Pittsburgh ran an advertisement in the Pittsburgh Sun, describing wireless Victrola music being picked up by radio. Amateur Wireless Sets were on sale for $10.",
+      "links" : [
+         "http://books.google.ca/books?id=bOo6Pj437KcC&pg=PA30&lpg=PA30&dq=september+29+1920+joseph+home+department+store&source=bl&ots=jNE7alxyrl&sig=cCNgYJ9p_ARyYDax18tNwjx1VHY&sa=X&ei=5uwuUMnaMcm1rQG3yYHYAQ&redir_esc=y#v=onepage&q=september%2029%201920%20joseph%20home%20department%20store&f=false"
+      ],
+      "year" : "1920"
+   },
+   {
+      "text" : "CERN officially came into being. In addition to countless advancements in science, it would go on to foster the invention of the World Wide Web.",
+      "links" : [
+         "http://international-relations.web.cern.ch/International-Relations/ms/"
+      ],
+      "year" : "1954"
+   },
+   {
+      "text" : "Programmers first demonstrated the HotJava prototype browser to executives at Sun Microsystems Inc. It was an attempt to port the Java language to the Web. It worked.",
+      "links" : [
+         "http://papa.det.uvigo.es/~theiere/cursos/Curso_Java/history.html"
+      ],
+      "year" : "1994"
+   }
+]

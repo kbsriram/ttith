@@ -1,0 +1,31 @@
+[
+   {
+      "text" : "Thomas Edison and Stephen D. Field built the world's first elevated electric railway. It was a narrow-gauge 3-foot-wide trackin the gallery around the edge of the main exhibition building of the Chicago Railway Exhibition. It ran nine miles per hour.",
+      "links" : [
+         "http://www.wired.com/thisdayintech/2011/06/0602first-chicago-el-runs-indoors/"
+      ],
+      "year" : "1883"
+   },
+   {
+      "text" : "Guglielmo Marconi applied for British Patent number 12039 regarding a system of telegraphy using Hertzian waves. We'd call it radio.",
+      "links" : [
+         "http://www.marconisociety.org/aboutus/familyhistory.html",
+         "http://www.radiomarconi.com/marconi/popov/pat763772.html"
+      ],
+      "year" : "1896"
+   },
+   {
+      "text" : "The European Space Agency launched the Mars Express probe from the Baikonur space center in Kazakhstan. It was the fastest planetary probe to be built.",
+      "links" : [
+         "http://www.esa.int/esaMI/Mars_Express/SEMFU55V9ED_0.html"
+      ],
+      "year" : "2003"
+   },
+   {
+      "text" : "Apple announced OS X Yosemite and iOS8 at its Worldwide Developers Conference in San Francisco. Among the features were the ability to answer phone calls on your OS X computer, the ability for iOS apps to talk directly to each other, third=party keyboards for iOS, and a new programming language called Swift.",
+      "links" : [
+         "http://www.ibtimes.com/apple-targets-google-wwdc-2014-os-x-mavericks-ios-8-1593874"
+      ],
+      "year" : "2014"
+   }
+]

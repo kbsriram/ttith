@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "Following a declaration of war against Germany, President Woodrow Wilson issued an executive order closing all radio communication not required by the US Navy.",
+      "links" : [
+         "http://www.presidency.ucsb.edu/ws/index.php?pid=75407"
+      ],
+      "year" : "1917"
+   },
+   {
+      "text" : "Hughes Aircraft's Early Bird launched into orbit. It was the first communications satellite to be placed in synchronous orbit and successfully demonstrated the concept of synchronous satellites for commercial communications.",
+      "links" : [
+         "http://history.nasa.gov/satcomhistory.html"
+      ],
+      "year" : "1965"
+   },
+   {
+      "text" : "NASA launched the Pioneer 11 spacecraft, the second mission to investigate Jupiter and the outer solar system and the first to explore the planet Saturn and its main rings.",
+      "links" : [
+         "http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1973-019A"
+      ],
+      "year" : "1973"
+   },
+   {
+      "text" : "Microsoft released Windows 3.1. It sold for $149 and added support for sound cards, MIDI, and CD Audio, Super VGA monitors, and support for 9600 bps modems.",
+      "links" : [
+         "http://www.theregister.co.uk/2012/04/06/windows_3_1_anniversary/"
+      ],
+      "year" : "1992"
+   }
+]

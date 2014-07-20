@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Sir Isaac Newton was born in Woolsthorpe in England and would go on to develop describe universal gravitation and the three laws of motion as well as star in Neal Stephenson's The Baroque Cycle.",
+      "links" : [
+         "http://www.clas.ufl.edu/users/ufhatch/pages/01-courses/current-courses/08sr-newton.htm"
+      ],
+      "year" : "1642"
+   },
+   {
+      "text" : "Sputnik I the first manmade object to orbit the earth, fell back into the atmosphere and disintegrated, after 92 days in space.",
+      "links" : [
+         "http://solarsystem.nasa.gov/missions/profile.cfm?Sort=Chron&StartYear=1950&EndYear=1959&MCode=Sputnik"
+      ],
+      "year" : "1958"
+   },
+   {
+      "text" : "One half of NASA's Mars Rover team, Spirit, landed on Mars to analyze the planet's rocks, looking for evidence of water. Its partner rover Opportunity was 21 days behind. Spirit is no longer active, but Opportunity keeps on chugging along.",
+      "links" : [
+         "http://marsrover.nasa.gov/mission/tl_launch.html"
+      ],
+      "year" : "2004"
+   }
+]

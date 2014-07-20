@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Dr. Hawley Crippen was arrested when the boat he was on docked in Quebec. He was the first person to be caught as a result of a wireless telegraph.",
+      "links" : [
+         "http://www.bbc.co.uk/news/magazine-10802059"
+      ],
+      "year" : "1910"
+   },
+   {
+      "text" : "Apollo 15 astronauts David Scott and James Irwin became the first humans to take a drive on the Moon in the lunar rover.",
+      "links" : [
+         "http://www.lpi.usra.edu/lunar/missions/apollo/apollo_15/surface_opp/"
+      ],
+      "year" : "1971"
+   },
+   {
+      "text" : "NASA issued a press release describing one photo taken by Viking 1 on Mars as resembling \"a human head.\" Conspiracy theories about the face on Mars still run today, though close-up pictures from the Mars Express mission have debunked most of them.",
+      "links" : [
+         "http://www.esa.int/esaMI/Mars_Express/SEM09F8LURE_0.html"
+      ],
+      "year" : "1976"
+   }
+]

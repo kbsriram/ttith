@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "Thomas Alva Edison demonstrated the Kinetoscope for the first time at the Brooklyn Institute of Arts and Sciences.",
+      "links" : [
+         "http://memory.loc.gov/ammem/edhtml/edmvhist.html"
+      ],
+      "year" : "1893"
+   },
+   {
+      "text" : "British destroyers captured a German U-110 submarine south of Iceland and recovered a naval version of the highly secret cipher machine known as Enigma. The sub was sunk to hide its capture and the machine taken to Bletchley Park where Alan Turing and other cryptographers broke the naval code.",
+      "links" : [
+         "http://www.history.navy.mil/faqs/faq97-1.htm"
+      ],
+      "year" : "1941"
+   },
+   {
+      "text" : "Apple previewed its new System 7 operating system at its Worldwide Developers Conference in San Jose. It was announced users would need at least a Mac Plus to run it as well as 2 megs of RAM.",
+      "links" : [
+         "http://www.mactech.com/articles/mactech/Vol.05/05.06/DevConference89/index.html"
+      ],
+      "year" : "1989"
+   },
+   {
+      "text" : "Nintendo announced that its next game console, previously referred to as the Nintendo Revolution, would be called the Nintendo Wii.",
+      "links" : [
+         "http://www.engadget.com/2006/05/09/nintendo-wii-to-sell-for-250/"
+      ],
+      "year" : "2006"
+   }
+]

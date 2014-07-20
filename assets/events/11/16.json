@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "A Time magazine article described the use of the pattern of capillaries in the retina as a means of identification called eye prints. Hello biometrics!",
+      "links" : [
+         "http://www.time.com/time/magazine/article/0,9171,755453,00.html"
+      ],
+      "year" : "1935"
+   },
+   {
+      "text" : "John Bardeen and Walter Brattain applied two closely-spaced gold contacts held in place by a plastic wedge to the surface of a small slab of high-purity germanium. It was the next step in the development of the Transistor.",
+      "links" : [
+         "http://www.pbs.org/transistor/science/labpages/labpg3.html"
+      ],
+      "year" : "1947"
+   },
+   {
+      "text" : "Creative Commons formally launched, unveiling Machine-Readable Copyright Licenses and a revamped website.",
+      "links" : [
+         "http://creativecommons.org/press-releases/entry/3476"
+      ],
+      "year" : "2002"
+   }
+]

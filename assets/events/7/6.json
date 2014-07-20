@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "Jon Postel was born in Altadena, California. He created the Internet's address system, and administered it for 30 years as director of the Internet Assigned Numbers Authority (IANA).",
+      "links" : [
+         "http://www.independent.co.uk/arts-entertainment/obituary-jon-postel-1179966.html"
+      ],
+      "year" : "1943"
+   },
+   {
+      "text" : "Skilled hacker, future government prisoner, and eventual famous security expert Kevin Mitnick was born in Van Nuys, California.",
+      "links" : [
+         "http://www.nndb.com/people/448/000022382/"
+      ],
+      "year" : "1963"
+   },
+   {
+      "text" : "Tim Berners-Lee posted a short summary of his WorldWideWeb Project to alt.hypertext and pointed to a simple browser and a Web page describing the project. Thus the WWW became a publicly available service on the Internet.",
+      "links" : [
+         "https://groups.google.com/forum/?fromgroups#!msg/alt.hypertext/eCTkkOoWTAY/bJGhZyooXzkJ"
+      ],
+      "year" : "1991"
+   },
+   {
+      "text" : "At MacWorld in Boston, Microsoft announced it would invest $150 million in Apple, and continue to make Microsoft Office for Mac for at least five years. The two companies also ended their lawsuit.",
+      "links" : [
+         "http://www.pcworld.com/businesscenter/article/169752/1997_steve_jobs_was_wrong_and_microsoft_saved_apple.html"
+      ],
+      "year" : "1997"
+   }
+]

@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Samuel F.B. Morse received a U.S. patent for \"Improvement in the mode of communicating information by signals by the application of electro-magnetism.\" We call it Morse code.",
+      "links" : [
+         "http://www.google.com/patents?id=Xx5AAAAAEBAJ&printsec=abstract&zoom=4#v=onepage&q&f=false"
+      ],
+      "year" : "1840"
+   },
+   {
+      "text" : "A hotline was established between the Soviet Union and the United States following the Cuban Missile Crisis. While later it would become the famous \"red telephone\" it started as a teletype.",
+      "links" : [
+         "http://www.history.com/this-day-in-history/united-states-and-soviet-union-will-establish-a-hot-line"
+      ],
+      "year" : "1963"
+   },
+   {
+      "text" : "The WikiMedia Foundation was founded in St. Petersburg, Florida by Jimmy Wales to oversee the various Wiki projects like Wikipedia.",
+      "links" : [
+         "http://wikimediafoundation.org/wiki/Press_releases/Relocation"
+      ],
+      "year" : "2003"
+   }
+]

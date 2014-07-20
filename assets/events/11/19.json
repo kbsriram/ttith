@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "The first known radio broadcast from outer space was transmitted. US President Eisenhower spoke from a pre-recorded message aboard the Project SCORE experimental satellite. Redundancy paid off as the first recorder failed but the backup worked.",
+      "links" : [
+         "http://www.nasa.gov/exploration/thismonth/this_month_dec08.html"
+      ],
+      "year" : "1958"
+   },
+   {
+      "text" : "Apollo 17, the last manned lunar flight crewed by Eugene Cernan, Ron Evans and Harrison Schmitt, returned to Earth.",
+      "links" : [
+         "http://science.ksc.nasa.gov/history/apollo/apollo-17/apollo-17.html"
+      ],
+      "year" : "1972"
+   },
+   {
+      "text" : "The Altair 8800 microcomputer from Micro Instrumentation Telemetry Systems in Albuquerque, New Mexico went on sale. For $439 you got everything you needed to build a computer in one kit boasting 256 bytes of memory!",
+      "links" : [
+         "http://www.wired.com/science/discoveries/news/2008/12/dayintech_1219"
+      ],
+      "year" : "1974"
+   }
+]

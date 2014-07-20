@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "Lexis launched Computerized Legal Searching. It was limited to searching the full text of cases in Ohio and New York.",
+      "links" : [
+         "http://www.wired.com/thisdayintech/2010/04/0402lexis-nexis-launches/"
+      ],
+      "year" : "1973"
+   },
+   {
+      "text" : "The patent expired on Swiss inventor George de Mestral's invention of a hook and loop fastener he called Velcro. Soon children everywhere no longer had to learn to tie shoes quite so early in life.",
+      "links" : [
+         "http://famousdaily.com/history/velcro-released-in-the-marketplace.html"
+      ],
+      "year" : "1978"
+   },
+   {
+      "text" : "Microsoft Corporation announced their first hardware product the Z80 SoftCard for Apple. It was a microprocessor on a printed circuit board that plugged into the Apple II and sold for $349.00.",
+      "links" : [
+         "http://www.computerhistory.org/tdih/April/2/"
+      ],
+      "year" : "1980"
+   },
+   {
+      "text" : "Amazon announced Fire TV, it's set-top TV box to deliver streaming TV shows and video games. It also included voice commands spoken into a Bluetooth remote control.",
+      "links" : [
+         "http://www.engadget.com/2014/04/02/amazon-announces-android-powered-streaming-stick/"
+      ],
+      "year" : "2014"
+   }
+]

@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "The first public gas streetlight in the US was lit in Baltimore, Maryland at the corner of Market and Lemon streets.",
+      "links" : [
+         "http://www.mesaaz.gov/energy/nghistory.aspx"
+      ],
+      "year" : "1817"
+   },
+   {
+      "text" : "The first completely successful tests of the wireless telephone from a moving train were conducted on the Delaware, Lackawanna and Western Railroad. Spoken messages were clearly heard 26 miles from Lounsberry to Binghamton, NY.",
+      "links" : [
+         "http://books.google.com/books?id=9mNMAAAAMAAJ&pg=PA648&lpg=PA648&dq=lackawanna+railroad+wireless+february+7+1915&source=bl&ots=nq8K3PVm_f&sig=joNVzIMVQHzYmBFC4940bwY3WeA&hl=en&sa=X&ei=AIotT7aWLqOSiQKBiZXLCg&sqi=2&ved=0CDgQ6AEwAw#v=onepage&q&f=false"
+      ],
+      "year" : "1915"
+   },
+   {
+      "text" : "Challenger astronauts Bruce McCandless II and Robert L. Stewart made the first untethered spacewalks.",
+      "links" : [
+         "http://www.nytimes.com/learning/general/onthisday/big/0207.html"
+      ],
+      "year" : "1984"
+   }
+]

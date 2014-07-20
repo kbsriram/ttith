@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="CMaximumWidthLayout">
+    <attr name="maximumChildWidth" format="dimension" />
+    <attr name="childGravity">
+      <enum name="center" value="0"/>
+      <enum name="left" value="1"/>
+      <enum name="right" value="2"/>
+    </attr>
+  </declare-styleable>
+</resources>

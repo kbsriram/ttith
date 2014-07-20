@@ -1,0 +1,24 @@
+[
+   {
+      "text" : "Robert Noyce, Andy Grove and Gordon Moore incorporated Moore and Noyce electronics, swiftly renamed at Noyce's daughter's suggestion to Integrated Electronics Corporation, or Intel for short.",
+      "links" : [
+         "http://www.theinquirer.net/inquirer/news/1031210/secret-intel-revealed",
+         "http://www.intel.com/Assets/PDF/General/15yrs.pdf"
+      ],
+      "year" : "1968"
+   },
+   {
+      "text" : "Silvano de Gennaro, an IT developer at CERN took a picture of the singing group 'Les Horribles Cernettes' who sang mostly about physics. Tim Berners-Lee would later use that picture as a test, making it the first photo uploaded to the World Wide Web.",
+      "links" : [
+         "http://www.telegraph.co.uk/technology/news/9391110/How-the-first-photo-was-posted-on-the-Web-20-years-ago.html"
+      ],
+      "year" : "1992"
+   },
+   {
+      "text" : "Apple announced Mac OS X 10.1 Puma, the first update to OS X.",
+      "links" : [
+         "http://www.apple.com/pr/library/2001/07/18Apple-Previews-Next-Version-of-Mac-OS-X.html"
+      ],
+      "year" : "2001"
+   }
+]

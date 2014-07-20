@@ -1,0 +1,24 @@
+[
+   {
+      "text" : "Scientific American began publication with the issue for this day. It would become the oldest continuously published magazine in the United States.",
+      "links" : [
+         "http://onlinebooks.library.upenn.edu/webbin/serial?id=sciam"
+      ],
+      "year" : "1845"
+   },
+   {
+      "text" : "The crew of the Space Shuttle Atlantis sent an electronic mail message using AppleLink. The message read: \"Hello Earth! Greetings from the STS-43 Crew. This is the first Applelink from space. Having a GREAT time, wish you were here!\"",
+      "links" : [
+         "http://www.computinghistory.org.uk/det/6115/First%20E-mail%20From%20Space%20Is%20Sent%20from%20a%20Mac%20Portable",
+         "http://books.google.com/books?id=mXnw5tM8QRwC&pg=PA147&lpg=PA147&dq=sts-43+AppleLink&source=bl&ots=PxHodX8lYM&sig=R6aFQbfnpmnNwbl_OZoGgr3MK6M&hl=en&sa=X&ei=o2kLUNbZGOiM2gWxpdQO&ved=0CGwQ6AEwCA#v=onepage&q=sts-43%20AppleLink&f=false"
+      ],
+      "year" : "1991"
+   },
+   {
+      "text" : "Apple released Mac OS X 10.6 Snow Leopard featuring many minor improvements and integration with Microsoft Exchange.",
+      "links" : [
+         "http://www.apple.com/pr/library/2009/08/24Apple-to-Ship-Mac-OS-X-Snow-Leopard-on-August-28.html"
+      ],
+      "year" : "2009"
+   }
+]

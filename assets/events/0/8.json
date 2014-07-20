@@ -1,0 +1,24 @@
+[
+   {
+      "text" : "Herman Hollerith received a patent for his electronic tabulating machine. His Tabulating Machine Company would go on to merge with three others and be called International Business Machines, known today as IBM.",
+      "links" : [
+         "http://www.google.com/patents?id=iPNEAAAAEBAJ&printsec=abstract&zoom=4#v=onepage&q&f=false",
+         "http://www.columbia.edu/cu/computinghistory/hollerith.html"
+      ],
+      "year" : "1889"
+   },
+   {
+      "text" : "Less than a month after Apollo 17, the last manned Moon mission, the USSR launched space mission Luna 21 carrying lunar rover Lunakhod 2.",
+      "links" : [
+         "http://nssdc.gsfc.nasa.gov/planetary/lunar/lunarussr.html"
+      ],
+      "year" : "1973"
+   },
+   {
+      "text" : "The United States vs. AT&T settlement was finalized with AT&T agreeing to divest itself of local exchanges in exchange for being allowed to start AT&T Computer Systems. Like Voltron, the behemoth would eventually reassemble.",
+      "links" : [
+         "http://www.justice.gov/atr/public/hearings/single_firm/docs/218697.htm"
+      ],
+      "year" : "1982"
+   }
+]

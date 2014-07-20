@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "The Chang Zheng-1 rocket launched, carrying the first Chinese satellite, the Dong Fang Hong-1.",
+      "links" : [
+         "http://www.nasaspaceflight.com/2010/06/china-launch-shi-jian-12-satellite-research-mission/"
+      ],
+      "year" : "1970"
+   },
+   {
+      "text" : "At a meeting called \"Apple II Forever\", Apple introduced the portable Apple IIc. The machine came with 128 kilobytes of RAM and a 5 1/4 inch floppy disk drive.",
+      "links" : [
+         "http://apple2history.org/history/ah08/"
+      ],
+      "year" : "1981"
+   },
+   {
+      "text" : "The Space Shuttle Discovery launched with the Hubble Space Telescope on board. The following day, Hubble was released into space.",
+      "links" : [
+         "http://www.nasa.gov/mission_pages/hubble/story/the_story_2.html"
+      ],
+      "year" : "1990"
+   }
+]

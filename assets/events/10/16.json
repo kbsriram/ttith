@@ -1,0 +1,24 @@
+[
+   {
+      "text" : "Sir John Ambrose Fleming went \"scudding down Gower Street\" in London on his way to patenting the \"oscillation valve\" which we fondly call the Vacuum Tube. His patent was later invalidated by the US supreme court, but that didn't stop Fleming from being Knighted and receiving a medal of honor from the Institute of Radio Engineers.",
+      "links" : [
+         "http://www.wired.com/thisdayintech/2009/11/1116fleming-thermionic-valve-vacuum-tube/",
+         "http://www.radio-electronics.com/info/radio_history/gtnames/fleming.php"
+      ],
+      "year" : "1904"
+   },
+   {
+      "text" : "The Soviet Union launched the Venera 3 space probe toward Venus. It would become the first spacecraft to reach the surface of another planet, though it failed to return data.",
+      "links" : [
+         "http://burro.astr.cwru.edu/stu/advanced/20th_soviet_venera.html"
+      ],
+      "year" : "1965"
+   },
+   {
+      "text" : "ICANN announced its decision to include 7 new top-level domains giving birth to the .aero, .biz, .coop, .info, .museum, .name and .pro, TLDs.",
+      "links" : [
+         "http://www.icann.org/en/news/announcements/icann-pr-16nov00-en.htm"
+      ],
+      "year" : "2000"
+   }
+]

@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "August Ferdinand Mobius was born in Schulpforta, Saxony. The mathematician, astronomer and physicist is most well remembered for the discovery of the Mobius strip, a 2-dimensional object with only one side when embedded in 3D space. Poor Johann Benedict Listing also discovered it at the same time but Listing strip just doesn't have the same ring.",
+      "links" : [
+         "http://www-history.mcs.st-and.ac.uk/Biographies/Mobius.html"
+      ],
+      "year" : "1790"
+   },
+   {
+      "text" : "Walter Brattain dumped a semiconductor experiment into a thermos of water and unexpectedly saw a large amplification of electricity. Working with John Bardeen they developed it into a new amplifier that would eventually be called the transistor.",
+      "links" : [
+         "http://www.pbs.org/transistor/background1/events/miraclemo.html"
+      ],
+      "year" : "1947"
+   },
+   {
+      "text" : "The Soviet Union landed Lunokhod 1 on Mare Imbrium on the Moon. It was the first roving remote-controlled robot to land on another world.",
+      "links" : [
+         "http://lroc.sese.asu.edu/news/index.php?/archives/538-Lunokhod-1-Revisited.html"
+      ],
+      "year" : "1970"
+   }
+]

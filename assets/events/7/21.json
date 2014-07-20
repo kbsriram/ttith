@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "William Seward Burroughs received four patents, including one for a 'Calculating Machine'. It would lead to the creation of the Burroughs Adding Machine Company.",
+      "links" : [
+         "http://www.google.com/patents?id=BehtAAAAEBAJ&printsec=abstract&zoom=4#v=onepage&q&f=false"
+      ],
+      "year" : "1888"
+   },
+   {
+      "text" : "Sergey Brin was born in Moscow. His family emigrated to the US in 1979. He would grow up to co-develop a search engine with Larry Page and co-found Google.",
+      "links" : [
+         "http://www.biography.com/people/sergey-brin-12103333"
+      ],
+      "year" : "1973"
+   },
+   {
+      "text" : "NASA lost contact with the Mars Observer three days before it was supposed to enter orbit. As it began to pressurize fuel tanks, the spacecraft's transmitters went silent and it was never heard from again.",
+      "links" : [
+         "http://science.nasa.gov/missions/mars-observer/"
+      ],
+      "year" : "1993"
+   }
+]

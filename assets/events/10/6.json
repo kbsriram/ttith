@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "The New York Times began flashing headlines outside its offices in Times Square using an electronic sign that wrapped around the 4th floor. And an icon was born.",
+      "links" : [
+         "http://www.wired.com/science/discoveries/news/2008/11/dayintech_1106"
+      ],
+      "year" : "1928"
+   },
+   {
+      "text" : "Edwin Armstrong presented his paper \"A Method of Reducing Disturbances in Radio Signaling by a System of Frequency Modulation\" to the New York section of the Institute of Radio Engineers, braving the skepticism of AT&T's John Renshaw Carson who wrote previously that FM radio had no particular advantages over AM.",
+      "links" : [
+         "http://www.qsl.net/n9zia/pdf/armstrong_fm.pdf"
+      ],
+      "year" : "1935"
+   },
+   {
+      "text" : "Microsoft signed a contract with IBM to create an operating system for the new IBM PC. Bill Gates and Steve Ballmer had convinced the heritage tech company that they were not only talented enough to pull it off, but that they should be paid a royalty on the software.",
+      "links" : [
+         "http://books.google.com/books?id=Fedn-75MkBoC&pg=PT2&lpg=PT2&dq=november+6+1980+microsoft+IBM&source=bl&ots=OoyHRBm3FL&sig=mS5a--_vRypSzsF_GjCO0u81hAM&hl=en#v=onepage&q=november%206%201980%20microsoft%20IBM&f=false"
+      ],
+      "year" : "1980"
+   }
+]

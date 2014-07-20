@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "George Boole was born in Lincolnshire, England AND he became a mathematician who laid down the foundations Boolean logic XOR Boolean Algebra. Search engine power users everywhere thank him.",
+      "links" : [
+         "http://www.britannica.com/EBchecked/topic/73612/George-Boole"
+      ],
+      "year" : "1815"
+   },
+   {
+      "text" : "KDKA in Pittsburgh started broadcasting as the first commercial radio station in the US. The first broadcast? Election results. Actual results, not projections.",
+      "links" : [
+         "http://pittsburgh.cbslocal.com/2010/04/01/kdka-history/"
+      ],
+      "year" : "1920"
+   },
+   {
+      "text" : "BBC Television Service went on the air with the world's first regular \"high definition\" service. Back then high definition meant 200 lines not 1080. The channel became BBC One in 1964.",
+      "links" : [
+         "http://www.bbc.co.uk/historyofthebbc/resources/tvhistory/tvasweknowit.shtml"
+      ],
+      "year" : "1936"
+   }
+]

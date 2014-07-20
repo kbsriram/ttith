@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "English astronomer William Herschel observed what he initially thought was a comet but turned out to be the planet Uranus. It was the first planet to be discovered using a telescope.",
+      "links" : [
+         "https://airandspace.si.edu/exhibitions/exploring-the-planets/online/discovery/disc_planets.html"
+      ],
+      "year" : "1781"
+   },
+   {
+      "text" : "At the Royal Institution, Eadweard J. Muybridge demonstrated his zoopraxiscope, an optical apparatus that exhibited photographs of moving animals. It is sometimes considered the first movie projector.",
+      "links" : [
+         "http://www.archive.org/details/attitudesofanima00muyb"
+      ],
+      "year" : "1882"
+   },
+   {
+      "text" : "Apollo 9 returned safely to Earth after orbital testing of the first crewed Lunar Module.",
+      "links" : [
+         "http://www.nasa.gov/mission_pages/apollo/missions/apollo9.html"
+      ],
+      "year" : "1969"
+   }
+]

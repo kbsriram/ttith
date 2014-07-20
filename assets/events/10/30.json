@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "The steam locomotive Flying Scotsman became the first to officially exceed 100 mph.",
+      "links" : [
+         "http://www.theheritagetrail.co.uk/industrial/flying%20scotsman.htm"
+      ],
+      "year" : "1934"
+   },
+   {
+      "text" : "British Aerospace and Marconi Electronic Systems merged to form BAE Systems, Europe's largest defense contractor and the fourth largest aerospace firm in the world. Marconi had been founded by Guglielmo Marconi in 1897.",
+      "links" : [
+         "http://www.princeton.edu/~achaney/tmve/wiki100k/docs/Marconi_Electronic_Systems.html"
+      ],
+      "year" : "1999"
+   },
+   {
+      "text" : "Microsoft released Windows Vista for business use. Vista improved on security over Windows XP, but took criticism for other features, and never rivaled Windows XP in adoption.",
+      "links" : [
+         "http://gigaom.com/collaboration/windows-vista-launches-yawn/"
+      ],
+      "year" : "2006"
+   }
+]

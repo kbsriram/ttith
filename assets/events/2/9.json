@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "The University of California at Berkeley and the Atomic Energy Commission announced the artificial production of mesons using the 184-inch cyclotron at the university's Radiation Laboratory.",
+      "links" : [
+         "http://www.lbl.gov/Science-Articles/Research-Review/Magazine/1981/81fepi3.html"
+      ],
+      "year" : "1948"
+   },
+   {
+      "text" : "Sputnik 9 successfully launched, carrying a human dummy and and the dog Chernushka. It completed 1 orbit and was successfully recovered upon return. Yes, the dog made it back unharmed.",
+      "links" : [
+         "http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1961-008A"
+      ],
+      "year" : "1961"
+   },
+   {
+      "text" : "Space Shuttle Discovery on Mission STS-133 made its final landing after 39 flights.",
+      "links" : [
+         "http://www.nasa.gov/home/hqnews/2011/mar/HQ_11-068_Discovery_Lands.html"
+      ],
+      "year" : "2011"
+   }
+]

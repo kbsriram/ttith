@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "Fusajiro Yamauchi founded Nintendo Koppai in Kyoto, Japan, to manufacture hanafuda, Japanese playing cards. Mario came much later.",
+      "links" : [
+         "http://www.wired.com/thisdayintech/2010/09/0923nintendo-founded/"
+      ],
+      "year" : "1889"
+   },
+   {
+      "text" : "NASA lost contact with the Mars Climate Orbiter. It began orbit normally, but after it went behind the planet and out of range, it never made contact again. It was later determined that the approach attitude was wrong because software put out imperial units instead of metric units.",
+      "links" : [
+         "http://mars.jpl.nasa.gov/msp98/news/mco990923.html"
+      ],
+      "year" : "1999"
+   },
+   {
+      "text" : "Mozilla Phoenix 0.1 was released. It was the first public version of the web browser without mail or web editor, which would become Mozilla Firefox.",
+      "links" : [
+         "https://wiki.mozilla.org/History:Timelines"
+      ],
+      "year" : "2002"
+   },
+   {
+      "text" : "The T-Mobile G1 launched, the first phone to use Google's Android OS, as it began it's competition against the barely year-old iPhone.",
+      "links" : [
+         "http://www.pcmag.com/article2/0,2817,2409863,00.asp"
+      ],
+      "year" : "2008"
+   }
+]

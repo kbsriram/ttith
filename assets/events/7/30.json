@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "Gottlieb Daimler received a patent for adding an internal combustion engine to a bicycle to make the first gasoline-driven motorcycle.",
+      "links" : [
+         "http://www.wired.com/thisdayintech/2011/08/0830daimler-first-true-motorcycle/"
+      ],
+      "year" : "1885"
+   },
+   {
+      "text" : "A direct line of communication between the leaders of the USA and USSR, dubbed \"The Hotline\" began operation.",
+      "links" : [
+         "http://learning.blogs.nytimes.com/2011/08/30/aug-30-1963-communications-hot-line-connects-soviet-and-u-s-heads-of-state/"
+      ],
+      "year" : "1963"
+   },
+   {
+      "text" : "BBN delivered the first Interface Message Processor (IMP) to the Network Measurements Center at UCLA. It was built from a Honeywell DDP 516 computer with 12K of memory, and would be used in October to make the first Internet connection with Stanford. Graduate students Vinton Cerf, Steve Crocker, Bill Naylor, Jon Postel, and Mike Wingfield were charged with installation.",
+      "links" : [
+         "http://www.livinginternet.com/i/ii_arpanet.htm"
+      ],
+      "year" : "1969"
+   },
+   {
+      "text" : "A copyright was issued to 16-year-old V.A. Shiva Ayyadurai for a computer program he called \"EMAIL,\" short for \"electronic mail.\" While Ayyadurai may not be considered the inventor of email he definitely deserves credit for establishing the name.",
+      "links" : [
+         "http://allthingsd.com/20120904/email-turns-30/"
+      ],
+      "year" : "1982"
+   }
+]

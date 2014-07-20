@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "In a garage in Palo Alto, California, William Hewlett and David Packard founded Hewlett-Packard a little company that made audio oscillators-- and later TouchPads.",
+      "links" : [
+         "http://www8.hp.com/us/en/hp-information/about-hp/history/hp-timeline/hp-timeline.html"
+      ],
+      "year" : "1939"
+   },
+   {
+      "text" : "A new Internet and Transmission Control Protocol (Yep called IP/TCP by some at the time, weird I know) went into effect on the ARPANet, replacing the Network Control Protocol. The result was a new ARPA Internet combining ARPA hosts of the time new systems.",
+      "links" : [
+         "http://research.microsoft.com/en-us/um/people/mbj/smiley/arpanet_protocol_thread.html"
+      ],
+      "year" : "1983"
+   },
+   {
+      "text" : "The Nordic Research Network NORDUnet registered the first domain name NORDU.NET.",
+      "links" : [
+         "http://www.nordu.net/ndnweb/the_history_of_nordunet.html"
+      ],
+      "year" : "1985"
+   }
+]

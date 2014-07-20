@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "Sir John Herschel presented his 'Note on the Art of Photography, or the application of the Chemical Rays of Light to the purposes of Pictorial Representation' to the Royal Society, likely the first use of the word 'photography'.",
+      "links" : [
+         "http://www.midley.co.uk/articles/14march1839.htm"
+      ],
+      "year" : "1839"
+   },
+   {
+      "text" : "Albert Einstein was born in Ulm in Wurttemberg, Germany. He would grow up to work in the Swiss patent office. And reinvent physics.",
+      "links" : [
+         "http://www.nobelprize.org/nobel_prizes/physics/laureates/1921/einstein-bio.html"
+      ],
+      "year" : "1879"
+   },
+   {
+      "text" : "Linus Torvalds posted to comp.os.linux.announce that Linux kernel release 1.0. had arrived.",
+      "links" : [
+         "http://www.tuxradar.com/content/linux-kernel-10-turns-15-years-old"
+      ],
+      "year" : "1994"
+   },
+   {
+      "text" : "Samsung announced the Samsung Galaxy S IV phone would come out in April. Their broadway-influenced presentation received much criticism.",
+      "links" : [
+         "http://abcnews.go.com/Technology/samsung-galaxy-s4-announced-control-phone-waves-tilts/story?id=18732190#.UUtSI1tAQsg"
+      ],
+      "year" : "2013"
+   }
+]

@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Gottfried Leibniz demonstrated integral calculus for the first time to find the area under the graph of good ol y=f(x). That is, if you believe what he wrote in his notebooks.",
+      "links" : [
+         "http://books.google.com/books?id=bOIGAAAAYAAJ&pg=PA213&lpg=PA213&dq=november+11+1675+leibniz&source=bl&ots=U_y9jNxYoF&sig=BIPDX5dry5lv_bLJUXmLTelcDIg&hl=en#v=onepage&q=november%2011%201675%20leibniz&f=false"
+      ],
+      "year" : "1675"
+   },
+   {
+      "text" : "Albert Einstein, yes that Albert Einstein and Leo Szilard received a US patent for a refrigerator that required no electricity, just a heat source. Electrolux bought up the patents.",
+      "links" : [
+         "http://www.google.com/patents?id=t0BRAAAAEBAJ&printsec=abstract&zoom=4#v=onepage&q&f=false"
+      ],
+      "year" : "1930"
+   },
+   {
+      "text" : "The Sony PS3 went on sale with a built-in Blu-ray player and hard drive.",
+      "links" : [
+         "http://www.scei.co.jp/corporate/release/pdf/060509ae.pdf"
+      ],
+      "year" : "2006"
+   }
+]

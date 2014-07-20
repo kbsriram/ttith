@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Samuel Morse, with his partner, Alfred Vail, gave the first public demonstration of their new electric telegraphic system at the Speedwell Iron Works in Morristown, NJ. They used Morse's specially designed code to send the message \"\"A patient waiter is no loser.\"",
+      "links" : [
+         "http://www.history.com/this-day-in-history/morse-demonstrates-telegraph"
+      ],
+      "year" : "1838"
+   },
+   {
+      "text" : "Leon Foucault proved the rotation of the Earth experimentally. He wrote in his journal that he made the discovery at 2:00 AM working with his famous pendulum in the cellar of his house.",
+      "links" : [
+         "http://www.davidellyard.com/01-02_08%20Discoveries.pd"
+      ],
+      "year" : "1851"
+   },
+   {
+      "text" : "Apple debuted the iPod Mini, a diminutive 4GB version of the iPod available in five colors at $249.",
+      "links" : [
+         "http://www.apple.com/pr/library/2004/01/06Apple-Introduces-iPod-mini.html"
+      ],
+      "year" : "2004"
+   }
+]

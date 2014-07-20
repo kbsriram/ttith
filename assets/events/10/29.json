@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "The Spanish founded California's first civilian settlement called Pueblo de San Jose de Guadalupe. It would become the future state's first capital and eventually the heart of Silicon Valley.",
+      "links" : [
+         "http://www.sanjoseca.gov/about.asp"
+      ],
+      "year" : "1777"
+   },
+   {
+      "text" : "The first US patent for a traffic signal system was issued to Ernest E. Sirrine. It switched an illuminated sign between the words \"stop\" and \"proceed\"",
+      "links" : [
+         "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=0976939.PN.&OS=PN/0976939&RS=PN/0976939"
+      ],
+      "year" : "1910"
+   },
+   {
+      "text" : "Nolan Bushnell installed a coin-operated arcade game at Andy Capp's tavern in Sunnyvale, California. It only played Allan Alcorn's Pong. Within four months there were 10,000 across the country.",
+      "links" : [
+         "http://www.wired.com/science/discoveries/news/2007/11/dayintech_1129"
+      ],
+      "year" : "1972"
+   }
+]

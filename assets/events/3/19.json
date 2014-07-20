@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "A report appeared in Billboard magazine of the first public demonstration of the Jerry Fairbanks Zoomar lens. The National Broadcasting Company in New York City conducted the demo and the zoom lens soon became standard TV equipment.",
+      "links" : [
+         "http://books.google.com/books?id=oQwEAAAAMBAJ&pg=PT14&lpg=PT14&dq=zoomar+lens+national+broadcasting+corporation&source=bl&ots=htr7_jw8_1&sig=WfOmu4YGW6Ij4FeONMXBhoPT2xc&hl=en&sa=X&ei=uHhuT6iCEarniAKTsdWeBQ&sqi=2&ved=0CDYQ6AEwAw#v=onepage&q=zoomar%20lens%20national%20broadcasting%20corporation&f=false"
+      ],
+      "year" : "1947"
+   },
+   {
+      "text" : "The first non-test FORTRAN program was compiled and run by Herbert Bright, manager of the data processing center at Westinghouse. It produced a missing comma diagnostic. Once fixed, a successful attempt followed.",
+      "links" : [
+         "http://books.google.com/books?id=x8BvqSRbR3cC&pg=PA289&lpg=PA289&dq=april+19+1957+first+fortran+program&source=bl&ots=2fy7lq-7vX&sig=Vanzeie3xfLAw_-u-34YjFBb1Fg&hl=en&sa=X&ei=VhlnUZqDDcaIiAKRo4CQCw&ved=0CGUQ6AEwBg#v=onepage&q=april%2019%201957%20first%20fortran%20program&f=false"
+      ],
+      "year" : "1957"
+   },
+   {
+      "text" : "\"Cramming more components onto integrated circuits\" by Gordon Moore was published in Electronics. Moore projected that over the next ten years the number of components per chip would double every 12 months. By 1975 he turned out to be right, and the doubling became immortalized as \"Moore's law.\"",
+      "links" : [
+         "http://www.computerhistory.org/semiconductor/timeline/1965-Moore.html"
+      ],
+      "year" : "1965"
+   }
+]

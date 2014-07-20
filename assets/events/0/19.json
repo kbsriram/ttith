@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "The first electric lighting system using overhead wires went into service in Roselle, New Jersey.",
+      "links" : [
+         "http://www.boroughofroselle.com/History/"
+      ],
+      "year" : "1883"
+   },
+   {
+      "text" : "Apple released the Lisa, the second commercial computer with a graphical user interface (after the Xerox Star). It only cost $9,995too!",
+      "links" : [
+         "http://techcrunch.com/2010/01/19/happy-birthday-lisa/"
+      ],
+      "year" : "1983"
+   },
+   {
+      "text" : "Brain became the first computer virus released into the wild. It was a boot sector virus transmitted by floppy disks. The Farooq Alvi Brothers of Lahore, Pakistan created the virus.",
+      "links" : [
+         "http://www.theregister.co.uk/2006/01/19/pc_virus_at_20/"
+      ],
+      "year" : "1986"
+   }
+]

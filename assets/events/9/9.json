@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "The first two-way telephone conversation occurred over outdoor wires between Alexander Graham Bell and his assistant, Watson. They used a two-mile telegraph line linking Boston and East Cambridge.",
+      "links" : [
+         "http://www.nytimes.com/learning/general/onthisday/bday/0118.html"
+      ],
+      "year" : "1876"
+   },
+   {
+      "text" : "Eckert-Mauchly Computer Co. signed a contract with Northrop to develop the BINary Automatic Computer. BINAC was the only computer ever built by the company founded by ENIAC pioneers J. Presper Eckert and John Mauchly.",
+      "links" : [
+         "http://what-when-how.com/inventions/binac-computer-inventions/"
+      ],
+      "year" : "1947"
+   },
+   {
+      "text" : "The first lunar impact of the Centaur and LCROSS spacecrafts kicked up some dust as part of NASA's Lunar precursor Robotic program. The impact has led to greater certainty that there is water on the moon.",
+      "links" : [
+         "http://lcross.arc.nasa.gov/observation.htm"
+      ],
+      "year" : "2009"
+   }
+]

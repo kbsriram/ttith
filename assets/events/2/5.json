@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "The Homebrew Computer Club, held its first meeting in the garage of Gordon French in Menlo Park, California. 32 people showed up for the first meeting. John Draper, Steve Wozniak and Steve Jobs were some of the more famous members of the club.",
+      "links" : [
+         "http://www.wired.com/science/discoveries/news/2009/03/dayintech_0305"
+      ],
+      "year" : "1975"
+   },
+   {
+      "text" : "The ZX81 was launched by Sinclair Research in Britain for #69.95 and would go on to sell over 1.5 million units around the world. It was much more successful than it's predecessor the ZX80.",
+      "links" : [
+         "http://www.computinghistory.org.uk/det/5447/Sinclair-ZX81-Lanuched"
+      ],
+      "year" : "1981"
+   },
+   {
+      "text" : "Four days after it's twin, the second of two Soviet probes to Venus, the Venera 14 landed on the planet. Venera 13 and 14 would continue to send data until 1983.",
+      "links" : [
+         "http://heasarc.gsfc.nasa.gov/docs/heasarc/missions/venera1314.html"
+      ],
+      "year" : "1982"
+   }
+]

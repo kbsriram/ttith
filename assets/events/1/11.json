@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Proud parents Samuel and Nancy welcomed their seventh and last child into the world. Thomas Edison would grow up to embody the word inventor.",
+      "links" : [
+         "http://www.britannica.com/EBchecked/topic/179233/Thomas-Alva-Edison"
+      ],
+      "year" : "1847"
+   },
+   {
+      "text" : "With the launch of Osumi 5, Japan became the fourth country (after the US, USSR and France) to place a satellite into orbit using its own rocket.",
+      "links" : [
+         "http://www.kahaku.go.jp/english/exhibitions/permanent/outdoors/index.html"
+      ],
+      "year" : "1970"
+   },
+   {
+      "text" : "The Space Shuttle Discovery launched on Mission STS-82 with the objective of making significant upgrades to the scientific capabilities of the Hubble Space Telescope. The upgrades helped turn the Hubble from a punchline, to one of the greatest telescopes ever created.",
+      "links" : [
+         "http://science.ksc.nasa.gov/shuttle/missions/sts-82/mission-sts-82.html"
+      ],
+      "year" : "1997"
+   }
+]

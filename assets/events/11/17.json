@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "The Edison Electric Illuminating Company of New York was incorporated to install a central generating station in New York City. New Yorkers know it now as ConEd.",
+      "links" : [
+         "http://www.coned.com/history/electricity.asp"
+      ],
+      "year" : "1880"
+   },
+   {
+      "text" : "Orville Wright successfully made a flight in a heavier-than-air machine that took off from level ground under its own power and was controlled during flight. It's generally considered the first airplane flight.",
+      "links" : [
+         "http://www.wright-house.com/wright-brothers/wrights/1903.html"
+      ],
+      "year" : "1903"
+   },
+   {
+      "text" : "John Barger coined the term 'weblog' to describe his list of links on his site, Robot Wisdom. Peter Merholz would later shorten it to just 'blog'.",
+      "links" : [
+         "http://www.wired.com/entertainment/theweb/news/2007/12/blog_anniversary"
+      ],
+      "year" : "1997"
+   },
+   {
+      "text" : "The W3C announced it had completed the definition of HTML 5.",
+      "links" : [
+         "http://www.w3.org/2012/12/html5-cr"
+      ],
+      "year" : "2012"
+   }
+]

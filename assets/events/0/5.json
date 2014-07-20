@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Warner Brothers showed the very first color newsreel, featuring the Tournament of Roses Parade and the Rose Bowl football game.",
+      "links" : [
+         "http://www.oscars.org/awards/academyawards/legacy/ceremony/21st.html"
+      ],
+      "year" : "1948"
+   },
+   {
+      "text" : "President Richard M. Nixon announced that NASA would develop a space shuttle system, emphasizing its reliability, reusability and low cost.",
+      "links" : [
+         "http://history.nasa.gov/stsnixon.htm"
+      ],
+      "year" : "1972"
+   },
+   {
+      "text" : "Richard Stallman began working on the GNU Operating system,a free UNIX-like OS. GNU/Linux is seen as the most successful outgrowth of that project.",
+      "links" : [
+         "http://stallman.org/"
+      ],
+      "year" : "1984"
+   }
+]

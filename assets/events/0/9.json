@@ -1,0 +1,31 @@
+[
+   {
+      "text" : "The first application for a patent for Meccano was submitted. Known at first as \"Mechanics Made Easy,\" this invention of Frank Hornby became a worldwide success and is sold in the US under the name \"Erector Set\"",
+      "links" : [
+         "http://www.meccanopedia.com/wiki/index.php?title=File:MeccanoOriginalPatent_Page_1.jpg"
+      ],
+      "year" : "1901"
+   },
+   {
+      "text" : "Apple CEO John Sculley coined the term Personal Digital Assistants, or PDAs, and indicated Apple would get into the business of making them later that year.",
+      "links" : [
+         "http://www.thefreelibrary.com/REMARKS+BY+JOHN+SCULLEY,+CHAIRMAN+AND+CEO,+APPLE+COMPUTER+INC.+AT...-a011685610",
+         "https://groups.google.com/forum/?fromgroups=#!msg/comp.sys.mac.announce/oqfX2Jp6gWw/UaF11YI9tRkJ"
+      ],
+      "year" : "1992"
+   },
+   {
+      "text" : "Apple introduced iTunes for the Macintosh, featuring CD ripping, digital music organizing, and Internet radio.",
+      "links" : [
+         "http://www.apple.com/pr/library/2001/01/09Apple-Introduces-iTunes-Worlds-Best-and-Easiest-To-Use-Jukebox-Software.html"
+      ],
+      "year" : "2001"
+   },
+   {
+      "text" : "Apple CEO Steve Jobs introduced an iPod, an Internet device and a phone all in one. It was called the iPhone and would go on sale later that summer. It was pretty popular at the time.",
+      "links" : [
+         "http://www.apple.com/pr/library/2007/01/09Apple-Reinvents-the-Phone-with-iPhone.html"
+      ],
+      "year" : "2007"
+   }
+]

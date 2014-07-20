@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Steve Jobs, Steve Wozniak, and Ronald Wayne decided to change their garage project into a company and formed Apple Computer. It would be incorporated the following January.",
+      "links" : [
+         "http://www.wired.com/science/planetearth/news/2007/04/DAYINTECH_0401"
+      ],
+      "year" : "1976"
+   },
+   {
+      "text" : "Dave Winer changed how he displayed 'Scripting News' so that it always showed the last ten days of posts. In other words, the way every blog does it now. Whether this makes it the 'first blog' or not, it was extremely influential and is definitely one of the oldest blogs out there, predating the term blog, of course.",
+      "links" : [
+         "http://scripting.com/stories/siteChanges.html"
+      ],
+      "year" : "1997"
+   },
+   {
+      "text" : "In one of the best April Fool's jokes ever, Google launched a real product. Weren't expecting that, were you Internet? Gmail launched in invite-only mode, making a Gmail account temporarily prestigious in the geek world.",
+      "links" : [
+         "http://www.google.com/press/pressrel/gmail.html"
+      ],
+      "year" : "2004"
+   }
+]

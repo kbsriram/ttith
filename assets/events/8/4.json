@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "George Eastman was issued U.S. patent No. 388,850 for his roll-film box camera.",
+      "links" : [
+         "http://www.google.com/patents?id=rAlvAAAAEBAJ&printsec=abstract&zoom=4#v=onepage&q&f=false"
+      ],
+      "year" : "1888"
+   },
+   {
+      "text" : "IBM introduced the IBM 350 Disk storage unit for the RAMAC 305, the first commercial computer to use magnetic disk storage.",
+      "links" : [
+         "http://www-03.ibm.com/ibm/history/exhibits/storage/storage_350.html"
+      ],
+      "year" : "1956"
+   },
+   {
+      "text" : "Larry Page and Sergey Brin filed for incorporation of Google, allowing them to cash a $100,000 check Andy Bechtolsheim, co-founder of Sun, had written to Google Inc.",
+      "links" : [
+         "http://www.google.com/about/company/history/"
+      ],
+      "year" : "1998"
+   },
+   {
+      "text" : "Samsung announced a smartwatch called Galaxy Gear that could only be used with its own phones and tablets that ran Android 4.3.",
+      "links" : [
+         "http://www.theverge.com/2013/9/4/4693692/samsung-galaxy-gear-smartwatch-announcement"
+      ],
+      "year" : "2013"
+   }
+]

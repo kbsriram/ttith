@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Michael Faraday was born in south London. He grew up to discover electromagnetic induction and coined the terms 'electrode', 'cathode' and 'ion.' He also lent his name to the Faraday cage.",
+      "links" : [
+         "http://www.bbc.co.uk/history/historic_figures/faraday_michael.shtml"
+      ],
+      "year" : "1791"
+   },
+   {
+      "text" : "In NEC Corp. Vs. Intel Corp., the US District Court for the Northern District of California ruled that microprograms are copyrightable literary works. And so all the trouble began.",
+      "links" : [
+         "http://jolt.law.harvard.edu/articles/pdf/v03/03HarvJLTech209.pdf"
+      ],
+      "year" : "1986"
+   },
+   {
+      "text" : "Facebook announced its new Timeline feature which would collect all your posts and materials in chronological order, replacing the old profile.",
+      "links" : [
+         "https://blog.facebook.com/blog.php?post=10150289612087131"
+      ],
+      "year" : "2011"
+   }
+]

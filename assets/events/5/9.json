@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Joe Horn and Frank Hardart opened the first US Automat at 818 Chestnut St. in Philadelphia. The waiterless restaurant charged a nickel for most dishes.",
+      "links" : [
+         "http://news.google.com/newspapers?nid=1291&dat=20021226&id=vVpUAAAAIBAJ&sjid=ko4DAAAAIBAJ&pg=3964,7574304"
+      ],
+      "year" : "1902"
+   },
+   {
+      "text" : "Robert Goddard received a patent for rocket-fueled aircraft design (U.S. No. 1,809,271). Sadly we do not have a lot of rocket-planes in operation.",
+      "links" : [
+         "http://www.google.com/patents?id=pxxBAAAAEBAJ&printsec=abstract&zoom=4#v=onepage&q&f=false"
+      ],
+      "year" : "1931"
+   },
+   {
+      "text" : "The Pittsburgh Supercomputer Center opened to support the National Science Foundation's NSFNET, which linked five supercomputer centers. NSFNET would eventually allow commercial uses and transition to the open Internet.",
+      "links" : [
+         "http://www.computerhistory.org/tdih/June/9/"
+      ],
+      "year" : "1986"
+   }
+]

@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Ts'ai Lun demonstrated his process for making paper to the Han emperor in China. He probably didn't invent it, but he certainly turned it into an industry for the first time. And the industry still survives 20 centuries later even in the face of the computers that plot its doom.",
+      "links" : [
+         "http://www.wired.com/science/discoveries/news/2008/03/dayintech_0311"
+      ],
+      "year" : "105"
+   },
+   {
+      "text" : "The Southern New England Telephone Company turned on ConnNet, the nation's first local, public packet-switching network. Customers could access CompuServ, NewsNet and other services at a blistering 4,800 to 56,000 bits per second.The service's X.25 protocol went obsolete in the 1990s with the popularity of the Internet Protocol.",
+      "links" : [
+         "http://books.google.com/books?id=oVnVdSTcPbAC&pg=PT146&lpg=PT146&dq=connnet+1985+southern+new+england+telephone+x.25&source=bl&ots=72T_A7qK_4&sig=f_SUUr-etmXoUQ1RZZ6NXniSj1M&hl=en&sa=X&ei=W4EyUd7PIOTUigKC8oHoDA&ved=0CEQQ6AEwAg"
+      ],
+      "year" : "1985"
+   },
+   {
+      "text" : "Apple began selling the iPad 2, a thinner version of the first iPad, that also included a camera.",
+      "links" : [
+         "http://www.apple.com/pr/library/2011/03/10iPad-2-Arrives-Tomorrow.html"
+      ],
+      "year" : "2011"
+   }
+]

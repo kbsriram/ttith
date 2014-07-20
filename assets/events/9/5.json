@@ -1,0 +1,37 @@
+[
+   {
+      "text" : "The first episode of Monty Python's Flying Circus aired on the BBC. The show created the Spam sketch that would eventually inspire the slang term for unsolicited email.",
+      "links" : [
+         "http://news.bbc.co.uk/1/hi/entertainment/8287931.stm"
+      ],
+      "year" : "1969"
+   },
+   {
+      "text" : "Linux Kernel, version 0.02 was released, attracting a lot of attention. Author Linus Torvalds felt this version was at least usable and worth a wider release.",
+      "links" : [
+         "https://groups.google.com/forum/?fromgroups#!msg/comp.os.minix/4995SivOl9o/GwqLJlPSlCEJ%5B1-25%5D"
+      ],
+      "year" : "1991"
+   },
+   {
+      "text" : "IBM announced the ThinkPad line of Notebook computers at offices in New York City.",
+      "links" : [
+         "http://www.zdnet.com/happy-20th-birthday-to-the-ibm-thinkpad-a-design-classic-7000002561/"
+      ],
+      "year" : "1992"
+   },
+   {
+      "text" : "\"Xbox Media Player\" and its first beta source code was released. The code was a result of Frodo, the founder of \"YAMP\" (Yet Another Media Player), joining the Xbox Media Player team. The project was later changed to Xbox Media Center and then just XBMC.",
+      "links" : [
+         "http://xbmc.org/10-years-of-xbmc/"
+      ],
+      "year" : "2002"
+   },
+   {
+      "text" : "Steve Jobs died at his home surrounded by family. The co-founder and CEO of Apple has fought pancreatic cancer for years.",
+      "links" : [
+         "http://abcnews.go.com/Technology/steve-jobs-dies-apple-chief-innovated-personal-computer/story?id=14383813#.UDY7lt1lRG0"
+      ],
+      "year" : "2011"
+   }
+]

@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "Doug Engelbart was born in Portland, Oregon. He is most famous for his work on the first computer Mouse, but also worked on many other innovations involving graphical user interfaces, hypertext and networks.",
+      "links" : [
+         "http://www.edu.pe.ca/kish/grassroots/meet/mackays.htm"
+      ],
+      "year" : "1925"
+   },
+   {
+      "text" : "Hungarian Interior Design instructor Erno Rubik filed for a patent on his twisty toy cubes. The patent worked out for him. Erno Rubik became the first self-made millionaire from the Communist bloc.",
+      "links" : [
+         "http://cube.stanford.edu/class/files/slideshow_week2.pdf"
+      ],
+      "year" : "1975"
+   },
+   {
+      "text" : "Microsoft released Windows Vista for home use. Though not as many homes would end up using it as other versions of Windows.",
+      "links" : [
+         "http://reviews.cnet.com/windows/windows-vista-home-premium/4505-3672_7-32013237.html"
+      ],
+      "year" : "2007"
+   },
+   {
+      "text" : "RIM announced it was changing its name to BlackBerry and also unveiled BlackBerry OS 10 and the new Z10 and Q10 smartphones.",
+      "links" : [
+         "http://www.reuters.com/article/2013/01/30/us-rim-blackberry-idUSBRE90S0YC20130130"
+      ],
+      "year" : "2013"
+   }
+]

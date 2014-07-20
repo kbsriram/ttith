@@ -1,0 +1,24 @@
+[
+   {
+      "text" : "Gaslight illuminated Philadelphia's Chestnut Street Theatre, improving on an innovation pioneered in London. Instead of coal the gas was created from pitch, reducing the malodorous vapors caused by the wonder's creation.",
+      "links" : [
+         "http://www3.northern.edu/wild/LiteDes/ldhist.htm"
+      ],
+      "year" : "1816"
+   },
+   {
+      "text" : "PG&E and General Electric inaugurate the Vallecitos Nuclear Power Plant in Pleasanton California. It was the first privately funded atomic power plant.",
+      "links" : [
+         "http://archive.org/details/FirstPri1957",
+         "http://www.energy.ca.gov/nuclear/california.html"
+      ],
+      "year" : "1957"
+   },
+   {
+      "text" : "The Project Viking landers passed through superior conjunction at Mars, enabling scientists to begin an experiment that used the landers as transponders. The data collected confirmed the Shapiro Delay, becoming one of the best confirmations of General Relativity we have seen.",
+      "links" : [
+         "http://articles.adsabs.harvard.edu/full/1979ApJ...234L.219R"
+      ],
+      "year" : "1976"
+   }
+]

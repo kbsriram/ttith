@@ -1,0 +1,24 @@
+[
+   {
+      "text" : "Alfred Nobel demonstrated dynamite for the first time at Merstham Quarry, Surrey.",
+      "links" : [
+         "http://www.information-britain.co.uk/famdates.php?id=572",
+         "http://www.nobelprize.org/alfred_nobel/biographical/articles/dolan/"
+      ],
+      "year" : "1867"
+   },
+   {
+      "text" : "Computer pioneer and MIT professor Jay Forrester was born on a cattle ranch in Climax, Nebraska. With Robert Everett, Forrester led one of the most important early computer projects, the Whirlwind, and developed and founded the field of system dynamics.",
+      "links" : [
+         "http://jsterman.scripts.mit.edu/docs/Lane-2011%20Profiles%20in%20Operations%20Research.pdf"
+      ],
+      "year" : "1918"
+   },
+   {
+      "text" : "Mariner 4 flew by Mars, taking 21 full pictures, the first close-up photos of another planet returned from space.",
+      "links" : [
+         "http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1964-077A"
+      ],
+      "year" : "1965"
+   }
+]

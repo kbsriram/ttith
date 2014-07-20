@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Heinrich Rudolf Hertz was born in Hamburg, Germany. Hertz made key discoveries in optics but also transmitted and received electromagnetic waves and gave his name to the common unit of frequency, Hz.",
+      "links" : [
+         "http://micro.magnet.fsu.edu/optics/timeline/people/hertz.html"
+      ],
+      "year" : "1857"
+   },
+   {
+      "text" : "Chicago stockbroker Steve Fossett completed the first hot air balloon flight over Pacific Ocean. At 9600 km it was also the longest balloon flight.",
+      "links" : [
+         "http://www.nytimes.com/1995/02/22/us/balloonist-is-first-to-cross-pacific-alone.html?src=pm"
+      ],
+      "year" : "1995"
+   },
+   {
+      "text" : "President Clinton signed an Executive Order directing the declassification of intelligence imagery acquired by the CORONA, ARGON and LANYARD U.S. photo-reconnaissance satellites. More than 860,000 images of the Earth's surface, collected between 1960 and 1972 were made public.",
+      "links" : [
+         "http://www.fas.org/spp/military/program/imint/corona.htm"
+      ],
+      "year" : "1995"
+   }
+]

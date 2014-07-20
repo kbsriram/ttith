@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Microsoft's Internet Explorer passed Netscape Navigator as the Web browser with the greatest market share, according to a report from the International Data Corporation.",
+      "links" : [
+         "http://www.wired.com/thisdayintech/2009/09/0928ie-beats-netscape/"
+      ],
+      "year" : "1998"
+   },
+   {
+      "text" : "SpaceX launched the Falcon 1, first ever private spacecraft to enter orbit.",
+      "links" : [
+         "http://www.spacex.com/updates_archive.php?page=0802-1007"
+      ],
+      "year" : "2008"
+   },
+   {
+      "text" : "Amazon shook up the tablet market, announcing the the Amazon Kindle Fire 7-inch tablet for $199.",
+      "links" : [
+         "http://money.cnn.com/2011/09/28/technology/amazon_tablet/index.htm"
+      ],
+      "year" : "2011"
+   }
+]

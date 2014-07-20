@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Larry Page was born in East Lansing, Michigan. He would go on to help invent and co-found Google.",
+      "links" : [
+         "http://www.biography.com/people/larry-page-12103347"
+      ],
+      "year" : "1973"
+   },
+   {
+      "text" : "Queen Elizabeth II sent the first royal email, from the Royal Signals and Radar Establishment in Malvern as a part of a demonstration of networking technology.",
+      "links" : [
+         "http://www.computerhistory.org/timeline/?category=net"
+      ],
+      "year" : "1976"
+   },
+   {
+      "text" : "The \"Melissa\" worm showed up in a file on the alt.sex usenet group and became the first successful mass-mailing worm. The worm's creator, David L. Smith, apparently named the worm after a lap dancer in Florida.",
+      "links" : [
+         "http://www.sans.org/security-resources/idfaq/what_melissa_teaches_us.php"
+      ],
+      "year" : "1999"
+   }
+]

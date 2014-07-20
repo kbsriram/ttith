@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "Luna 10 became the first spacecraft to enter lunar orbit. It completed its first orbit in two hours 58 minutes.",
+      "links" : [
+         "http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1966-027A"
+      ],
+      "year" : "1966"
+   },
+   {
+      "text" : "Martin Cooper, general manager of Motorola's Communications Systems Division made the first handheld portable phone call from a New York City street to Joel S. Engel at rival Bell Labs. Presumably he gloated at least a little.",
+      "links" : [
+         "http://inventors.about.com/cs/inventorsalphabet/a/martin_cooper.htm"
+      ],
+      "year" : "1973"
+   },
+   {
+      "text" : "Adam Osborne unveiled the Osborne 1 at the West Coast Computer Faire in San Francisco. It cost $1,795 at retail.",
+      "links" : [
+         "http://www.pcmag.com/article2/0,2817,2383022,00.asp"
+      ],
+      "year" : "1981"
+   },
+   {
+      "text" : "U.S. District Judge Thomas Penfield Jackson ruled Microsoft violated the nation's antitrust laws by using its monopoly position in personal computer operating systems to stifle competition.",
+      "links" : [
+         "http://money.cnn.com/2000/04/03/technology/microsoft_report/"
+      ],
+      "year" : "2000"
+   }
+]

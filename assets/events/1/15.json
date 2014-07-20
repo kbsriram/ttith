@@ -1,0 +1,24 @@
+[
+   {
+      "text" : "Ferdinand Braun published a paper in the journal Annalen der Physik und Chemie describing his \"Braun tube\", the first cathode-ray oscilloscope, which paved the way for the modern CRT.",
+      "links" : [
+         "http://www.radarworld.org/history.pdf",
+         "http://www.crtsite.com/Annalen%20der%20Physik.html"
+      ],
+      "year" : "1897"
+   },
+   {
+      "text" : "A few days after its first public demonstration, the first practical all-digital computer, ENIAC was formally dedicated.",
+      "links" : [
+         "http://www.ushistory.org/more/eniac/public.htm"
+      ],
+      "year" : "1946"
+   },
+   {
+      "text" : "The FBI arrested Kevin Mitnick on charges of wire fraud and breaking into the computer systems of several major corporations.",
+      "links" : [
+         "http://www.wired.com/thisdayintech/2012/02/feb-15-1995-mitnick-arrested/"
+      ],
+      "year" : "1995"
+   }
+]

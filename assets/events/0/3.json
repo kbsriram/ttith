@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "Hamilton Electric held a press conference to announce the World's First Electronic Watch. The Hamilton Electric 500 never needed winding, just batteries.",
+      "links" : [
+         "http://www.thewatchguy.com/pages/HAMILTONELECT.html"
+      ],
+      "year" : "1957"
+   },
+   {
+      "text" : "Steve Jobs and Steve Wozniak incorporated Apple Computer Company. Ron Wayne famously backed out, selling his shares for $800. Ouch.",
+      "links" : [
+         "http://investor.apple.com/faq.cfm?FaqSetID=6"
+      ],
+      "year" : "1977"
+   },
+   {
+      "text" : "The US Mars Polar Lander was launched. It would spend most of the year wending its way towards Mars before it lost communication with Earth in December, presumably after crashing.",
+      "links" : [
+         "http://mars.jpl.nasa.gov/msp98/lander/"
+      ],
+      "year" : "1999"
+   },
+   {
+      "text" : "\"Satoshi Nakamoto\" created a virtual currency called Bitcoin posting an announcement and 31,000 lines of code on the Internet.",
+      "links" : [
+         "http://www.newyorker.com/reporting/2011/10/10/111010fa_fact_davis"
+      ],
+      "year" : "2009"
+   }
+]

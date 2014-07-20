@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "The Soviet Union launched Sputnik I, becoming the first artificial satellite to orbit the Earth, and motivating the US to get into gear and heat up the space race.",
+      "links" : [
+         "http://history.nasa.gov/sputnik/"
+      ],
+      "year" : "1957"
+   },
+   {
+      "text" : "Richard Stallman started a non-profit corporation called the Free Software Foundation, dedicated to promoting the universal freedom to create, distribute and modify computer software. The FSF among other things, enforces the copyleft requirements of the GNU General Public License often referred to as the GPL.",
+      "links" : [
+         "http://www.linkedin.com/company/free-software-foundation"
+      ],
+      "year" : "1985"
+   },
+   {
+      "text" : "SpaceShipOne returned from its third journey, a reusable spacecraft that could carry passengers beyond the earth's atmosphere. It won the $10 million Ansari X prize for private spaceflight.",
+      "links" : [
+         "http://blogs.smithsonianmag.com/aroundthemall/2010/10/october-4-2004-spaceshipone-wins-10-million-x-prize/"
+      ],
+      "year" : "2004"
+   }
+]

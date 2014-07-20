@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "MIT introduced the cryotron, the first practical demonstration of superconductivity, invented by Dudley Allen Buck. The Cryotron paved the way for the integrated circuit which used semiconductivity.",
+      "links" : [
+         "http://www.aps.org/publications/apsnews/201202/physicshistory.cfm"
+      ],
+      "year" : "1957"
+   },
+   {
+      "text" : "Jack Kilby of Texas Instruments filed a patent for miniaturized electronic circuits, the first patent for what we now call integrated circuits.",
+      "links" : [
+         "http://www.google.com/patents?id=O89pAAAAEBAJ&printsec=abstract&zoom=4#v=onepage&q&f=false"
+      ],
+      "year" : "1959"
+   },
+   {
+      "text" : "Apollo 14's Lunar Module lifted off from the moon returning astronauts Alan Shepard and Edgar Mitchell to the Command Module. Shepard had made extra history by becoming the first human to hit a golf ball on the moon.",
+      "links" : [
+         "http://www.nasm.si.edu/collections/imagery/apollo/as14/a14sum.htm"
+      ],
+      "year" : "1971"
+   }
+]

@@ -1,0 +1,30 @@
+[
+   {
+      "text" : "Daniel Kottke was born in Bronxville, New York. He would go on to befriend Steve Jobs at Reed College, assemble the first Apple Computers with Steve Wozniak and work on the original Macintosh team.",
+      "links" : [
+         "http://en.wikipedia.org/wiki/Daniel_Kottke"
+      ],
+      "year" : "1954"
+   },
+   {
+      "text" : "Bill Gates and Paul Allen formed a partnership in Albuquerque New Mexico. The venture was later named Micro-soft.",
+      "links" : [
+         "http://news.bbc.co.uk/2/hi/business/5085630.stm"
+      ],
+      "year" : "1975"
+   },
+   {
+      "text" : "Marc Andreessen and Jim Clark founded Mosaic Communications Corp, which they later renamed Netscape Communications Corp. Andreesen developed the Mosaic browser while at the National Center for Supercomputing Applications (NCSA) at the University of Illinois.",
+      "links" : [
+         "http://www.computerhistory.org/tdih/April/4/"
+      ],
+      "year" : "1994"
+   },
+   {
+      "text" : "Facebook announced Facebook Home, an integarted Android app that took over the home and lock screens. The HTC First would come April 12 as the first featured Facebook Phone to run Home.",
+      "links" : [
+         "http://news.cnet.com/8301-1035_3-57577970-94/facebook-home-launches-april-12-on-htc-samsung-phones/"
+      ],
+      "year" : "2013"
+   }
+]

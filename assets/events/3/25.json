@@ -1,0 +1,31 @@
+[
+   {
+      "text" : "Lt. Carter Harman of the 1st Air Commando Group rescued four men from the jungle in Burma, flying a Sikorsky YR-4 helicopter. It was the first combat rescue by helicopters in the U.S. Army Air Forces.",
+      "links" : [
+         "http://www.pacaf.af.mil/shared/media/document/AFD-090422-085.pdf"
+      ],
+      "year" : "1944"
+   },
+   {
+      "text" : "Watson and Crick presented their findings on the double helical structure of DNA in the publication Nature. They noted that the structure \"suggests a possible copying mechanism for the genetic material.\" 50 Years later the Human Genome Project had concluded sequencing the genome and published a follow-on in Nature on their vision for genetic research.",
+      "links" : [
+         "http://www.nature.com/nature/dna50/archive.html",
+         "http://www.genome.gov/11006929"
+      ],
+      "year" : "1953"
+   },
+   {
+      "text" : "Robert Noyce received the US patent for the silicon-based integrated circuit. He went on to found the Intel Corporation with Gordon E. Moore in 1968. Noyce fought a long patent rights battle with Jack Kilby who invented a germanium based integrated circuit.",
+      "links" : [
+         "http://www.pbs.org/transistor/background1/events/icinv.html"
+      ],
+      "year" : "1961"
+   },
+   {
+      "text" : "Microsoft completed its acquisition of Nokia's handset business. Nokia retained its mapping, research and network infrastructure business. Microsoft gained most of the mobile phone parts of the company.",
+      "links" : [
+         "http://www.cnet.com/news/microsoft-closes-nokia-deal-pays-more-than-expected/#ftag=CAD590a51e"
+      ],
+      "year" : "2014"
+   }
+]

@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "TV viewers witnessed the live detonation of an atomic bomb blast, as KTLA in Los Angeles broadcast the explosion of a nuclear device dropped on Frenchman Flats, Nevada.",
+      "links" : [
+         "http://www.wired.com/thisdayintech/2010/02/0201ktla-atomic-test/"
+      ],
+      "year" : "1951"
+   },
+   {
+      "text" : "Hewlett-Packard introduced the first scientific handheld calculator, the famous HP-35 for $395. It was the first handheld calculator to perform logarithmic and trigonometric functions with one keystroke.",
+      "links" : [
+         "http://www.vintagecalculators.com/html/the_hp-35_calculator.html"
+      ],
+      "year" : "1972"
+   },
+   {
+      "text" : "Shortly after its founding the November before, the Search for Extraterrestrial Intelligence kicked off. SETI Institute began operations.",
+      "links" : [
+         "http://info.setistars.org/about/"
+      ],
+      "year" : "1985"
+   }
+]

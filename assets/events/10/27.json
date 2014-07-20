@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "The Soviet Union's Mars 2 orbiter released its descent module which probably had too steep an angle of entry, and malfunctioned and crashed. But hey, it was still the first manmade object to reach the surface of Mars.",
+      "links" : [
+         "http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1971-045A"
+      ],
+      "year" : "1971"
+   },
+   {
+      "text" : "Microsoft released Internet Explorer 2.0, touting its privacy and encryption, and stepping up the browser war with Netscape.",
+      "links" : [
+         "http://www.computerhistory.org/tdih/November/27/"
+      ],
+      "year" : "1995"
+   },
+   {
+      "text" : "Scientists announced they had used the Hubble telescope to detect and analyze the atmosphere on an extrasolar planet for the first time. The planet HD 209458 b, unofficially called Osiris was found to have sodium in its atmosphere.",
+      "links" : [
+         "http://science.nasa.gov/science-news/science-at-nasa/2001/ast27nov_1/"
+      ],
+      "year" : "2001"
+   }
+]

@@ -1,0 +1,23 @@
+[
+   {
+      "text" : "Thomas Edison finished up 14 months of testing with an incandescent electric light bulb that lasted 13.5 hours. It improved on 50-year-old technology to make light bulbs safe and economical by using lower electricity, a carbon filament and an improved vacuum.",
+      "links" : [
+         "http://learning.blogs.nytimes.com/2011/10/21/oct-21-1879-thomas-edison-lights-the-lamp/"
+      ],
+      "year" : "1879"
+   },
+   {
+      "text" : "An Wang filed a patent for a magnetic ferrite core memory, that he called pulse transfer controlling devices. Two years later he formed Wang computers.",
+      "links" : [
+         "http://www.google.com/patents?id=JSNjAAAAEBAJ&printsec=abstract&zoom=4#v=onepage&q&f=false"
+      ],
+      "year" : "1949"
+   },
+   {
+      "text" : "The seventeenth General Conference on Weights and Measures ruled the meter would be defined as the distance light travels in a vacuum in 1/299,792,458 of a second, simplifying it from the previous definition of 1,650,763.73 wavelengths of the orange-red emission line in the electromagnetic spectrum of the krypton-86 atom in a vacuum.",
+      "links" : [
+         "http://arxiv.org/pdf/0810.3512.pdf"
+      ],
+      "year" : "1983"
+   }
+]
