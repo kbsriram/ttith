@@ -3,6 +3,7 @@ package com.kbsriram.ttith.android.data;
 // This code converts our daily event data json into something that's
 // convenient for java to handle.
 
+import android.content.Context;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
@@ -36,18 +37,27 @@ public class CJSONDatabase
         private final String[] m_links;
     }
 
-    public final static List<Event> getEvents(InputStream in)
+    public final static synchronized List<Event> getEvents
+        (Context ctx, int month, int day)
         throws IOException, JSONException
     {
+        if ((s_month == month) && (s_day == day)) {
+            return shallowCopy(s_events);
+        }
+
         ByteArrayOutputStream baout = new ByteArrayOutputStream();
         byte[] buf = new byte[8192];
+        InputStream in = null;
         try {
-            int nread;
-            while ((nread = in.read(buf)) > 0) {
-                baout.write(buf, 0, nread);
+            in = ctx.getAssets().open("events/"+month+"/"+day+".json");
+            if (in != null) {
+                int nread;
+                while ((nread = in.read(buf)) > 0) {
+                    baout.write(buf, 0, nread);
+                }
+                in.close();
+                in = null;
             }
-            in.close();
-            in = null;
 
             JSONTokener jtok = new JSONTokener
                 (new String(baout.toByteArray(), "utf-8"));
@@ -56,11 +66,15 @@ public class CJSONDatabase
                 throw new JSONException("Unexpected - not an array");
             }
             JSONArray events = (JSONArray) obj;
-            List<Event> ret = new ArrayList<Event>(events.length());
+            List<Event> nevents = new ArrayList<Event>(events.length());
             for (int i=0; i<events.length(); i++) {
-                ret.add(asEvent(events.getJSONObject(i)));
+                nevents.add(asEvent(events.getJSONObject(i)));
             }
-            return ret;
+            // Commit to our answer at this point.
+            s_day = day;
+            s_month = month;
+            s_events.clear();
+            s_events.addAll(nevents);
         }
         finally {
             if (in != null) {
@@ -68,6 +82,7 @@ public class CJSONDatabase
                 catch (IOException ign) {}
             }
         }
+        return shallowCopy(s_events);
     }
 
     private final static Event asEvent(JSONObject data)
@@ -83,4 +98,14 @@ public class CJSONDatabase
         return new Event(year, text, links);
     }
 
+    private final static List<Event> shallowCopy(List<Event> events)
+    {
+        List<Event> ret = new ArrayList<Event>(events.size());
+        ret.addAll(events);
+        return ret;
+    }
+
+    private final static List<Event> s_events = new ArrayList<Event>();
+    private static int s_month = -1;
+    private static int s_day = -1;
 }

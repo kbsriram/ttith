@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <!-- use the head commitid for the version.name, which
+  is propagated into the generated manifest file. -->
+  <exec executable="git" outputproperty="version.name">
+    <arg value="rev-parse"/>
+    <arg value="--short"/>
+    <arg value="HEAD"/>
+  </exec>
+</project>

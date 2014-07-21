@@ -50,7 +50,8 @@ public class CStackViewService extends RemoteViewsService
             for (CJSONDatabase.Event ev: events) {
                 s_entries.add
                     (Html.fromHtml
-                     ("<b>"+ev.getYear()+ "</b> - "+ev.getText()+
+                     ("<font color=\"#a92121\"><b>"+
+                      ev.getYear()+ "</b></font> - "+ev.getText()+
                       TRAILING_HACK));
                 String[] links = ev.getLinks();
                 if ((links != null) && (links.length > 0)) {
@@ -104,21 +105,20 @@ public class CStackViewService extends RemoteViewsService
     private final static List<CJSONDatabase.Event> getEvents
         (Context ctx, GregorianCalendar cal)
     {
-        String db_file = "events/"+cal.get(Calendar.MONTH)+"/"
-            +cal.get(Calendar.DAY_OF_MONTH)+".json";
+        int mon = cal.get(Calendar.MONTH);
+        int day = cal.get(Calendar.DAY_OF_MONTH);
 
         List<CJSONDatabase.Event> ret = null;
 
         // skip errors, in case my db is incomplete.
         try {
-            ret = CJSONDatabase.getEvents
-                (ctx.getAssets().open(db_file));
+            ret = CJSONDatabase.getEvents(ctx, mon, day);
         }
         catch (IOException ioe) {
-            CUtils.LOGD(TAG, "Skip bad: "+db_file, ioe);
+            CUtils.LOGD(TAG, "Skip bad: "+mon+"/"+day, ioe);
         }
         catch (JSONException jse) {
-            CUtils.LOGD(TAG, "Skip bad: "+db_file, jse);
+            CUtils.LOGD(TAG, "Skip bad: "+mon+"/"+day, jse);
         }
         return ret;
     }

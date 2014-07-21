@@ -1,10 +1,15 @@
 package com.kbsriram.ttith.android.activity;
 
 import android.app.Activity;
+import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
+import android.os.AsyncTask;
 import android.os.Bundle;
 import android.view.LayoutInflater;
+import android.view.Menu;
+import android.view.MenuInflater;
+import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
@@ -42,10 +47,40 @@ public class CStartActivity extends Activity
     }
 
     @Override
+    public boolean onCreateOptionsMenu(Menu menu)
+    {
+        MenuInflater inflater = getMenuInflater();
+        inflater.inflate(R.menu.main_actions, menu);
+        return super.onCreateOptionsMenu(menu);
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item)
+    {
+        switch (item.getItemId()) {
+        case R.id.action_about:
+            startActivity(new Intent(this, CAboutActivity.class));
+            return true;
+        default:
+            return super.onOptionsItemSelected(item);
+        }
+    }
+
+    @Override
     public void onResume()
     {
         super.onResume();
         maybeUpdateAdapter();
+    }
+
+    @Override
+    public void onDestroy()
+    {
+        if (m_dataloader != null) {
+            m_dataloader.setParent(null);
+            m_dataloader = null;
+        }
+        super.onDestroy();
     }
 
     private final void showLink(int pos)
@@ -79,25 +114,19 @@ public class CStartActivity extends Activity
             (cal.getDisplayName
              (Calendar.MONTH, Calendar.SHORT, Locale.getDefault())+ " "+day);
 
-        String db_file = "events/"+mon+"/"+day+".json";
-        List<CJSONDatabase.Event> events;
-        try {
-            events = CJSONDatabase.getEvents(getAssets().open(db_file));
+        // Unless we have an existing loader in progress
+        if (m_dataloader == null) {
+            m_dataloader = new DataLoader(this, mon, day);
+            m_dataloader.execute();
         }
-        catch (IOException ioe) {
-            CUtils.LOGD(TAG, "Skip bad: "+db_file, ioe);
-            return;
-        }
-        catch (JSONException jse) {
-            CUtils.LOGD(TAG, "Skip bad: "+db_file, jse);
-            return;
-        }
-
+    }
+    private void setData(List<CJSONDatabase.Event> events, int mon, int day)
+    {
+        m_dataloader = null;
         m_month = mon;
         m_day = day;
         if (events != null) {
-            m_events.clear();
-            m_events.addAll(events);
+            m_events = events;
             m_adapter.notifyDataSetChanged();
         }
     }
@@ -148,9 +177,60 @@ public class CStartActivity extends Activity
         }
     }
 
+    private final static class DataLoader
+        extends AsyncTask<Void,Void,List<CJSONDatabase.Event>>
+    {
+        private DataLoader(CStartActivity parent, int mon, int day)
+        {
+            m_parent = parent;
+            m_mon = mon;
+            m_day = day;
+            m_ctx = parent.getApplicationContext();
+        }
+
+        @Override
+        protected List<CJSONDatabase.Event> doInBackground(Void... ignore)
+        {
+            List<CJSONDatabase.Event> ret = null;
+            try {
+                ret = CJSONDatabase.getEvents(m_ctx, m_mon, m_day);
+            }
+            catch (IOException ioe) {
+                CUtils.LOGD(TAG, "Skip bad: "+m_mon+"/"+m_day, ioe);
+            }
+            catch (JSONException jse) {
+                CUtils.LOGD(TAG, "Skip bad: "+m_mon+"/"+m_day, jse);
+            }
+            return ret;
+        }
+
+        @Override
+        protected void onPostExecute(List<CJSONDatabase.Event> ev)
+        {
+            synchronized(this) {
+                if (m_parent != null) {
+                    m_parent.setData(ev, m_mon, m_day);
+                }
+            }
+        }
+
+        private void setParent(CStartActivity parent)
+        {
+            synchronized(this) {
+                m_parent = parent;
+            }
+        }
+
+        private CStartActivity m_parent;
+        private final Context m_ctx;
+        private final int m_mon;
+        private final int m_day;
+    }
+
+    private DataLoader m_dataloader = null;
     private int m_month = -1;
     private int m_day = 0;
-    private final List<CJSONDatabase.Event> m_events =
+    private List<CJSONDatabase.Event> m_events =
         new ArrayList<CJSONDatabase.Event>();
     private final EventAdapter m_adapter = new EventAdapter();
     private LayoutInflater m_inflater;

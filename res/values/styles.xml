@@ -5,6 +5,10 @@
     <item name="android:textSize">@dimen/text_size_small</item>
   </style>
 
+  <style name="BodyText">
+    <item name="android:textSize">@dimen/text_size_medium</item>
+  </style>
+
   <style name="MainTheme" parent="android:Theme.Holo.Light">
     <item name="android:actionBarStyle">@style/FlatActionBar</item>
   </style>

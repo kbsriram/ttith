@@ -2,8 +2,7 @@
 <manifest
     xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.kbsriram.ttith.android"
-    android:versionCode="1"
-    android:versionName="1.0">
+    android:versionCode="3">
   <uses-sdk android:minSdkVersion="12"
             android:targetSdkVersion="19"/>
   <supports-screens
@@ -25,6 +24,11 @@
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
+    <activity
+        android:name=".activity.CAboutActivity"
+        android:label="@string/about_title"
+        android:logo="@color/transparent"
+        android:exported="false"/>
 
     <receiver android:name=".provider.CWidgetProvider">
       <intent-filter>

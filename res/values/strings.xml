@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">Today in Tech History</string>
+  <string name="about_title">About</string>
+  <string name="about_version">This is version %1$s of the Today in Tech History app.</string>
+  <string name="about_para1">The content comes from <a href="http://tommerritt.com">Tom Merritt\'s</a> <i>A Chronology of Tech History</i>, <a href="https://archive.org/details/ChronologyOfTechHistory">an ebook</a> he generously released under a Creative Commons <a href="https://creativecommons.org/licenses/by-sa/3.0/">licence</a>.</string>
+  <string name="about_para2">Quoting from his introduction:</string>
+  <string name="about_para3"><i>Get ready for an excellent true story of geeky stuff being discovered, ignored, developed, misused, used right, triumphing and sometimes falling back to Earth. Literally.</i></string>
+  <string name="about_para4"><i>You\'re going to see rockets that go from experiments to weapons to spaceships. You\'ll see broadcasting technologies go from sputtering patents to curiosities that barely work to become major media businesses. You\'ll see the beginnings of computers as behemoths belching punch cards right through to the to the launch of the Internet.</i></string>
+  <string name="about_para5"><i>There\'s also some stuff about weather and the metric system. Because geeks like measuring things.</i></string>
+  <string name="about_para6"><i>It\'s factual however in that every entry was actually researched to find a primary source, or failing that, a trustworthy secondary source. I have a high level of confidence that what is described actually happened on these dates. See <a href="https://docs.google.com/document/pub?id=1Rvh4vtiP1bIPGtbm_r37xR-IrL_ZAhgflqsniEGonqQ">[this link for]</a> the citations.</i></string>
+  <string name="about_para7">Tom also hosts <a href="http://www.tommerritt.com/subscribe-to-stuff/">several great podcasts</a>, including the <a href="http://www.dailytechnewsshow.com/">Daily Tech News Show</a> - a quick summary of current tech news together with his trademark meticulous research and analysis.</string>
+  <string name="about_para8">Thanks Tom! Oh, and this app is itself available with full source under a <a href="https://github.com/kbsriram/ttith/blob/master/LICENSE.md">permissive licence</a> and hosted <a href="https://github.com/kbsriram/ttith">on github</a>.</string>
+  <string name="about_para9"><i><a href="http://kbsriram.com">KB Sriram</a></i></string>
 </resources>
