@@ -64,17 +64,29 @@ public class CStackViewService extends RemoteViewsService
         }
     }
 
-    private final static int getItemCount()
+    // For situations where we might be called upon to furnish data
+    // but somehow have never initialized ourselves.
+    private final static void maybeUpdateEntries(Context ctx)
     {
         synchronized (s_entries) {
+            if (s_day > 0) { return; }
+            refreshData(ctx);
+        }
+    }
+
+    private final static int getItemCount(Context ctx)
+    {
+        synchronized (s_entries) {
+            maybeUpdateEntries(ctx);
             return s_entries.size();
         }
     }
 
-    private final static CharSequence getItemText(int pos)
+    private final static CharSequence getItemText(Context ctx, int pos)
     {
         CharSequence ret = null;
         synchronized (s_entries) {
+            maybeUpdateEntries(ctx);
             if (s_entries.size() > 0) {
                 if (pos >= s_entries.size()) { // sanity
                     pos = (pos % s_entries.size());
@@ -86,9 +98,10 @@ public class CStackViewService extends RemoteViewsService
         return ret;
     }
 
-    private final static Uri getItemLink(int pos)
+    private final static Uri getItemLink(Context ctx, int pos)
     {
         synchronized (s_entries) {
+            maybeUpdateEntries(ctx);
             if (s_entries.size() > 0) {
                 if (pos >= s_entries.size()) { // sanity
                     pos = (pos % s_entries.size());
@@ -142,7 +155,7 @@ public class CStackViewService extends RemoteViewsService
         public void onDataSetChanged() { }
 
         public int getCount()
-        { return getItemCount(); }
+        { return getItemCount(m_ctx); }
 
         public int getViewTypeCount()
         { return 1; }
@@ -154,7 +167,7 @@ public class CStackViewService extends RemoteViewsService
         {
             RemoteViews rv =
                 new RemoteViews(m_ctx.getPackageName(), R.layout.widget_item);
-            rv.setTextViewText(R.id.widget_item_tv, getItemText(pos));
+            rv.setTextViewText(R.id.widget_item_tv, getItemText(m_ctx, pos));
             if (s_day > 0) {
                 rv.setTextViewText
                     (R.id.widget_item_day, Integer.toString(s_day));
@@ -162,7 +175,7 @@ public class CStackViewService extends RemoteViewsService
             if (s_month != null) {
                 rv.setTextViewText(R.id.widget_item_month, s_month);
             }
-            Uri link = getItemLink(pos);
+            Uri link = getItemLink(m_ctx, pos);
             if (link != null) {
                 Intent fill = new Intent();
                 fill.setData(link);

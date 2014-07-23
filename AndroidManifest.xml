@@ -2,7 +2,7 @@
 <manifest
     xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.kbsriram.ttith.android"
-    android:versionCode="3">
+    android:versionCode="4">
   <uses-sdk android:minSdkVersion="12"
             android:targetSdkVersion="19"/>
   <supports-screens
